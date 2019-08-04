@@ -1,0 +1,4229 @@
+"NEUROLOGY 
+
+& 
+
+NEUROSURGERY 
+
+NEED 
+
+SPECIFICATION DOCUMENTS 
+
+These unmet clinical needs were identified following an 8-week clinical immersion that was 
+
+conducted by a team in Neurology and Neurosurgery. The clinical immersion was conducted in 
+
+high volume tertiary care centers in South India. We observed what's done and how it affects 
+
+the provider, the patient, and the system. This was followed by a peripheral immersion to 
+
+numerous primary, secondary and tertiary health care centers across India. The clinical needs 
+
+found in the tertiary care hospital were validated in other large centers and new primary and 
+
+secondary specific unmet needs were added on. At the end of 2 months of clinical immersion, 
+
+the team had over 30 detailed observations with significant negative outcomes and 40 unmet 
+
+clinical needs. These needs were then filtered using objective parameters, detailed below: 
+
+THE FILTERING PROCESS: 3 STAGES OF FILTERING 
+
+Level 1: The level 1 filter eliminated those needs which are redundant, pharmaceutical related 
+
+or process related.  
+
+Level 2: This level of filtering focused on the severity of the clinical condition (in the perception 
+
+of observers and clinicians) as well as the epidemiology of the disease and the frequency of the 
+
+negative outcome. This data was then validated by a comprehensive 
+
+literature review of 
+
+incidence and prevalence data. A scoring system of 1 – 3 – 5 was used through the process. 
+
+Epidemiology 
+
+● 
+
+Frequency of problem as per clinician (number of cases per month)  
+
+● 
+
+● 
+
+● 
+
+< 5 patients per month  
+
+6-12 patients per month  
+
+>13 patients per month  
+
+= 1 
+
+= 3 
+
+= 5 
+
+● 
+
+Frequency of problem as per observers (number of cases seen per month during the 
+
+clinical immersion) 
+
+● 
+
+● 
+
+● 
+
+< 2 patients per month  
+
+2-5 patients per month  
+
+>5 patients per month   
+
+= 1  
+
+= 3 
+
+= 5 
+
+Criticality 
+
+● 
+
+Short 
+
+lasting, 
+
+reversible: Not 
+
+resulting 
+
+in 
+
+death, 
+
+disability, 
+
+hospitalization, 
+
+or 
+
+socioeconomic stress  
+
+= 1 
+
+● 
+
+Resulting in death, hospitalization >3 days, disability/ handicap (> 6 months), large 
+
+financial burden to the patient/family = 5 
+
+● 
+
+Needs in between 1 and 5  
+
+= 3 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","Observed Epidemiology and criticality score: 3 (Frequency of clinician) + Frequency of 
+
+observer + 3 (Criticality score) 
+
+Target patient population in a given year: We used data wherever available for India. 
+
+However, in many cases due to the dearth of validated health statistics, certain assumptions had 
+
+to be made using a combination of data from India and global epidemiological data. 
+
+● 
+
+● 
+
+● 
+
+<100,000 patients/year  
+
+= 1 
+
+100,000 – 500,000 patients/year  = 3 
+
+>500,000 patients/year  
+
+= 5 
+
+Secondary research-based epidemiology and criticality score: Target patient population * 
+
+Criticality score 
+
+Filter 2 score: Subjective epidemiology and criticality score + secondary research-based 
+
+epidemiology and criticality score (out of 10) 
+
+Level 3: The third level of filtering evaluated the technical complexity of the solutions available, 
+
+the regulatory landscape and the buyer environment.  
+
+Number of predicates: This was made based on the solutions which currently exist as per 
+
+guidelines and those being used in the Indian clinical setting. Both at prevailing practice as well 
+
+as gold standards were considered. 
+
+● 
+
+High number of predicates i.e. >5  
+
+● Medium number of predicates i.e. 1 to 5 
+
+● 
+
+No predicates   
+
+= 1 
+
+= 3 
+
+= 5 
+
+Technical complexity of predicates: This filter considered the technology behind the solution 
+
+as well as 
+
+the expertise needed 
+
+to 
+
+implement 
+
+it 
+
+in current clinical practice. A medium 
+
+complexity solution is rated the highest, followed by low complexity and lastly by a highly 
+
+complex solution.  
+
+● 
+
+High  
+
+● Medium  
+
+● 
+
+Low  
+
+=1 
+
+=5 
+
+=3 
+
+Regulatory and clinical trial complexity: This filter was based on the regulatory hurdles and 
+
+clinical trials one would have to conduct for a particular solution. It was a judgment call based 
+
+on the current predicates in the system and the classification of devices as per the Global 
+
+Harmonisation Task Force classification (Class A - Low Risk, Class B - Low to Moderate Risk, 
+
+Class C - Moderate to High Risk, Class D - High Risk) 
+
+● 
+
+High (Class D)   
+
+● Medium (Class C)  
+
+● 
+
+Low (Class A & B) 
+
+=1 
+
+=3 
+
+=5 
+
+Buyer environment: This filter was based on the eventual buyer of a particular medical 
+
+solution. This, 
+
+in turn, depended on which 
+
+level 
+
+in the healthcare system the particular 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","condition was treated. The peripheral immersion helped to understand, more thoroughly, the 
+
+referral system in India which defined this filter. 
+
+● 
+
+High (Tertiary Care Centre)  
+
+● Medium (Secondary Centre)  
+
+● 
+
+Low (Individual/Primary centre) 
+
+= 5 
+
+= 3 
+
+= 1 
+
+Filter 3 score = Number of predicates score + Technical complexity of predicates score + 
+
+Regulatory and clinical trial complexity score + Buyer environment score 
+
+Final Score = Filter 2 score + (Filter 3)/4 (Out of 15) 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NEED SPECIFICATION DOCUMENTS 
+
+NEUROLOGY & NEUROSURGERY 
+
+1. VENTILATOR-ASSOCIATED PNEUMONIA 
+
+BACKGROUND 
+
+Ventilator Associated Pneumonia (VAP) 
+
+is a 
+
+lung 
+
+infection caused due to a patient being 
+
+ventilated on a mechanical ventilator 1. Typically this occurs in cases of long-term ventilated 
+
+patients. Long-term can be as short as 3-4 days or even after 3-4 weeks of being on a ventilator. 
+
+There are several causes of VAP including poor immunity of the patient, oral secretions trickling 
+
+down the trachea, poor patient hygiene etc. VAP is one of the most common Hospital Acquired 
+
+Infections (HAI) and accounts for more than half of all Hospital-acquired Pneumonia infections. 
+
+2 This increases the patient’s stay at the hospital and delays recovery and rehabilitation. Several 
+
+patients die annually from VAP in India which is commonly caused by multidrug-resistant 
+
+organisms.   
+
+OBSERVATION 
+
+Presentation 
+
+A 41-year-old male came into the Neuro-emergency ward of a tertiary care hospital in an 
+
+ambulance after being involved in a road traffic accident. There was no external bleeding.  
+
+History 
+
+The patient had no history of Hypertension, Diabetes, or any other co-morbidity. 
+
+Treatment 
+
+An emergency CT scan revealed an epidural hematoma that was causing compression on the 
+
+brain. There was a slight mid-line shift. The patient’s Glasgow Coma Scale (GCS) score was 
+
+11/15. The patient was taken for a Decompression surgery via Craniotomy. The hematoma was 
+
+successfully evacuated. 
+
+ Due to poor respiratory effort post-surgery, the patient had to be 
+
+intubated and was put on mechanical ventilation. The neurosurgeon said 
+
+that 
+
+the poor 
+
+respiratory effort was due to pulmonary edema secondary to Trauma Brain Injury (TBI). The 
+
+patient was put on prophylactic antibiotics due to an External Ventricular Drain (EVD) catheter 
+
+that was inserted to lower increased intra-cranial pressure.  
+
+On Post-op day 7 (POD7), the patient contracted Pneumonia (VAP). Sputum cultures were sent 
+
+to labs for culture sensitivity tests. Labs came positive for Pseudomonas infection. The patient 
+
+had to be put on stronger antibiotics because the infection had developed antibiotic resistance. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","The infection took 13 days to completely clear out. The patient was extremely weak and could 
+
+barely move his hands or 
+
+legs. The patient was put on Deep Vein Thrombosis (DVT) 
+
+Prophylaxis. 
+
+On POD14, the patient developed Urinary Tract Infection (UTI). Cultures came positive for E. coli 
+
+infection. The patient was put on further antibiotics (Fosfomycin) for treating the UTI.  
+
+Until POD23, the patient was on the ventilator. Patient's postoperative (post-op) GCS was 9/15 
+
+(with minor fluctuations) until POD21. GCS was checked when the patient was vacated from 
+
+sedation daily to assess for extubation. The patient’s respiratory effort was gradually improving 
+
+and the brain inflammation was slowing reducing.  
+
+Patient’s GCS started declining on POD22 morning to 8/15. Although the patient could breathe 
+
+by himself, the secondary brain damage had led to hypoxia in certain parts of the brain. MRI 
+
+revealed hypoxia in several parts of the brain. The patient's GCS dropped to 6/15 by evening. 
+
+Doctors had given up hope of reviving the patient due to severe secondary injury. The patient 
+
+died on POD22 night.  
+
+THE PROBLEM 
+
+Hospital-acquired pneumonia (HAP) is pneumonia that develops 48 hours or longer after 
+
+admission to a hospital. HAP is the second most common nosocomial infection. HAP increases a 
+
+patient's hospital stay by approximately 7-9 days and can increase hospital costs by an average 
+
+of $40,000 per patient. 1,2 
+
+Ventilator associated pneumonia is one such HAP. The diagnostic triad for VAP consists of the 
+
+following clinical criteria: Pulmonary infection, bacteriologic evidence of pulmonary infection 
+
+and radiologic suggestion of pulmonary infection. When the combination of radiologic infiltrates 
+
+and 2 clinical criteria are observed, the sensitivity of diagnosing VAP is 69% and the specificity 
+
+is 75%. VAP is commonly associated with multidrug-resistant pathogens. The risk factors for 
+
+developing a resistant infection include: Hospitalization admission of greater than 5 days, 
+
+hospital admission more than 2 days in the preceding 90 days, antibiotic use in the previous 90 
+
+days, residence in a nursing home or extended-care facility, home infusion therapy and wound 
+
+care, 
+
+long-term dialysis within 30 days and 
+
+immunocompromised. Ventilator Associated 
+
+Pneumonia (VAP) is currently prevented by following the ventilator bundle 3. The bundle 
+
+involves elevation of the patient’s head to 30-45 degrees, assessment of readiness to extubate, 
+
+peptic ulcer prophylaxis and deep vein 
+
+thrombosis 
+
+(DVT) prophylaxis. 
+
+In addition, 
+
+the 
+
+dedicated ICU nurse periodically suctions the subglottic and oropharynx region and also does 
+
+an oral lavage with chlorhexidine (disinfectant). Studies have shown that the ventilator bundle 
+
+has reduced the incidence of VAP cases. However, in spite of this prophylactic management, a 
+
+large number of patient’s still contract VAP due to an ineffective protocol.  
+
+NEED STATEMENT  
+
+A way to reduce the incidence of Ventilator Associated Pneumonia (VAP) in long-term intubated 
+
+patients at THCs to prevent prolonged stay at hospital or death 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","FILTERING PROCESS 
+
+Final Score = 29 
+
+Rank = 1 
+
+MARKET POTENTIAL  
+
+India has an incidence of around 30 VAP infections per 1000 ventilator days. More than 3 lakh 
+
+people die annually from VAP and related complications. 3, 4 VAP occurs in 9-27% of all 
+
+mechanically ventilated patients. Ventilator-associated pneumonia (VAP) is a complication in as 
+
+many as 28% of patients who receive mechanical ventilation. The incidence of VAP increases 
+
+with the duration of mechanical ventilation. Estimated rates are 3% per day for the first 5 days, 
+
+2% per day for days 6-10, and 1% per day after day 10. The crude mortality rate for VAP is 27-
+
+76%. 1  
+
+COMPETITIVE LANDSCAPE 
+
+VAP is prevented by minimizing the patient’s exposition to bacteria. This involves 
+
+maintaining a sterile environment around the patient in the Intensive Care Unit (ICU). 
+
+Adherence to the VAP bundle protocol, along with regular oral and larynx disinfection 
+
+using chlorhexidine. 1 
+
+AVAILABLE OPTIONS 
+
+● 
+
+Ventilator bundle – This comprises of 4 main actions that are taken to prevent 
+
+Pneumonia.  
+
+1. 
+
+Elevation of the head to 30-45 degrees – The top half of the body is inclined to 
+
+this angle so that the patient’s trachea and oesophagus are inclined and hence 
+
+help the secretions flowing down the pharynx to enter the oesophagus, instead 
+
+of entering the trachea. 
+
+2. 
+
+Sedation vacation and assessment of readiness to extubate – The patient 
+
+is 
+
+vacated from sedation and respiratory effort is checked. If the respiratory effort 
+
+is adequate, the patient is extubated. 
+
+3. 
+
+Peptic Ulcer Prophylaxis – The patient is normally put on proton pump inhibitors 
+
+to reduce the acid production 
+
+in the stomach. The acid reflux can 
+
+lead to 
+
+pulmonary aspiration and can cause Pneumonia. 
+
+4. Deep Vein Thrombosis (DVT) Prophylaxis – Long-term intubated patients are at 
+
+high risk for developing DVT. This can lead to a Pulmonary Embolism (PE). 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","However, DVT prophylaxis has not shown to reduce the incidence of VAP. It still 
+
+remains part of the bundle. 
+
+● 
+
+Subglottic, 
+
+Supraglottic 
+
+and 
+
+oropharynx 
+
+secretion 
+
+suctioning 
+
+– The 
+
+nurse 
+
+periodically suctions the secretions from the subglottic and oro-pharynx space that 
+
+reduces 
+
+the 
+
+risk of any 
+
+secretions moving 
+
+into 
+
+the 
+
+trachea. Oral washes with 
+
+Chlorhexidine which 
+
+is a disinfecting agent helps 
+
+in reducing the chance of 
+
+lung 
+
+infection. 5 
+
+IDEAL SOLUTION 
+
+The solution should reduce the incidence of Ventilator Associated Pneumonia (VAP) compared 
+
+to the current standard of care.  
+
+NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+Reduce the incidence of VAP compared to current standard of care statistics (Less than 10 
+
+VAP infections per 1000 ventilator days) 
+
+● Must not increase the cost to patient in an ICU by more than 20% 
+
+NICE TO HAVE 
+
+● 
+
+Completely prevent Ventilator-Associated Pneumonia 
+
+REFERENCES 
+
+1. Ventilator 
+
+Associated 
+
+Pneumonia 
+
+https://emedicine.medscape.com/article/304836-
+
+overview  Accessed 11/8/2018 
+
+2. American Thoracic Society, and Infectious Diseases Society of America. ""Guidelines for the 
+
+management of adults with Hospital-acquired, Ventilator-associated, and healthcare-
+
+associated pneumonia."" American journal of respiratory and critical care medicine 171.4 
+
+(2005): 388. 
+
+3. Wip, Charity, and Lena Napolitano. ""Bundles to prevent ventilator-associated pneumonia: 
+
+how valuable are they?."" Current opinion in infectious diseases 22.2 (2009): 159-166.  
+
+4. Ranjan, Neelima et al. “Ventilator-Associated Pneumonia in a Tertiary Care Intensive Care 
+
+Unit: Analysis of Incidence, Risk Factors and Mortality.” Indian Journal of Critical Care 
+
+Medicine : Peer-reviewed, Official Publication of Indian Society of Critical Care Medicine 18.4 
+
+(2014): 200–204. PMC. Web. 11 Sept. 2018.  
+
+5. 
+
+Patil, Harsha V., and Virendra C. Patil. ""Incidence, bacteriology, and clinical outcome of 
+
+ventilator-associated pneumonia at a tertiary care hospital."" Journal of natural science, 
+
+biology, and medicine 8.1 (2017): 46.   
+
+6. Muscedere, John, et al. ""Subglottic secretion drainage for the prevention of ventilator-
+
+associated pneumonia: a systematic review and meta-analysis."" Critical care medicine 39.8 
+
+(2011): 1985-1991. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","2. INTRACRANIAL PRESSURE MONITORING 
+
+BACKGROUND 
+
+Elevated 
+
+intracranial pressure (ICP) 
+
+is seen 
+
+in various conditions such as head 
+
+trauma, 
+
+hydrocephalus, 
+
+intracranial hemorrhage, 
+
+subarachnoid hemorrhage, 
+
+intracranial 
+
+tumors, 
+
+hepatic encephalopathy, and cerebral edema. Elevated ICP can lead to death or devastating 
+
+neurological damage either by reducing the perfusion of essential oxygen and nutrients to the 
+
+brain also known as reduced cerebral perfusion pressure (CPP) or by compressing of vital 
+
+structures in the brain and brainstem. Prompt recognition is crucial in order to intervene 
+
+appropriately. Intractable high ICP is also the most common ""terminal event"" leading to death in 
+
+neurosurgical patients. The association between the severity of intracranial hypertension and 
+
+poor outcome after severe head injury is well recognized. Outcomes tend to be good in patients 
+
+with normal ICP, whereas those with elevated ICP are much more likely to have an unfavorable 
+
+outcome. Elevated ICP carries a mortality rate of around 20%. The rapid recognition of elevated 
+
+ICP is therefore of obvious and paramount importance so that it can be monitored and so that 
+
+therapies directed at lowering ICP can be initiated. A raised ICP is measurable both clini cally 
+
+and quantitatively. Continuous ICP monitoring is important both for assessing the efficacy of 
+
+therapeutic measures and for evaluating the evolution of brain injury. 1 
+
+OBSERVATION 
+
+Presentation 
+
+A 42-year-old male came into the Neuro-emergency ward of a government tertiary care hospital 
+
+in an ambulance after being involved in a road traffic accident. There was no external bleeding. 
+
+History 
+
+The patient had a history of hypertension for 1 year and was on medication for the same. 
+
+Treatment 
+
+The patient’s GCS was 10/15. A CT scan was immediately done which revealed a left -sided 
+
+subdural hematoma with midline shift. The patient was rushed to the Operation Theatre (OT) 
+
+and the hematoma was evacuated. There was severe Edema and the brain had swol len. An 
+
+External Ventricular Drain (EVD) catheter was placed in the left ventricle and the patient was 
+
+monitored in the post-op ICU. The EVD was connected to an ICP monitor which revealed that 
+
+the patient's ICP was 45 mmHg. The patient was put on Mannitol to manage the edema. 
+
+The disposable ventricular catheter needed to be changed every 7 days due to the high risk of 
+
+infection. Nearly 20% of all patients with 
+
+ICP monitors contract 
+
+infection 
+
+that 
+
+leads to 
+
+ventriculitis or even encephalitis. The catheter with ICP monitoring capability costs INR.50,000. 
+
+Due to the high cost, it takes the government time to procure large numbers of these catheters. 
+
+The hospital did not have a replacement catheter and had to remove the EVD after 7 days. The 
+
+patient’s GCS was still 11/15 and there was still cerebral edema as indicated by the CT scan 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","done every 2-3 days. The patient’s ICP was now being estimated based on GCS only. On Post-op 
+
+day 9 (POD9), the patient’s GCS fell to 9/15. A CT scan revealed a fluid-filled compartment in the 
+
+subdural space. Another emergency surgery had to be done to evacuate the fluid and find the 
+
+source of the fluid. The surgeon said the fluid was a collection of Cerebrospinal fluid (CSF) and 
+
+edematous fluid.  
+
+POD2 the patient's GCS was 11/15 and holding. The doctor said that GCS and vital parameters 
+
+are the only ways of estimating ICP. 
+
+THE PROBLEM 
+
+External Ventricular Drains (EVD) are expensive, costing up to INR.50,000. In addition, this 
+
+drain has to be changed by a neurosurgeon every three to seven days due to the high risk of 
+
+infection 2. Doctors have tried re-sterilizing the used EVD, however, there is a high risk of 
+
+contracting Prions Disease. CT/MRI scans give an accurate indication of significantly increased 
+
+ICP; however, this is not a reliable way to continuously monitor ICP. It is also expensive for 
+
+many patients to afford a CT scan on a daily basis. An EVD is placed blindly using standard 
+
+anatomical landmarks in the brain. There is no real-time feedback as to whether the catheter tip 
+
+is inside the lateral ventricle. There can also be bleeding along the EVD insertion tract which can 
+
+lead to subdural or epidural bleeds which may even require surgical management.  
+
+Lumbar Punctures (LP) also come with risks of brain herniation and infection if the needle is 
+
+left in situ for several days. Patient mobility becomes almost impossible.  
+
+NEED STATEMENT 
+
+An affordable, safer and continuous way to monitor ICP in patients at THCs to prevent the high 
+
+risk of infection, permanent brain damage and seizures. 
+
+FILTERING PROCESS 
+
+Final Score = 27.5 
+
+Rank = 2 
+
+MARKET POTENTIAL  
+
+More than 3 lakh cases of continuous monitoring of ICP are required annually in India 2 
+
+COMPETITIVE LANDSCAPE 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","External Ventricular Drain 
+
+(EVD) Catheter 
+
+is 
+
+the standard of care 
+
+for monitoring 
+
+ICP 
+
+continuously. The Glasgow Coma Scale (GCS) is used as an estimate when EVD catheters are not 
+
+available. However, GCS is lowered several hours or even days after the ICP has increased. Many 
+
+times, it is too late to act after GCS values drop.  
+
+AVAILABLE OPTIONS FOR MONITORING INTRACRANIAL PRESSURE  
+
+● 
+
+Clinical examination: This is the most important tool for diagnosing potential elevation 
+
+of ICP and monitoring its progression is the clinical neurological examination. Despite 
+
+medical advances, clinical observation has not 
+
+lost 
+
+its 
+
+importance 
+
+in the ongoing 
+
+monitoring of a patient's condition. The patient should be evaluated for the following: 
+
+Headache, nausea, and vomiting, Degree of alertness or consciousness (Glasgow coma 
+
+score), language comprehension, repetition, fluency, articulation; Pupillary reactivity; 
+
+Extraocular movements and visual; Vital signs (Cushing triad: respiratory depression, 
+
+hypertension, bradycardia); Gag or cough reflex and response to noxious stimuli 
+
+● 
+
+Funduscopic examination: This also remains the criterion standard in the evaluation 
+
+of increased ICP. careful attention to the optic nerve can prove useful for evaluating the 
+
+ICP. The optic nerve is surrounded by subarachnoid space and experiences pressure 
+
+changes in the same way that the intracranial compartment does. 
+
+● 
+
+Ventriculostomy – This is a surgery wherein a Ventricular Catheter is placed in the 
+
+lateral ventricle via the Kocher's point. An EVD is connected to the Catheter to drain out 
+
+excess CSF to control ICP within normal limits. An EVD needs to be changed every 7-10 
+
+days due to high risk of infection. 
+
+● 
+
+Lumbar Puncture (LP) / Spinal Tap – A long needle is inserted typically in the L2-L3 
+
+space of the spine and a tap is established with the subarachnoid space. A manometer is 
+
+then connected to the same to measure ICP. This is useful when only small quantit ies of 
+
+Cerebrospinal Fluid (CSF) need to be drained. 
+
+● 
+
+Glasgow Coma Scale – Although this is not the recommended standard of care, this is 
+
+often used on government hospitals when EVD Catheters are not available. A score is 
+
+given based on the patient's eye movement, verbal response, and motor response. A 
+
+score of less than 9/15 requires emergency medical attention. 3 
+
+● MRI/CT Scan – Imaging can help to determine whether the there is increased ICP or 
+
+not. This can be done by observing the arteries, ventricles and brain tissue on T1 
+
+weighted images. 
+
+IDEAL SOLUTION STATEMENT 
+
+The solution should be able to accurately and continuously monitor ICP, without any significant 
+
+risk factors such as infection. 
+
+NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+Accurately and continuously measure ICP 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","● 
+
+● 
+
+No risk of infection or any equivalent morbidity 
+
+Should not increase cost of management for an ICT patient by more than 20% in an 
+
+Intensive care setting 
+
+NICE TO HAVES 
+
+● 
+
+● 
+
+Non-invasive and accurate measurement of ICP 
+
+Should also allow for management through cerebrospinal fluid drainage 
+
+REFERENCES 
+
+1. 
+
+Intracranial 
+
+Pressure 
+
+https://emedicine.medscape.com/article/1829950-
+
+overview  Accessed 11/9/2018 
+
+2. 
+
+Idiculla T, Zachariah G, Br K, Mohamood N. The incidence and prevalence of idiopathic 
+
+intracranial 
+
+hypertension 
+
+in 
+
+south 
+
+Sharaqiah 
+
+region, 
+
+Oman. Oman 
+
+Journal 
+
+of 
+
+Ophthalmology. 2013;6(3):189-192. doi:10.4103/0974-620X.122276. 
+
+3. Muralidharan, 
+
+Rajanandini. 
+
+“External 
+
+Ventricular 
+
+Drains: 
+
+Management 
+
+and 
+
+Complications.” Surgical Neurology 
+
+International 6.Suppl 6 (2015): S271–S274. PMC. 
+
+Web. 11 Sept. 2018. 
+
+4. 
+
+http://www.glasgowcomascale.org/what-is-gcs/ Accessed 11/9/2018 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","3. PARKINSON’S DISEASE 
+
+BACKGROUND 
+
+Parkinson’s Disease (PD) is a neurodegenerative disease which affects the motor system over a 
+
+period of several years and even decades. Parkinson disease (PD) is one of the most common 
+
+neurologic disorders, affecting approximately 1% of individuals older than 60 years and causing 
+
+progressive disability 
+
+that 
+
+can be 
+
+slowed but not halted, by 
+
+treatment. The 2 major 
+
+neuropathologic findings in Parkinson disease are a loss of pigmented dopaminergic neurons of 
+
+the substantia nigra pars compacta and the presence of Lewy bodies and Lewy neurites. 
+
+Common symptoms include shaking (tremors), rigidity, slowness of movement and difficulty 
+
+walking. India has an annual incidence rate of at least 1 lakh new cases 1. 
+
+The 
+
+incidence of Parkinson disease has been estimated to be 4.5-21 cases per 100,000 
+
+population per year, and estimates of prevalence range from 18 to 328 cases per 100,000 
+
+population, with most studies yielding a prevalence of approximately 120 cases per 100,000 
+
+population. The incidence and prevalence of Parkinson disease increase with age. Onset in 
+
+persons younger than 40 years is relatively uncommon. Parkinson disease is about 1.5 times 
+
+more common in men than in women. 1 
+
+Before the introduction of levodopa, Parkinson disease caused severe disability or death in 25% 
+
+of patients within 5 years of onset, 65% within 10 years, and 89% within 15 years. The 
+
+mortality rate from Parkinson disease was 3 times that of the general population matched for 
+
+age, sex, and racial origin. With the introduction of levodopa, the mortality rate dropped 
+
+approximately 50%, and longevity was extended by many years. This is thought to be due to the 
+
+symptomatic effects of levodopa, as no clear evidence suggests that levodopa stems from the 
+
+progressive nature of the disease. 1 
+
+OBSERVATION 
+
+Presentation 
+
+A 71-year-old female came into the Neurology OPD of a tertiary care hospital with complaints of 
+
+progressive muscle rigidity, especially in the joints over the past 1-2 years, along with mild 
+
+postural instability. The family also informed doctors that the patient had occasional episodes of 
+
+mild shaking of the left wrist when kept at rest. 
+
+History 
+
+The patient had no history of stroke, seizures or brain tumor. The patient had no history o f 
+
+hypertension, Diabetes or high cholesterol. The patient had no other comorbidities. 
+
+Treatment 
+
+The neurologist asked for a brain and spine MRI which was completely normal. Erythrocyte 
+
+Sedimentation Rate (ESR), C-Reactive Protein (CRP) and autoimmune panel - all came normal. A 
+
+complete neurological examination was done and doctors noticed significant slowness 
+
+in 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","movement and walking compared to speech. The patient’s Montreal Cognitive Assessment 
+
+(MoCA) score was 23/30, which was indicative of Mild Cognitive Impairment (MCI). Doctors 
+
+were unsure whether this was an early onset case of Alzheimer’s Disease (AD), Parkinson’s 
+
+Disease (PD) or Progressive Supranuclear Palsy (PSP). Based on the occasional tremors in the 
+
+left wrist, the doctors assumed a diagnosis of Parkinson’s Disease and started the patient on 
+
+Levodopa and Carbidopa. The patient was advised to go for frequent walks and solve puzzles 
+
+and play games to improve physical movement as well as cognitive function. 
+
+The patient was regularly followed up every month for 1 year. During this period, the family 
+
+reported periodic 
+
+improvements and deterioration of the patient. The patient was often 
+
+nauseous, vomited every alternate day and felt dizzy when getting up from the bed. The doctor 
+
+informed the patient's family that these were the side-effects of the medication. Patient's family 
+
+requested the doctor not to increase the dose of L-dopa due to the side-effects. By then, the 
+
+doctors had a confirmed diagnosis of PD due to the increase in wrist shaking at rest. Doctor's 
+
+offered surgery as an option wherein a Deep Brain Stimulation (DBS) device would be 
+
+implanted into the brain of the patient and would reduce the patient's Parkinson's symptoms. 
+
+However, the device and surgery were priced at INR.15 lakhs, which the patient's family could 
+
+not afford. 
+
+After 3 years, the doctors are still managing the patient on medication (L-dopa and Dopamine 
+
+agonists). The tremors have increased severely. The patient can barely stand for one minute due 
+
+to severe pain caused by the rigidity in the waist and knee joints. The patient’s family had to be 
+
+with her at all times to prevent a fall.  
+
+THE PROBLEM 
+
+There is no affordable solution that stops or significantly reduces the rate of degeneration 
+
+caused by PD. DBS is the only solution that manages the symptoms by sending electrical pulses 
+
+to certain regions in the brain. However, this solution is expensive and unaffordable to most 
+
+Indians. Most medications do not have significant improvement of the symptoms. L-dopa dose 
+
+needs to be increased periodically to maintain the same the effect. 
+
+A common problem with all long-term medication, including those for treatment of Parkinson’s 
+
+Disease, is that the strength of the dosage needs to be progressively increased with time for the 
+
+same or increased efficiency. Most common cause for this is the development of the body's 
+
+immunity to the same. The side effects of these medications also increase progressively with 
+
+increase in dosage. Beyond a certain point, the benefits of the medication are less than the 
+
+degree of side effects and hence, the dosage has to be saturated. Heavy medication almost 
+
+invariably puts a heavy load on the kidneys and liver. Liver Function Tests (LFTs) and Renal 
+
+Function Tests (RFTs) need to be periodically done to ensure that medication is not taking its 
+
+toll on the patient. The side effects of prolonged Levo-dopa treatment are well known in 
+
+Parkinson’s Disease. Dyskinesia is the key side effect seen in PD patients on L-dopa medication. 
+
+Many times, the treatment needs to be tapered down to prevent the severe movement 
+
+disabilities introduced in PD patients.  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NEED STATEMENT 
+
+An affordable (as compared to surgery) and effective (no side-effects due to medications) way 
+
+to manage Parkinson's disease in patients at THCs to prevent severe morbidity.  
+
+FILTERING PROCESS 
+
+Final score = 19.5 
+
+Rank = 3 
+
+MARKET POTENTIAL 
+
+More than 1 lakh annual incidence rate of Parkinson ’s disease in India. Nearly 1 million people 
+
+in India are currently living with PD. 2 
+
+COMPETITIVE LANDSCAPE  
+
+Treatment of Parkinson’s Disease primarily lies around management with medication and 
+
+palliative care. Although L-dopa has it’s side-effects and is not entirely effective, this is the most 
+
+affordable and widely accepted solution. There is no cure for any neurodegenerat ive disease as 
+
+of today. Most of the solutions are aim at delaying the progression of the disease. L-dopa has 
+
+episodic positive and negative effects on the patients. 3 
+
+AVAILABLE OPTIONS FOR PARKINSON’S DISEASE 
+
+● 
+
+Levodopa and Dopamine agonists – Most of PD symptoms are due to deficiency of 
+
+Dopamine 
+
+in the Basal Ganglia region of the brain. Hence, medication is given to 
+
+increase dopamine levels in the brain. Due to the blood-brain barrier, a significant dose 
+
+of L-dopa needs to be taken to have a mild effect in the brain. High levels of L-dopa in 
+
+the blood causes all the side-effects associated with L-dopa medication.   
+
+● 
+
+Other Medication – COMT Inhibitors, MAO-B Inhibitors and anticholinergics do not 
+
+have strong evidence supporting 
+
+their use 
+
+in 
+
+the 
+
+treatment of motor symptoms 
+
+accompanying PD. 
+
+● 
+
+Deep Brain Stimulation (DBS) – This is an implant is placed in the brain via surgery 
+
+and stimulates the Thalamus, Globus Pallidus or subthalamic nucleus depending on the 
+
+motor symptoms observed. The device is then calibrated wirelessly from outside. The 
+
+device costs 
+
+INR.15 
+
+lakhs 
+
+including 
+
+the surgery. Subsequent 
+
+follow-ups and re-
+
+calibrations add to the cost.   
+
+● 
+
+Functional Stereotactic Lesioning Surgery – This 
+
+is a minimally 
+
+invasive brain 
+
+surgery which involves creating lesions using a 3D geometrical pin-pointing technology. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","The exact location in the brain is lesioned using temperature. The patient has to be 
+
+retrained after the surgery to regain fine control over the muscles. 
+
+IDEAL SOLUTION STATEMENT 
+
+The solution should be able 
+
+to either cure, stop or significantly slow down 
+
+the neuro-
+
+degeneration process, while also maintaining reasonable Quality of Life. The solution should be 
+
+affordable to the rural people of India. 
+
+NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+Significantly and progressively slow down or stop rate of neuro-degeneration (Patient 
+
+should have a life expectancy of at least 10 years post diagnosis, assuming no other 
+
+comorbidities) 
+
+● 
+
+No side-effects causing significant morbidity or discomfort (as currently available drugs 
+
+do) 
+
+● 
+
+It should be comparable with minimal access surgery costs in other surgical specialities 
+
+NICE TO HAVE 
+
+● 
+
+Completely reverse and stop any degeneration until treatment (Patient should have a 
+
+normal life expectancy, assuming no other comorbidities) 
+
+● 
+
+Patient should completely regain full and normal control over motor system 
+
+REFERENCES 
+
+1. 
+
+Parkinson Disease https://emedicine.medscape.com/article/1831191-overview 
+
+Accessed 11/9/2018 
+
+2. Das, S.K. et al. “Epidemiology of Parkinson Disease in the City of Kolkata, India: A 
+
+Community-Based Study.” Neurology 75.15 (2010): 1362–1369. PMC. Web. 11 Sept. 
+
+2018. 
+
+3. 
+
+https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/diagnosis-
+
+treatment/drc-20376062  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","4. PRESSURE ULCERS IN STROKE PATIENTS 
+
+BACKGROUND 
+
+Stroke is a severe disabling disease affecting millions in India annually. Stroke is becoming an 
+
+important cause of premature death and disability in low-income and middle-income countries 
+
+like India, largely driven by demographic changes and enhanced by the increasing prevalence of 
+
+the key modifiable risk factors. As a result developing countries are exposed to a double burden 
+
+of both communicable and non-communicable diseases. The poor are increasingly affected by 
+
+stroke, because of both the changing population exposures to risk factors and, most tragically, 
+
+not being able to afford the high cost of stroke care. Majority of stroke survivors continue to live 
+
+with disabilities, and 
+
+the costs of on-going rehabilitation and 
+
+long-term-care are 
+
+largely 
+
+undertaken by family members, which impoverish their families. Elderly patients affected with 
+
+stroke takes significantly longer to recover from the paralysis. In the process, these patients 
+
+develop several secondary disabilities such as Osteopenia/Osteoporosis, Deep Vein Thrombosis 
+
+(DVT), Clinical Depression, Edema etc. 1 
+
+Stroke is one of the leading causes of death and disability in India. The estimated adjusted 
+
+prevalence rate of stroke range, 84-262/100,000 in rural and 334-424/100,000 in urban areas. 
+
+The incidence rate is 119-145/100,000 based on the recent population-based studies. There is 
+
+also a wide variation in case fatality rates with the highest being 42% in Kolkata. Stroke units 
+
+are predominantly available in urban areas that too in private hospitals. Intravenous and intra-
+
+arterial thrombolysis is commonly used in India. 2 
+
+Although the terms decubitus ulcer, pressure sore, and pressure ulcer have often been used 
+
+interchangeably, the National Pressure Ulcer Advisory Panel (NPUAP) currently considers 
+
+pressure injury the best term to use, given that open ulceration does not always occur. A 
+
+pressure ulcer is localized damage to the skin and underlying soft tissue, usually over a bony 
+
+prominence or related to a medical or other device. It can present as intact skin or an open ulcer 
+
+and may be painful. It occurs as a result of intense or prolonged pressure or pressure in 
+
+combination with shear. 
+
+OBSERVATION 
+
+Presentation 
+
+An 81-year-old female was brought into the emergency ward of a Tertiary care hospita l with 
+
+left-sided hemiparesis and complete paralysis of the right hand. The patient had developed 
+
+aphasia with a deviation of the mouth to the right. She also had severe difficulty in breathing. 
+
+The family reported that they noticed the gradual difficulty in speech 4 days before. 
+
+History 
+
+The patient was a known case of Diabetes Mellitus Type 2 for 15 years. She was on medication 
+
+for the same and her Blood Sugar was under control. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","Treatment 
+
+Immediate MRI-scan in the emergency ward revealed large areas of ischemic hypoxia in the left 
+
+and right frontal-parietal regions. The patient was put on Levipil and rushed to the ICU, where 
+
+she was put on a ventilator. She was in ICU for two weeks, during which she developed 
+
+Ventilator Associated Pneumonia (VAP).  She was put on antibiotics for the same and recovered 
+
+from the same. Her respiratory effort improved and was extubated. She was still aphasic. 
+
+During her recovery over 6-7 weeks in the regular ward, the patient has several emotional 
+
+outbreaks. Psychiatry was consulted and she was put on antidepressants. The patient developed 
+
+bedsores and was treated with wound care and medication for the same. 
+
+The patient was put on calcium and Vit. D3 to prevent osteopenia. The patient was also put on 
+
+DVT prophylaxis (antithrombotic drugs and stockings). Patient's physiotherapy sessions were 
+
+very poor as she showed little to no effort. A full-time trained attender was employed to take 
+
+care of the patient.  
+
+The nursing bundle was followed with turning every few hours but the patient developed a 
+
+pressure ulcer at the coccyx. The patient was kept on her side and the mattress was exchanged 
+
+with a water bed. The ulcer grew larger despite the daily dressing and debridement and the 
+
+patient could not afford the vaccum or hydrogel dressings.  
+
+The daily dressing continued for the 10 weeks of admission in the hospital with minimal 
+
+improvement in the ulcer bed after which the patient was discharged and advised to get daily 
+
+dressing done at the local clinic 
+
+THE PROBLEM 
+
+Due to the aging process, recovery from stroke in the elderly is significantly slower. Doctors rely 
+
+on the family, physiotherapists and speech therapists to help the patient 
+
+in creating the 
+
+enthusiasm and will 
+
+to perform rehabilitation 
+
+tasks. Patients 
+
+frequently go 
+
+into clinica l 
+
+depression. Doctors frequently say that an incentivized and quantifiable rehabilitation system 
+
+which gives feedback to the patient about his/her progress can go a long way to speed up the 
+
+rehabilitation process. Majority of stroke survivors continue to live with disabilities, and the 
+
+costs of on-going rehabilitation and long-term-care are largely undertaken by family members, 
+
+which impoverish their families. 
+
+Pressure is exerted on the skin, soft tissue, muscle, and bone by the weight of an individual 
+
+against a surface beneath. These pressures often exceed capillary filling pressure (~32 mm Hg). 
+
+In patients with normal sensitivity, mobility, and mental faculty, pressure injuries do not occur. 
+
+Feedback, conscious and unconscious, from the areas of compression leads them to change their 
+
+body position, and these changes shift the pressure before any irreversible tissue damage 
+
+develops. It is often seen in bedridden patients can is very difficult to manage. It can result in 
+
+complications like malignant transformation, autonomic dysreflexia, osteomyelitis and sepsis. 
+
+NEED STATEMENT 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","An effective way to prevent the onset of pressure ulcers in patients bedridden for >72 hours in 
+
+any setting (hospital or home)  
+
+FILTERING PROCESS  
+
+Final score = 18 
+
+Rank = 4 
+
+MARKET POTENTIAL  
+
+More than 1 million cases of pressure ulcer annually 2 
+
+COMPETITIVE LANDSCAPE 
+
+The current standard of care is primarily supportive and palliative care. A nursing bundle is 
+
+used in all bedridden patients and includes the following 
+
+ 
+
+Support surface Use an appropriate pressure redistribution support surface and reassess as 
+
+the patient’s needs change  
+
+ 
+
+Skin 
+
+inspection Check 
+
+entire 
+
+skin 
+
+regularly, with particular 
+
+emphasis 
+
+over 
+
+bony 
+
+prominences, and document in patient’s healthcare records  
+
+ 
+
+Keep moving Implement a turn/reposition schedule and optimise/ encourage independent 
+
+movement. Refer to occupational therapist/ physiotherapist when appropriate  
+
+ 
+
+Incontinence and moisture Ensure appropriate management of incontinence (urinary and 
+
+faecal), perspiration or exudate in conjunction with a structured skin care programme to 
+
+maintain skin integrity  
+
+ 
+
+Nutrition and hydration Encourage individuals to eat and drink regularly and assist patients 
+
+when necessary. Refer to dietitian when appropriate 
+
+IDEAL SOLUTION 
+
+The solution needs to be able to prevent clinical depression, bed sores, DVT, UTI, Pneumonia 
+
+while also recovering the patient faster than current methods. A faster rehabilitation solution 
+
+will invariably reduce the risk for all of the above-mentioned co-morbidities.  
+
+NEED CRITERIA 
+
+MUST HAVES: 
+
+● Must be at least as effective as the nursing bundle and air/water beds 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","● Must cover at least 3 of 5 key risk factors: uneven distribution of pressure, 
+
+humidity, raised temperature, contact with medical devices, sheering force 
+
+● Must not cause 
+
+irritation or 
+
+increase pressure on skin 
+
+thereby 
+
+leading 
+
+to 
+
+pressure ulcers 
+
+● Must not only detect high risk locations but also adjust the pressure accordingly  
+
+● Must be used to amenable to long term use  
+
+● Must be easy to use even by caregivers at home 
+
+● Must given an alert in case there is a risk for pressure ulcer development 
+
+NICE TO HAVE: 
+
+● Useful in prevention as well as management of pressure ulcer 
+
+● 
+
+Re-useable  
+
+REFERENCES 
+
+1. Heitsch, Laura E., 
+
+and Peter D. Panagos. 
+
+""Treating 
+
+the 
+
+elderly 
+
+stroke patient: 
+
+complications, controversies, and best care metrics."" Clinics in geriatric medicine 29.1 
+
+(2013): 231-255. 
+
+2. 
+
+Pandian, 
+
+Jeyaraj Durai, and Paulin Sudhan. ""Stroke epidemiology and stroke care 
+
+services in India."" Journal of stroke 15.3 (2013): 128. 
+
+3. Kappelle, L. 
+
+Jaap. 
+
+""Preventing deep vein 
+
+thrombosis after stroke: strategies and 
+
+recommendations."" Current treatment options in neurology 13.6 (2011): 629. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","5. DELAYED CEREBRAL ISCHEMIA (DCI) 
+
+BACKGROUND 
+
+The 
+
+term 
+
+subarachnoid hemorrhage 
+
+(SAH) 
+
+refers 
+
+to 
+
+extravasation of blood 
+
+into 
+
+the 
+
+subarachnoid space between the pial and arachnoid membranes which surround the brain. 
+
+Subarachnoid Hemorrhage (SAH) is a medical emergency in which there is bleeding into the 
+
+subarachnoid space of the brain, often causing what is described as the most painful thumping 
+
+headache in a person’s life. t occurs in various clinical contexts, the most common being head 
+
+trauma. However, the familiar use of the term SAH refers to nontraumatic (or spontaneous) 
+
+hemorrhage, which usually occurs 
+
+in 
+
+the 
+
+setting of a 
+
+ruptured 
+
+cerebral aneurysm or 
+
+arteriovenous malformation (AVM). This 
+
+is commonly 
+
+followed by 
+
+increased 
+
+intracranial 
+
+pressure leading to the patient losing consciousness gradually. One of the most common causes 
+
+of Subarachnoid hemorrhage is a ruptured intracerebral artery aneurysm. An aneurysm is a 
+
+blood-filled bulge in the lining of the arterial wall. Atherosclerosis, infection (most commonly 
+
+Syphilis) and congenital etiology are the most common causes of an aneurysm. This occurs most 
+
+commonly due to the weakening tone of the arterial wall. This requires emergency surgery to 
+
+decompress the cranium and prevent 
+
+further bleeding. Delayed Cerebral Vasospasm 
+
+is a 
+
+common complication post-surgery 
+
+in which cerebral arteries constrict 
+
+leading to severe 
+
+cerebral ischemia and often death 1. Vasospasm occurs in nearly 50% of all SAH patients post 
+
+decompression. Delayed Cerebral Ischemia typically starts on Post-op Day 2-3 (POD3) and peaks 
+
+at POD5 - POD14. 1 
+
+The frequency of ruptured and unruptured aneurysms has been estimated at 1-9% in different 
+
+autopsy 
+
+series, with 
+
+a prevalence of unruptured 
+
+aneurysms of 0.3-5%. Retrospective 
+
+arteriographic studies show a prevalence of less than 1% with the limitation that some cases 
+
+did not receive adequate evaluation and thus some aneurysms may have been missed. Annual 
+
+incidence increases with age and probably is underestimated because death is attributed to 
+
+other reasons that are not confirmed by autopsies. The annual incidence of aneurysma l SAH in 
+
+the United States is 6-16 cases per 100,000 population, with approximately 30,000 episodes 
+
+occurring each year. Unlike other subcategories of stroke, the 
+
+incidence of SAH has not 
+
+decreased over time. However, since 1970, population-based survival rates have improved. 1 
+
+OBSERVATION 
+
+Presentation 
+
+A 55-year-old male came into the emergency department of a government tertiary care hospital 
+
+with a sudden onset splitting headache. The patient was unconscious when he was brought into 
+
+the emergency ward. Family informed that the patient had an unbearable headache, after which 
+
+the patient started losing consciousness. 
+
+History 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","Neither the patient nor the family has had a history of headaches or blackouts. The patient had a 
+
+history of Diabetes Mellitus Type 2 for 10 years and was on medication (insulin) for the same. 
+
+According to the family, the patient's blood sugar was under control. 
+
+Treatment 
+
+CT scan showed a massive aneurysm rupture in the basilar artery leading to a subarachnoid 
+
+hemorrhage. The patient was immediately rushed for surgery to stop the source of the bleed 
+
+and decompress the cranium. An aneurysm located at the basilar artery was coiled to prevent 
+
+blood from entering the cavity. The patient was given Nimodipine (Calcium channel blocker) 
+
+prophylactically in view of possible cerebral vasospasm. Post-op patient's Glasgow Coma Scale 
+
+(GCS) was 12/15. The patient was started slowly on triple-H (Hypertension, Hypervolemia, and 
+
+Hemodilution) therapy prophylactically along with continuation on Nimodipine. Patient’s GCS 
+
+was 10-11/15 early on Post-op day 3 (POD3).  
+
+The doctor said that there was no way to continuously monitor the cerebral arteries for 
+
+vasospasm, so as to act only when vasospasm is observed. Prophylactically starting triple-H 
+
+therapy along with Nimodipine without vasospasm has high risks of re-bleeding, hyponatremia, 
+
+renal medullary washout, and cerebral edema. Hence, most of the time the doctors have to start 
+
+triple-H therapy with Nimodipine only after vasospasm has begun. This requires continuous 
+
+intensive monitoring.  
+
+Due to dropping GCS, contrast Magnetic Resonance Angiography (MRA) was done on POD3 and 
+
+revealed bilateral Anterior and Middle Carotid Artery (ACA and MCA) vasospasm. Triple-H 
+
+therapy was made more aggressive at the risk of re-bleeding. However, by POD4, patient’s GCS 
+
+had reduced to 9/15. MRI done on POD4 evening revealed cerebral ischemia. The patient died 
+
+on POD5 early morning before any surgical intervention could be planned. 
+
+THE PROBLEM 
+
+There is no way to continuously and accurately monitor major to medium intracranial artery 
+
+perfusion. This leaves doctors delivering medication prophylactically, not knowing whether 
+
+they are required and in what dose. Most of the prophylactic medication such as Calcium 
+
+channel blockers and triple-H therapy have various side-effects. Nimodipine and triple-H 
+
+therapy are often contraindicated in severely hypertensive patients. There have been cases of 
+
+cerebral re-bleeds, Gastro-intestinal (GI) bleeds, cerebral edema and renal medullary washout 
+
+due to calcium channel blockers and triple-H therapy. Most of the times, it is too late to plan for 
+
+surgical 
+
+intervention such as angioplasty due 
+
+to severe 
+
+ischemia 
+
+leading 
+
+to 
+
+irreversible 
+
+neurological deficits. More importantly, triple-H and Calcium Channel blockers have not clearly 
+
+shown to be effective in preventing secondary ischemia, especially in patients with moderate to 
+
+severe Subarachnoid Hemorrhage. Management of severe SAH cases 
+
+is almost entirely 
+
+prophylactic since most of such patient progress to DCI.  1 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NEED STATEMENT  
+
+An affordable and continuous way (compared to MRI, CT [monitoring] Calcium channel blockers 
+
+and triple-H therapy [preventing vasospasm]) to manage (monitor) cerebral arterial perfusion 
+
+in patients with subarachnoid hemorrhage at THCs to prevent Delayed Cerebral Vasospasm and 
+
+Delayed Ischemic Neurological Deficits (DIND) 
+
+FILTERING PROCESS 
+
+Final Score = 18 
+
+Rank = 5 
+
+MARKET POTENTIAL  
+
+More than 2 lakh annual cases of subarachnoid hemorrhage (SAH) in India. Nearly 50% of these 
+
+cases develop severe Cerebral Vasospasm leading to Delayed Ischemic Neurological Deficits 
+
+(DIND). 2,3,4,5 Hence, we have more than 1 lakh annual cases of SAH progressing to DCI of 
+
+varying severity.  
+
+COMPETITIVE LANDSCAPE 
+
+Diagnosis of vasospasm is done via Contrast MR Angiography. Calcium channel blockers and 
+
+Triple-H therapy are primarily used to prevent vasospasm. A meta-analysis by Cochrane 
+
+reviews has shown that there is no clear benefit in using these therapies to prevent DIND. Due 
+
+to lack of continuous monitoring, angioplasty cannot be planned in advance. 
+
+● 
+
+Calcium Channel Blocker – Nimodipine is primarily used to induce vasodilation. This 
+
+drug is given for up to 3 weeks post-op since vasospasms can occur even 2 weeks after 
+
+the hemorrhage. Nimodipine is a short-acting drug and hence needs to administered 2-3 
+
+times a day under constant monitoring 
+
+for re-bleeds 6. Since these drugs 
+
+induce 
+
+systemic vasodilation, their dose needs to be closely monitored, especially in patients on 
+
+antithrombotics and vasodilators. 
+
+● 
+
+Triple-H Therapy – Hypertension, Hypervolemia, and Hemodilution are 
+
+induced 
+
+through intravenous (IV) fluids to counter vasospasm. However, the hypertension is 
+
+systemic and not local. There is a high risk of renal medullary washout. Hence, IV fluids 
+
+need to need to be administered after closely monitoring kidney function 7. 
+
+● 
+
+Angioplasty surgery – If the vasospasm is detected early and is localized to a small 
+
+length of the artery, angioplasty can be planned to allow for normal perfusion. However, 
+
+most of the times vasospasm is caught late due to lack of continuous monitoring. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","● 
+
+Glasgow Coma Scale (GCS) - This scale is the most commonly used method in the 
+
+assessment of consciousness. This indirectly gives an indication of Intracranial Pressure 
+
+(ICP) and cerebral perfusion. However, it is poor in distinguishing the precise cause of 
+
+decreased consciousness.   
+
+● 
+
+Intraventricular Catheter for ICP monitoring - This uses a pressure transducer 
+
+inserted via a catheter in the lateral ventricles or third ventricle. When ICP increases, 
+
+there is  
+
+● 
+
+Transcranial Doppler Ultrasound - This monitoring method uses ultrasound waves to 
+
+monitor cerebral perfusion in arteries close to the cranium. However, deep-seated 
+
+major arteries cannot be monitored effectively and accurately using this method. This 
+
+method is, however, extremely useful due to its non-invasive nature and hence can be 
+
+done 2-3 times a day, if required.  
+
+● 
+
+CT / MRI scan - Scans are normally asked for, only when symptoms start showing in the 
+
+patient. Decreased GCS and increased ICP are common reasons for getting a CT/MRI  
+
+scan. These scans are expensive, require the patient to be mobilized and also require the 
+
+patient to be still during scans. This causes MRI scans to be a last resort. MRI scans are 
+
+used only when other easily usable monitoring options are either unavailable, 
+
+contraindicated or do not give the required diagnostic information. 
+
+IDEAL SOLUTION STATEMENT  
+
+The solution should help in the monitoring of cerebral perfusion pressure.  
+
+NEED CRITERIA  
+
+MUST HAVES 
+
+● 
+
+● 
+
+● 
+
+● 
+
+Should allow for the accurate, continuous monitoring of cerebral perfusion pressure 
+
+Should be able to assess perfusion in different parts of the cerebrum, midbrain and 
+
+brain stem 
+
+Cost to patient should not exceed 20% of the current ICU costs 
+
+Should alert the physician in case of a drop in pressure 
+
+NICE TO HAVE 
+
+● 
+
+● 
+
+Should be non-invasive 
+
+Should be easy to use (any trained ICU nurse should be able to use the solution) 
+
+REFERENCES  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","1. 
+
+Subarachnoid Haemorrhage https://emedicine.medscape.com/article/1164341-overview  
+
+2. Kapoor, Kanchan, and V. K. Kak. ""Incidence of intracranial aneurysms in northwest Indian 
+
+population."" Neurology India51.1 (2003): 22. 
+
+3. Keedy, Alexander. “An Overview of Intracranial Aneurysms.” McGill Journal of Medicine : 
+
+MJM 9.2 (2006): 141–146. Print. 
+
+4. Wu, Ching-Tang, et al. ""Treatment of cerebral vasospasm after subarachnoid hemorrhage--a 
+
+review."" Acta anaesthesiologica Taiwanica: 
+
+official 
+
+journal 
+
+of 
+
+the Taiwan 
+
+Society of 
+
+Anesthesiologists 42.4 (2004): 215-222. 
+
+5. Hughes, Joshua D., et al. ""Estimating the Global Incidence of Aneurysmal Subarachnoid 
+
+Hemorrhage: A Systematic Review for Central Nervous System Vascular Lesions and Meta-
+
+Analysis of Ruptured Aneurysms."" World neurosurgery (2018). 
+
+6. 
+
+https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/calcium-
+
+channel-blockers/art-20047605  Accessed 11/9/2018  
+
+7. 
+
+Lee, Kendall H., Timothy Lukovits, and Jonathan A. Friedman. ""“Triple-H” therapy for 
+
+cerebral vasospasm following subarachnoid hemorrhage."" Neurocritical care 4.1 (2006): 68-
+
+76. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","6. CHILDHOOD EPILEPSY 
+
+BACKGROUND 
+
+Epilepsy in children is a common condition affecting millions in India. Childhood epilepsy is 
+
+defined as epileptic seizures of any type in children up to the age of 18 years of age. There are 
+
+various causes of epilepsy in children such as preterm birth, uneventful and prolonged labor, 
+
+maternal exposure to toxins, genetic and congenital causes, etc. More than 3 million children 
+
+under the age of 18 years are epileptic. Several of these epileptic conditions do not have clear 
+
+and definite treatment options. Most of the children respond to Antiepileptic Drugs (AEDs). 
+
+However, around 5-10% of childhood epilepsy patients are refractory to AEDs. This leads to the 
+
+underlying disease to worsen, leading to cognitive decline, increase in frequency and severity of 
+
+seizures and severe developmental retardation. Early and accurate diagnosis of the cause of 
+
+epilepsy can significantly help doctors is pursuing the right course of treatment. 1 
+
+OBSERVATION 
+
+A 12-year-old boy comes to the Neurology OPD of a tertiary hospital with a history of increased 
+
+frequency of seizures over the past 72 hours. Seizures involve clenching of the teeth, tonic 
+
+posturing of the head and drooling of saliva from the mouth. 
+
+History 
+
+The boy is the youngest of four siblings. He was born of a non-consanguineous marriage. He was 
+
+born at Full-term via normal vaginal delivery. Antenatal period of pregnancy was uneventful 
+
+with infrequent checkups. The boy had bluish discoloration at birth. The baby was kept in 
+
+intensive care for close monitoring. The baby had seizures from the 2nd day of birth. He was 
+
+discharged 10 days after a period of no seizures. He had generalized yellowish discoloration 
+
+which worsened over the next 15 days. His stools were white in color. The boy had decreased 
+
+feeding and reduced cry. The patient was taken to a government tertiary care hospital where he 
+
+was treated and followed up for one year. Seizure frequency was under control.   
+
+The patient had delayed and abnormal development over the course of the first 2 years. At 18 
+
+months of age, the patient was brought to the hospital with several episodes of seizures over the 
+
+previous 48 hours. Seizure Semiology: Up rolling of the eyes, frothing at the mouth and 
+
+generalized tonic-clonic movements. The patient was a given a dose of steroids over 3 months 
+
+which stopped the seizures temporarily.   
+
+At 4 years of age, the patient presented to the hospital with left hemiparesis, deviation of angle 
+
+of the mouth. The patient recovered with treatment gradually over 4-5 months. The patient had 
+
+decreased use of upper and lower limbs. 
+
+Patient has been on valproate, Topiramate, and Clobazam since birth. Patient has responded 
+
+well to corticosteroids previously when the frequency of seizures had increased to many 
+
+episodes per day. 
+
+The frequency of seizures has increased over the past 10 years. Initially (first 2 years), the boy 
+
+had 1 seizure per month. For the next 5-6 years, the boy had 4 seizures per month. Currently, 
+
+25 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","the patient has several episodes of seizures per day. Patient experiences different types of 
+
+seizures such as generalized tonic-clonic seizures, generalized atonic seizures and atypical 
+
+absence seizures.  
+
+Treatment 
+
+On examination: Patient is conscious and oriented in person. Not co-operative in speech. Patient 
+
+has right eye ptosis, left lower limb hypertonia along with brisk Deep Tendon Reflexes (DTR) in 
+
+the lower left limb with ankle jerks. The patient had Plantar extensor withdrawal with ataxic 
+
+gait. The patient had multifocal myoclonic jerks in limbs.   
+
+MRI revealed mild multi-focal cortical atrophy involving insular and peri-insular regions. There 
+
+was a presence of ipsilateral ventricular enlargement. Presence of T2 hyperintensity or atrophy 
+
+of the head of caudate nucleus. Unilateral cortical and caudate atrophy progressively worsening 
+
+(when compared to previous MRI scans). 
+
+Current short-term plan of treatment: 2-3 months of corticosteroids 
+
+Long-term 
+
+plan: 
+
+Functional MRI 
+
+imaging 
+
+along with 
+
+brain 
+
+biopsy. Multiple 
+
+subpial 
+
+transection/corpus callostomy / Hemispherectomy may need to be done.  
+
+THE PROBLEM 
+
+A large number of children with Rasmussen’s Encephalitis (RE), Lennox-Gastaut Syndrome 
+
+(LGS) and some 
+
+form of Hypoxic-Ischemic Encephalitis (HIE) sequelae are refractory 
+
+to 
+
+antiepileptic drugs 
+
+(AEDs). Most 
+
+commonly used AEDs 
+
+include valproate, 
+
+lamotrigine, 
+
+topiramate, benzodiazepines and rufinamide. Patients with RE progressively worsen with a 
+
+severe reduction 
+
+in cognitive function. MRI generally 
+
+indicates hemispheric atrophy with 
+
+inflammation. There 
+
+is no way to definitive way to cure RE, LGS or HIE sequelae. Early 
+
+management with AEDs, 
+
+corticosteroids 
+
+and 
+
+immuno-active 
+
+agents 
+
+does 
+
+not 
+
+always 
+
+significantly improve neurological deficits. 
+
+Neurologists' precise diagnosis and cause of childhood epilepsy is based on MRI scans, blood 
+
+workup, and neurological examination. Various conclusions can be drawn from these, leading to 
+
+a diagnosis which does not point to a concrete etiology.  
+
+NEED STATEMENT 
+
+A long-term and definitive (compared to antiepileptic drugs and corticosteroids) way to treat 
+
+epilepsy (Hypoxic Ischemic Encephalitis sequelae, Lennox Gastaut Syndrome and Rasmussen 
+
+Encephalitis) 
+
+in children at Tertiary care centers to prevent hemispheric atrophy, severe 
+
+cognitive decline, and severe generalized morbidity  
+
+FILTERING PROCESS 
+
+Final score = 18 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","Rank = 6 
+
+MARKET POTENTIAL 
+
+More than 3 million children in India are epileptic. More than 3 lakhs of these children are 
+
+refractory to medication and often require drastic surgical intervention, introducing severe 
+
+morbidity. 2,3 
+
+COMPETITIVE LANDSCAPE 
+
+Various types of Anti-Epileptic Drugs (AEDs) are the standard of care for children with epilepsy. 
+
+Several devices are available which alert the family and relatives of the child during a seizure so 
+
+that the child can be attended to immediately. In patients who are refractory to standard AEDs, 
+
+stronger anticonvulsant medications are used. These medicines have moderate to severe 
+
+temporary side-effects. In cases where medication has no effect at all, surgery is the last resort. 
+
+Hippocampal resection, Corpus Callostomy and cerebral hemispherectomy are most common 
+
+surgeries resorted to.  
+
+● 
+
+Anti-Epileptic Drugs (AED) – Various AEDs are given depending on the type and 
+
+severity of the epileptic seizure to prevent further episodes. Several patients have 
+
+seizures in spite of being on AEDs. A fraction of them go into status epilepticus and need 
+
+to be intubated after sedating them. 
+
+● 
+
+Steroids – Steroids are often used as a first-line treatment in children with seizures 
+
+accompanied by encephalitis. This is done to suppress the inflammatory response. 
+
+Tacrolimus is also occasionally used although there is no evidence supporting its use in 
+
+childhood epileptic encephalitis.  
+
+● 
+
+Intravenous Immunoglobulin (IVIG) - Some studies have shown IVIG to reduce the 
+
+frequency and severity of seizures. However, a Cochrane review classified these studies 
+
+as highly biased and still claims that there is no clear unbiased Randomised Control 
+
+Trial (RCT) evidence for IVIG in the treatment of refractory epilepsy 5.  
+
+● 
+
+Sedation and Intubation – In case the patients progress to Status Epilepticus (SE), the 
+
+patients are sedated and intubated till the electrical activity in the brain stops (as seen 
+
+on EEG).  
+
+● 
+
+Neurostimulation – In patients where surgery is contraindicated, neurostimulation 
+
+may be used. Vagus nerve stimulation, anterior thalamic stimulation and closed-loop 
+
+responsive stimulation are the common neurostimulation procedures. 4 
+
+● 
+
+Surgery – Brain resection surgery 
+
+is a 
+
+last resort when drugs do not show any 
+
+improvement. Surgery introduces permanent disability due to removal or disconnection 
+
+of parts of the brain. Hemispherectomy or corpus callostomy are the two common 
+
+surgery options used in cases of refractory epileptic seizures. 
+
+IDEAL SOLUTION STATEMENT 
+
+The solution should be able to prevent seizures. In addition, the solution should prevent brain 
+
+atrophy and cognitive decline. The child’s overall development should be unhampered and 
+
+progress at a normal rate. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+● 
+
+Prevent seizures 
+
+Prevent cognitive decline 
+
+● Allow normal growth and development 
+
+NICE TO HAVES 
+
+● 
+
+Completely reverse any damage done to the brain 
+
+REFERENCES 
+
+1. https://www.epilepsysociety.org.uk/epilepsy-childhood#.W35nj-gzaMo Accessed 
+
+11/9/2018 
+
+2. Swati Pandey, Pratibha Singhi, Bhavneet Bharti; Prevalence and Treatment Gap in 
+
+Childhood Epilepsy in a North Indian City: A Community-Based Study, Journal of 
+
+Tropical Pediatrics, Volume 60, Issue 2, 1 April 2014, Pages 118–123, 
+
+3. Demographics of India  
+
+4. Neurostimulation in the Treatment of Epilepsy 
+
+https://www.epilepsy.com/article/2017/5/neurostimulation-treatment-epilepsy  
+
+Accessed 11/9/2018 
+
+5. 
+
+Iron MA, Martin NG, Absoud M, Pollard AJ. Intravenous immunoglobulin for the 
+
+treatment of childhood encephalitis. Cochrane Database of Systematic Reviews 
+
+2017, Issue 10. Art. No.: CD011367.  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","7. TRAUMATIC BRAIN INJURY 
+
+BACKGROUND 
+
+Traumatic brain injury (TBI) is a nondegenerative, noncongenital insult to the brain from an 
+
+external mechanical force, possibly leading to permanent or temporary impairment of cognitive, 
+
+physical, and psychosocial 
+
+functions, with an associated diminished or altered state of 
+
+consciousness. TBI is a major cause of death and severe morbidity in all countries. Fall from 
+
+heights and Road Traffic Accidents (RTA) are the leading causes of TBI. 1 
+
+The definition of TBI has not been consistent and tends to vary according to specialties and 
+
+circumstances. Often, the term brain injury is used synonymously with head injury, which may 
+
+not be associated with neurologic deficits. The definition also has been problematic with 
+
+variations in inclusion criteria. Inconsistency in the definition and classification of traumatic 
+
+brain injury (TBI), along with discrepancies in data collection, has made the epidemiology of 
+
+TBI difficult to describe accurately. Problems with TBI data collection include the fact many 
+
+patients with mild TBI may not present to the hospital, and the ones who do present may be 
+
+discharged at the emergency department (ED) without adequate documentation. Severe TBI 
+
+with associated death at the scene of the accident or during transport to a hospital also may not 
+
+be accounted for completely in data collection for TBI epidemiologic studies. 
+
+Differences in diagnostic tools and admission criteria also may affect the above-defined severity 
+
+classifications. In the past, the use of roentgenograms to help diagnose skull fractures after head 
+
+injury did not show much of any concurrent intracranial lesions. These lesions were difficult to 
+
+diagnose until the advent of CT scanning, which is now the diagnostic imaging of choice in TBI 
+
+cases. 1 
+
+OBSERVATION 
+
+53 year-old-male was brought into the emergency ward of a tertiary government hospital after 
+
+encountering a Road Traffic Accident. Patient’s GCS was 8 (E2V2M4) with no visible open injury 
+
+or bleeding. Patient’s eyes were barely reactive to light. 
+
+History 
+
+The patient had a history of Diabetes Mellitus Type 2 for the past 6 years and was on medication 
+
+for the same. No history of smoking or alcohol consumption. No other comorbidities. 
+
+Treatment 
+
+Immediate CT-scan in the emergency ward revealed a midline shift with a severe subdural 
+
+hemorrhage. The patient was started on Mannitol and immediately rushed to emergency OT for 
+
+Decompressive Craniectomy.  
+
+Patient's GCS post-op was 11/15. Post-op CRASH prognostic tool for TBI patients indicated that 
+
+there was more than a 40% chance that the patient would not survive post op due to petechial 
+
+bleeds, midline shift, and low GCS. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","Patient's GCS progressively dropped from 11 to 7 over the next 4 days. There was increased 
+
+Intracranial Pressure (ICP) as measured from the intraventricular catheter. There was severe 
+
+brain inflammation. The doctor said GCS dropped due to secondary hypoxic insult caused by 
+
+extensive inflammation. All the doctor could do was administer mannitol and nimodipine to 
+
+manage edema and prevent vasospasm respectively. The patient died Post-op day 6 due to 
+
+severe brain hypoxia.  
+
+THE PROBLEM 
+
+There is very little that doctors can do in the acute stage (days immediately post-op) after 
+
+Decompressive Craniectomy in moderate to severe TBI patients. The brain inflammation needs 
+
+to subside by itself as part of the healing process. ICP monitoring is an expensive affair and the 
+
+intraventricular catheter needs to be changed frequently due to high risk of infection. 
+
+NEED STATEMENT 
+
+A way to improve post decompressive craniectomy prognosis in patients with moderate to 
+
+severe TBI (intracranial hematomas) at THCs to prevent persistent vegetative state or death 
+
+FILTERING PROCESS 
+
+Final score = 17 
+
+Rank = 7 
+
+MARKET POTENTIAL 
+
+More than 1 million cases of TBI annually 
+
+More than 40% of all severe TBI cases do not survive past 14 weeks of admission to a 
+
+Tertiary Care Hospital (THC). 2, 3 
+
+COMPETITIVE LANDSCAPE 
+
+TBI cases are always an emergency and early management can lead to better outcomes. As soon 
+
+as the patient is taken to a THC, a GCS score is evaluated and CT-scan is done to look for 
+
+intracranial hematomas. If there is significant intracranial bleeding, the patient is rushed for 
+
+Decompression surgery. The patient is administered Mannitol to help reduce brain edema and 
+
+hence 
+
+ICP. 
+
+Intraventricular catheters are expensive (around INR.50,000 per use and are 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","frequently not available in government THCs) and need to be changed frequently (every 2 
+
+weeks) due to the risk of infection. Most of the damage to the brain is done due to secondary 
+
+injury. This happens due to hypoxia induced by increased ICP. Eventually, doctors have to wait 
+
+and hope that the brain can withstand the ICP and heal in time. CT -scans may be required every 
+
+2 days to monitor for any uncontrolled bleeding or fluid collection, which may be expensive or 
+
+impossible (unavailability of CT-scan) in a government THC.  
+
+● 
+
+CT/MRI scan – This used to gauge the extent of damage done by the TBI. It helps the 
+
+doctors plan a further course of action in terms of surgery and medication.  
+
+● 
+
+Decompressive Craniectomy (DC)– This is done to evacuate the hematoma, reduce 
+
+ICP and allow the brain to expand due to inflammation. The cranium flap is stored in a 
+
+sterile container at very low temperatures. DC does not always lower ICP to normal 
+
+levels. If the inflammation and edema are too much, then ICP still remains elevated to a 
+
+level that poses a risk for hypoxia. Continuous ICP monitoring is essential. 4 
+
+● 
+
+ICP Monitoring – Continuous ICP monitoring along with periodic GCS scores is the state 
+
+of the art when it comes to the quick assessment of the patient's progress in the case of 
+
+TBI. Higher ICP normally correlates with low GCS and vice-versa. When ICP is above 
+
+threshold values, doctors initiate an action such as a CT/MRI for details as to why the 
+
+ICP is high. This may be followed by a change of medication or surgery, as the case may 
+
+be.  
+
+● Medication – Mannitol 
+
+is 
+
+the standard drug used 
+
+to 
+
+treat cerebral edema and 
+
+inflammation. Anti-Epileptic Drugs (AEDs) are used when patients have seizures or are 
+
+at high risk for the same.  
+
+● 
+
+Palliative Care – If the patient has managed to regain a GCS above 13, the patient is 
+
+discharged, even though the patient is far from regaining full control of his/her body. 
+
+Physiotherapy and speech therapy is an active part of helping the patient taking back 
+
+control of his/her daily activities. A healthy diet and certain drugs can help this process 
+
+● 
+
+Therapeutic hypothermia: Also termed target temperature management (TTM), is the 
+
+cornerstone of neuroprotective strategy. Dating to the pioneer works of Fay, nearly 
+
+75 years of basic and 
+
+clinical evidence 
+
+support 
+
+its 
+
+therapeutic value. Although 
+
+hypothermia decreases the metabolic rate to restore the supply and demand of O2, it has 
+
+other tissue-specific effects, such as decreasing excitotoxicity, limiting inflammation, 
+
+preventing ATP depletion, reducing 
+
+free radical production and also 
+
+intracellular 
+
+calcium overload to avoid apoptosis. 4 
+
+● 
+
+Functional Electrical Stimulation: Promising results are coming from the use of 
+
+functional electrical stimulation (FES). FES uses a computer and electrodes to give small 
+
+bursts of electricity to paralyzed muscles. This is done to generate muscle contractions.  
+
+Currently, FES is being used to try and restore function that was lost after a spinal cord 
+
+injury. By stimulating paralyzed muscles, patients are experiencing improvement in 
+
+hand movements, bladder and bowel control, and even potential for respiration without 
+
+the use of a ventilator. Researchers are trying to advance this current system, which is 
+
+showing promising results not only in spinal cord injuries, but for stroke patients as 
+
+well. 5 
+
+● 
+
+Brain-Computer Interfaces (BCI): Brain-computer interfaces bypass nerve cells that 
+
+have been damaged from a spinal cord injury. These devices, when implanted, may 
+
+restore control of voluntary muscle movement to paralyzed muscles. Because patients 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","with spinal cord injuries usually have normal brain function, researchers have been able 
+
+to use the signals sent off by the brain to control a computer-assisted device. Hand and 
+
+arm orthotics have been used with this device as a way to give hand function back to 
+
+patients with paralysis. The ability to restore any amount of function in a paralyzed 
+
+patient is a huge step in the patient having some normalcy in their life after spinal cord 
+
+injury. 5 
+
+IDEAL SOLUTION STATEMENT 
+
+The ideal solution should be able to prevent a persistent vegetative state or death due to 
+
+secondary injury caused by TBI. 
+
+NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+● 
+
+● 
+
+● 
+
+Prevent Persistent vegetative state or death 
+
+Non-invasive and continuous monitoring of ICP 
+
+Affordable (daily cost should not exceed 10% of post-op ICU cost) 
+
+Post-op GCS should not decline up to POD14 
+
+NICE TO HAVE 
+
+● 
+
+● 
+
+● 
+
+Easy-to-use (by an ICU nurse) 
+
+Affordable (daily cost should not exceed 5% of post-op ICU cost) 
+
+GCS should not go below 10/15 up to POD14 
+
+REFERENCES 
+
+1. Traumatic 
+
+Brain 
+
+Injury 
+
+(TBI) 
+
+- 
+
+Definition, 
+
+Epidemiology, 
+
+Pathophysiology 
+
+https://emedicine.medscape.com/article/326510-overview Accessed 11/9/2018 
+
+2. Road Accidents in India 2011. Govt of India Ministry of Road Transport and Highways 
+
+Transport Research Wing http://morth.nic.in/showfile.asp?lid=835  
+
+3. NeuroRehabilitation: 
+
+An 
+
+Interdisciplinary 
+
+Journal 
+
+https://content.iospress.com/download/neurorehabilitation/nre00374?id=neurorehab
+
+ilitation%2Fnre00374 
+
+4. Andresen M, Gazmuri JT, Marín A, Regueira T, Rovegno M. Therapeutic hypothermia for 
+
+acute brain injuries. Scand J Trauma Resusc Emerg Med. 2015;23:42. Published 2015 Jun 
+
+5. doi:10.1186/s13049-015-0121-3 
+
+5. 
+
+https://www.spinalcord.com/sci-technology-advancements Accessed 12/10/2018 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","8. ALZHEIMER’S DISEASE 
+
+BACKGROUND 
+
+Alzheimer’s Disease (AD) is a chronic neurodegenerative disease that progressively worsens 
+
+with time. AD is the most common form of dementia and begins after the age of 65 years. The 
+
+disease is characterized by progressive memory loss, inability to recognize people and places, 
+
+cognitive decline, and mood swings. In 2015, AD resulted in nearly 2 million deaths worldwide. 
+
+AD invariably affects the family and caregivers, since the patient entirely depends on them for 
+
+his/her day to day needs. There is no early and accurate way to diagnose or effective way to 
+
+treat AD 1. It is an incurable disease with a long preclinical period and progressive course. In AD, 
+
+plaques develop in the hippocampus, a structure deep 
+
+in the brain that helps to encode 
+
+memories, and in other areas of the cerebral cortex that are involved in thinking and making 
+
+decisions.  
+
+AD is the sixth leading cause of death in the United States, accounting for 3.6% of all deaths in 
+
+2014. In the United States alone, approximately 6.08 million Americans had either a clinical AD 
+
+or mild cognitive impairment due to AD in 2017. That number is expected to grow to 15 million 
+
+by 2060. Economically, AD is a major public health problem. Total payments in 2017 for health 
+
+care and long-term care for all individuals with AD or other dementias are estimated at $259 
+
+billion. By 2050, these costs could rise as high as $1.1 trillion. 1 
+
+OBSERVATION 
+
+Presentation 
+
+77 year-old-male was brought into OPD due to the slowness of movement (bradykinesia), and 
+
+short-term memory loss that had been developing over the past 2 years. 
+
+History 
+
+The patient had no history of trauma or any other related comorbidity 
+
+Treatment 
+
+MRI scan was done which showed atrophy near the hippocampus and 
+
+lateral ventricular 
+
+enlargement, which are both classic signs of AD. The patient was diagnosed with mild to 
+
+moderate AD. The patient was started on memantine (NMDA receptor antagonist) daily dose.  
+
+There was little to no improvement over 2-3 years after which the patient started to deteriorate 
+
+further. The patient was also put on Acetylcholinesterase inhibitors. There was mild retardation 
+
+in the rate of deterioration over one year, after which the patient started to deteriorate even 
+
+faster. Over 7 years (84 years old), patient progressed to severe Alzheimer's Disease. The doctor 
+
+wanted to start glutamate, but the disease had progressed to a point where no treatment would 
+
+work. The patient failed to recognize people or places. He progressed from only being able to 
+
+use phrases 
+
+to being able 
+
+to use words only. Most communication was 
+
+through 
+
+facial 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","expression. A full-time caregiver was employed to take care of the patient. The patient died at 
+
+the age of 85 years due to Pneumonia. 
+
+THE PROBLEM 
+
+There is no solution to cure or manage (significantly delay the progression of the disease) of AD. 
+
+The disease mechanism has not been understood completely, which hampers the way for 
+
+effective solutions. The current standard of care is largely palliative with full-time trained 
+
+people looking after the patient, especially when the disease has progressed to severe stages. 
+
+A common problem with all 
+
+long-term medication, 
+
+including those 
+
+for the treatment of 
+
+Alzheimer’s Disease, is that the strength of the dosage needs to be progressively increased with 
+
+time for the same or increased efficiency. Most common cause for this is the development of the 
+
+body's immunity to the same. The side effects of these medications also increase progressively 
+
+with increase in dosage. Beyond a certain point, the benefits of the medication are less than the 
+
+degree of side effects and hence, the dosage has to be saturated. Heavy medication almost 
+
+invariably puts a heavy load on the kidneys and liver. Liver Function Tests (LFTs) and Renal 
+
+Function Tests (RFTs) need to be periodically done to ensure that medication is not taking its 
+
+toll on the patient.  
+
+NEED STATEMENT 
+
+A better way to treat impaired cognitive function, memory loss, disorientation and aphasia in 
+
+patients with Alzheimer's Disease (AD) 
+
+FILTERING PROCESS 
+
+Final Score = 13.5 
+
+Rank = 9 
+
+MARKET POTENTIAL 
+
+More than 2 lakh annual incidence rate 
+
+More than 2 million people living with AD  
+
+Nearly 3 lakh annual deaths due to AD 2 
+
+COMPETITIVE LANDSCAPE  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NMDA receptor antagonists and Acetylcholinesterase inhibitors are the two classes of drugs 
+
+which have shown mild improvements for some period of time (1-5 years) when the disease in 
+
+mild to moderate stages. There are no drugs that can slow down the disease when it has 
+
+progressed 
+
+to 
+
+the 
+
+severe 
+
+stage. Psychosocial 
+
+intervention has 
+
+shown no measurable 
+
+improvements in retardation of disease progression. 
+
+AVAILABLE OPTIONS 
+
+Drugs have been the mainstay treatment for managing Alzheimer’s Disease. NMDA receptor 
+
+antagonists and Acetylcholinesterase inhibitors are the commonly used drugs. However, their 
+
+effect is limited to when the disease is in the early to moderate stages. Even then, the effect is 
+
+not often not significant to 
+
+improve quality of 
+
+life. Glutamate has been used to 
+
+improve 
+
+neurotransmitter function, but high risks of excitotoxicity leading to brain cell death exist. The 
+
+side-effects of long-term use of these drugs means that there is still no clear and proven 
+
+treatment for AD. 3, 4 
+
+Recent advances:  
+
+Deep brain stimulation: Scientists placed hair-thin electrodes 
+
+into 
+
+the brain 
+
+to deliver 
+
+electricity. The electricity delivery is designed to increase the activity of the nucleus basalis of 
+
+Meynert, which is the area of the forebrain that is degenerated in Parkinson’s and Alzheimer’s 
+
+diseases. 5 
+
+Rehabilitation Technology: Numerous devices are software are now available and being 
+
+developed to help in the rehabilitation of patients with AD. So far they have had moderate 
+
+success but do not help in halting/reversing the disease progression.  5 
+
+Non-invasive brain stimulation: Using an MRI, scientists were able to determine where 
+
+memory-related brain networks were 
+
+located 
+
+and 
+
+stimulated 
+
+them with non-invasive 
+
+electromagnetic stimulation. The brain stimulation lasted 24 hours and correlated with brain 
+
+activity changes. This non-invasive stimulation gives scientists a better understanding of 
+
+memory improvement. Previous brain stimulation only lasted a short amount of time and have 
+
+short-lived effects on thinking abilities. 5 
+
+Brainwave oscillations: These technique are used to induce brainwave oscillations to treat 
+
+Alzheimer’s disease symptoms. It is presently in the early stages of research and development 
+
+and plans to start using the techniques that it has used in mouse models in humans. 5 
+
+IDEAL SOLUTION STATEMENT 
+
+The solution should be able to quantifiably improve Cognitive function over time as indicated by 
+
+the Montreal Cognitive Assessment (MoCA) or Mini-Mental State Examination (MMSE) tests. 
+
+The solution should not have any side-effects and should take effect before the disease 
+
+progresses to moderate to severe stages.  
+
+NEED CRITERIA 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","MUST HAVES 
+
+● 
+
+● 
+
+● 
+
+● 
+
+Quantifiably improve Cognitive function 
+
+Prevent progress of short-term memory loss 
+
+Prevent aphasia 
+
+No side-effects of treatment (such as those caused by current medication) 
+
+NICE TO HAVE: 
+
+● 
+
+● 
+
+● 
+
+Easy-to-use (by any trained doctor) 
+
+Affordable to most patients (comparable to existing cost of management) 
+
+Solution should be portable 
+
+REFERENCES 
+
+1. 
+
+https://www.alz.org/alzheimers-dementia/what-is-alzheimers 
+
+2. Mathuranath, P. S., et al. ""Incidence of Alzheimer’s disease in India: A 10 yearsfollow-up 
+
+study."" Neurology India 60.6 (2012): 625. 
+
+3. Anand, R., Kiran Dip Gill, and Abbas Ali Mahdi. ""Therapeutics of Alzheimer's disease: 
+
+Past, present, and future."" Neuropharmacology 76 (2014): 27-50. 
+
+4. 
+
+Lipton, Stuart A. ""Paradigm shift in neuroprotection by NMDA receptor blockade: 
+
+memantine and beyond."" Nature reviews Drug discovery 5.2 (2006): 160. 
+
+5. 
+
+https://www.medicaldesignandoutsourcing.com/8-alzheimers-disease-breakthroughs-
+
+you-need-to-know/9/ Accessed 12/10/2018 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","9. BRAIN TUMOR 
+
+BACKGROUND 
+
+A brain tumor is formed when abnormal cells grow rapidly inside the brain. When the tumor 
+
+grows large enough in size, it leads to increased Intracranial Pressure (ICP)e. A decompressive 
+
+craniotomy with tumor resection is the first line of treatment in reducing the ICP. However, 
+
+most of the Indian population cannot afford a brain surgery in a private hospital , whereas 
+
+government hospitals are overburdened with surgeries. India has around 1500 neurosurgeons, 
+
+which does not meet India’s demand for neurosurgeons performing surgeries at economical 
+
+prices for the vast majority of the country 1. 
+
+OBSERVATION 
+
+Presentation 
+
+A 46-year-old male came into the OPD of a government tertiary care hospital after being 
+
+referred from a Primary Healthcare Centre (PHC). His family brought him with mild impairment 
+
+of speech and occasional inability to recognize people.  
+
+History 
+
+The patient had no other medical history or related comorbidity. 
+
+Treatment 
+
+The neurologist asked for an MRI which revealed a tumor in the parieto-occipital region of the 
+
+brain. Surgery was planned for a month later due to unavailability of Neuro Operation theatre 
+
+(OT) before a month. 
+
+During the surgery, the surgeon could not resect all of the tumor due to i ts contacts with major 
+
+arteries. Hence, the doctor resected as much as possible and said that the patient will have to be 
+
+monitored for any re-growth of the tumor. Histopathology of the tumor was done and the tumor 
+
+was reported to be a high-grade Glioblastoma Multiforme (GBM). The patient was followed up 
+
+with IV chemotherapy for 6 months at the District Hospital which was 300 kilometers from his 
+
+home. Government hospitals do not have newer non-invasive radiation surgery tools such as 
+
+stereotactic radiation surgery, which helps in tumor resection in difficult to access places. 
+
+The patient was advised to do an MRI every 4 months for the next 2 years to confirm that the 
+
+tumor is not re-growing. The patient lived 800 kilometers from the THC but was willing to 
+
+travel the distance for the free treatment. After 1 year of follow-up, the tumor was confirmed to 
+
+be re-growing and hence required another surgery. However, the Neurosurgery OT was booked 
+
+for the next several months with equally urgent surgeries. The Neurosurgery department 
+
+maintains a priority list of which patients require surgery urgently. This patient was put down 
+
+on the list for a surgery which was scheduled 6 months later. When the department called the 
+
+patient 6 months later, the family informed that the patient had died. 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","PROBLEM 
+
+A tumor resection surgery via craniotomy costs up to 5 lakhs in a private hospital. Most of the 
+
+rural population cannot afford such a surgery. Hence, they resort to government hospitals. 
+
+Government hospitals are burdened with surgeries for 6 days 
+
+in a week. Decompressive 
+
+Craniotomy with tumor resection typically takes at least 5-6 hours and can go up to 24 hours 
+
+depending on the complexity of the tumor. Hence, neurosurgery departments generally handle 
+
+one such case per day. Most of the patients have to wait until it’s their turn for surgery. Many 
+
+patients die during the wait. Chemotherapy 
+
+is relatively 
+
+ineffective 
+
+in completely killing 
+
+malignant primary tumors. 
+
+NEED STATEMENT  
+
+An effective and reliable method to allow for visualisation and complete clearance of brain 
+
+tumors in patients at tertiary care centres to avoid recurrences 
+
+FILTERING PROCESS 
+
+Final Score = 13.5 
+
+Rank = 9 
+
+MARKET POTENTIAL  
+
+More than 1 lakh annual incidence rate of a malignant brain tumor. 2,3 
+
+COMPETITIVE LANDSCAPE 
+
+Most of the brain tumors present with neurological symptoms once the tumor has grown to a 
+
+large enough size that chemotherapy and radiation therapy in themselves cannot completely 
+
+kill all the tumor cells. Hence, surgery via craniotomy is the most common line of treatment. 
+
+Chemotherapy and Radiation therapy is often used to get rid of tumor tissue that is unreachable 
+
+in the brain. However, radiation therapy and chemotherapy have their own respective side-
+
+effects. 
+
+CURRENT TREATMENT 
+
+● 
+
+Surgery via Craniotomy – This involves removing a piece of the cranium by creating 
+
+burr holes. The tumor is then resected. 4 
+
+● 
+
+Radiation surgery – Stereotactic radiosurgery involves sending high energy radiation 
+
+from various directions to meet at a common point (location of the tumor). The joint 
+
+radiation created high energy which is converted to heat and hence burns the tumor 
+
+tissue. 5 
+
+● 
+
+Chemotherapy – Chemotherapeutic agents are delivered either orally or through an 
+
+intravenous cannula. However, chemotherapy is rather ineffective in killing primary 
+
+malignant tumors, which accounts for most of the high-grade brain tumors. 
+
+38 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","● 
+
+Radiation Therapy – Radiation therapy involves dispersing ionizing radiation to the 
+
+target location. Radiation therapy has its own set of side-effects. 
+
+IDEAL SOLUTION STATEMENT  
+
+The solution should be able to resect all of the tumor within one attempt, especially if the 
+
+solution is invasive. The solution should be affordable to the rural population of India.  
+
+NEED CRITERIA  
+
+MUST HAVES 
+
+● 
+
+● 
+
+● 
+
+Remove the entire tumor (with margin) in a single attempt 
+
+Should allow for confirmation of clearance (visual or otherwise) 
+
+Cost to patient should not be more than 20% of current neurosurgery 
+
+NICE TO HAVE 
+
+● No side-effects such as those caused by chemo or radiation therapy 
+
+● 
+
+Should be easy to use (any trained neurosurgeon should be able to use the 
+
+solution) 
+
+REFERENCES 
+
+1. 
+
+https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-
+
+20350084 Accessed 11/9/2018 
+
+2. 
+
+Yeole, Balkrishna B. ""Trends in the brain cancer incidence in India."" Asian Pac J Cancer 
+
+Prev 9.2 (2008): 267-270. 
+
+3. Dasgupta, Archya, Tejpal Gupta, and Rakesh Jalali. “Indian Data on Central Nervous Tumors: 
+
+A Summary of Published Work.” South Asian Journal of Cancer 5.3 (2016): 147–153. PMC. 
+
+Web. 11 Sept. 2018. 
+
+4. 
+
+5. 
+
+Craniotomy https://emedicine.medscape.com/article/1890449-overview  
+
+Stereotactic radiosurgery - CyberKnife https://medlineplus.gov/ency/article/007274.htm 
+
+Accessed 11/9/2018 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","10. SWALLOWING FUNCTION ASSESSMENT  
+
+BACKGROUND 
+
+Aspiration is defined as the inhalation of either oropharyngeal or gastric contents into the lower 
+
+airways, that is, the act of taking foreign material into the lungs. This can cause a number of 
+
+syndromes determined by the quantity and nature of the aspirated material, the frequency of 
+
+aspiration, and the host factors that predispose the patient to aspiration and modify the 
+
+response.  Almost all patients who develop aspiration pneumonia have one or more of the 
+
+predisposing conditions such as alcoholism, drug overdose, seizures, stroke, head trauma, 
+
+general anesthesia or intracranial mass lesion. 1 Several stroke patients lose control over 
+
+swallowing function due to hypoxia in certain regions of the brain. During rehabilitation in the 
+
+hospital, the patient’s swallowing function has to be repeatedly evaluated, until which, the 
+
+patient is fed via a nasogastric tube. There is a high risk of the patient developing Aspiration 
+
+Pneumonia (AP) when swallow tests are done using water fed through a tablespoon 1. Nearly 
+
+30% of all stroke patients require swallow function tests. 1 Several studies suggest that 5-15% 
+
+of the 4.5 million cases of community-acquired pneumonia (CAP) result 
+
+from aspiration 
+
+pneumonia. A retrospective review 
+
+found 
+
+that 
+
+the 30-day mortality rate 
+
+from aspiration 
+
+pneumonia is 21% overall and slightly higher in healthcare-associated aspiration pneumonia 
+
+(29.7%).  
+
+OBSERVATION 
+
+Presentation 
+
+A 67-year-old female was admitted to emergency with sudden onset weakness in left upper and 
+
+lower limbs, along with deviation of mouth to the right. 
+
+History 
+
+The patient was a regular consumer of tobacco until 3 years ago. The patient had a history of a 
+
+minor ischemic Cerebro-Vascular Accident (CVA) (acute pre-central gyrus infarct due to right 
+
+middle cerebral artery block) 3 years ago. The patient was on anti-stroke medication and had an 
+
+almost complete recovery in 6 months. She stopped her medication by herself after she had 
+
+completely regained control over the affected skeletal muscles. 
+
+Days of admission 
+
+On 
+
+the day of admission, 
+
+the MRI 
+
+revealed a 
+
+frontal-parietal 
+
+infarct along with mild 
+
+compression of the right lateral ventricle. The patient was put on anti-stroke and anti-seizure 
+
+medication. An Echocardiogram showed a sclerosed aortic valve along with aortic regurgitation. 
+
+The left atrium was dilated. Doctors concluded that this was a cardio-embolic stroke. The 
+
+patient was kept in the hospital to recover from the stroke.  
+
+Three days later, she had a Generalized Tonic-Clonic Seizure (GTCS) and patient progressed to 
+
+status epilepticus. The patient was sedated and shifted to ICU, where she was intubated. A few 
+
+40 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","days later the patient was shifted to a regular ward since there were no more episodes of 
+
+seizures. The patient was on Nasogastric Tube for feeding. Doctors were unable to assess any 
+
+improvement in the swallowing action of the patient. Doctors tried to give a teaspoon of water 
+
+to assess swallowing. There was a high risk of aspirating the water into the lungs. Doctors said 
+
+that many patients in the past have contracted pneumonia both before and after evaluation of 
+
+swallowing via this crude method.  
+
+THE PROBLEM 
+
+Doctors do not have an affordable, portable and easy-to-use solution to assess swallowing 
+
+functionality. A Functional Endoscopic Evaluation of Swallowing (FEES) is an expensive and 
+
+skilled solution that cannot be used on a daily basis. Hence, neurologists resort to giving a little 
+
+water to drinking in a teaspoon. If the patient is able to receive the water well repeatedly, they 
+
+proceed with soft food items. Patients who have not regained full control over swallowing end 
+
+up having the water enter the lungs, which leads to infected lungs (Pneumonia/Pneumonitis). 
+
+Currently available solutions to assess swallowing 
+
+function are both expensive and non-
+
+portable. 
+
+NEED STATEMENT 
+
+A quantifiable, portable and affordable way to assess swallowing 
+
+function 
+
+in post-stroke 
+
+patients at Tertiary Healthcare Centres to avoid the high risk of aspiration pneumonitis / 
+
+Pneumonia. 
+
+FILTERING PROCESS 
+
+Final Score = 13.5 
+
+Rank = 10 
+
+MARKET POTENTIAL 
+
+There are 15 lakh new reported cases of stroke every year. 
+
+Dysphagia occurs in 55% of all acute stroke patients. 
+
+At least 20% of these cases are at high risk of developing Aspiration Pneumonia (AP): At least 3 
+
+lakh cases of AP every year. 2 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","COMPETITIVE LANDSCAPE  
+
+There is no portable and affordable technology that can accurately assess swallowing function. 
+
+Due to the lack of technology, neurologists often resort to risky methods such as providing a 
+
+measured quantity of water to drink. The doctor then manually observes the throat along with 
+
+any cough or gag reflex that may be present. 
+
+X-ray and endoscopy-based methods are available. However, they are not preferred to be used 
+
+on a daily basis due to the cost of the scan and the immobility of the technology. Additionally, 
+
+these technologies also have their own side-effects. 
+
+AVAILABLE OPTIONS 
+
+● 
+
+Fibreoptic Endoscopic Evaluation of Swallowing (FEES) - This is an endoscope which 
+
+helps to visualize the tongue and epiglottis and judge their functionality. Based on this, 
+
+doctors decide on whether the patient is ready to start receiving food from the mouth. 
+
+This requires a skilled doctor to both use the equipment as well as evaluate the 
+
+swallowing function. Endoscopes are immobile devices and are expensive to the patient 
+
+for daily usage on the same patient. 3 
+
+● 
+
+Barium Swallow Test – The patient is made to drink a Barium Sulphate solution while 
+
+an x-ray video is captured. The Barium Sulphate absorbs x-ray radiation and hence 
+
+shows up on an x-ray. The video clearly shows the movement of the liquid from the 
+
+mouth to the stomach. Rear-tongue and epiglottis function is judged from this video. 
+
+Patients may be allergic to Barium Sulphate and go into anaphylactic shock. Patients 
+
+may also develop constipation. Long-term effects from the x-ray radiation include the 
+
+high risk of cancer. 4 
+
+● 
+
+Toronto Bedside Swallowing Screening Test – This involves delivering 10 teaspoons 
+
+of water to judge whether the patient has dysphagia or not. However, there is a high risk 
+
+of the water aspirating into the lungs, hence inducing pneumonia. 5 
+
+IDEAL SOLUTION STATEMENT 
+
+The solution must be designed such that it can be used daily on the same patient bedside, 
+
+without incurring much cost to the patient. The solution must be easy-to-use and should give a 
+
+quantified assessment of swallowing function.  
+
+NEED CRITERIA 
+
+MUST HAVES 
+
+● 
+
+● 
+
+● 
+
+● 
+
+Quantified assessment of swallowing (scale of 1 to 10) 
+
+Easy-to-use (ideally usable by interns and trained nurses) 
+
+Portability (bed-side usability) 
+
+Cost to the patient should not cross 20% of current management costs for stroke 
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","NICE TO HAVE 
+
+● 
+
+● 
+
+● 
+
+● 
+
+Non-invasive method 
+
+Any nurse should be able to use (with simple instructions) 
+
+Should directly indicate whether doctor swallowing of food should be tried or not 
+
+Handheld device 
+
+REFERENCES 
+
+1. Aspiration 
+
+Pneumonitis 
+
+& 
+
+Pneumonia   
+
+https://emedicine.medscape.com/article/296198-overview Accessed 11/8/2018 
+
+2. 
+
+Pandian, 
+
+Jeyaraj Durai, and Paulin Sudhan. “Stroke Epidemiology and Stroke Care 
+
+Services in India.” Journal of Stroke 15.3 (2013): 128–134. PMC. Web. 11 Sept. 2018. 
+
+3. 
+
+https://www.hopkinsmedicine.org/healthlibrary/test_procedures/other/fiberoptic_eva
+
+luation_of_swallowing_135,335  
+
+4. 
+
+https://www.hopkinsmedicine.org/healthlibrary/test_procedures/gastroenterology/ba
+
+rium_swallow_92,P07688  
+
+5. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/19074483  
+
+8/23/18  
+
+Need Specification Documents – Neurology and Neurosurgery 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"

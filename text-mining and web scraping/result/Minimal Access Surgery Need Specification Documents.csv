@@ -1,0 +1,6661 @@
+"MINIMAL 
+
+ACCESS 
+
+SURGERY 
+
+NEED 
+
+SPECIFICATION 
+
+DOCUMENTS: 
+
+THE 
+
+FILTERING PARAMETERS  
+
+The AIM (Affordable Inventions in Medical Technology) Fellowship Program 
+
+The Affordable Inventions in Medical Technology (AIM) Fellowship conducted by The Lemelson 
+
+Foundation and InnAccel is focused on the creation and publication of a robust database of 
+
+validated clinical needs within 
+
+the 
+
+Indian healthcare system based on hours of clinical 
+
+immersion and extensive secondary research. In essence, it is meant to provide entrepreneurs, 
+
+engineers, designers and others inclined toward healthcare innovation, with a solid foundation 
+
+to build on as they create solutions to bridge key gaps and address specific unmet needs. 
+
+The Methodology: Following the Stanford BioDesign Process 
+
+The core essence of the BioDesign Process is the clinical immersion of multidisciplinary teams, 
+
+to investigate and validate unmet clinical needs, identify gaps and opportunities in the need 
+
+area, ideate and systematically select a lead concept to address the need, and determine its 
+
+feasibility through prototyping and proof of concept testing. It consists of 3 phases Identify, 
+
+Invent and Implement. Of these 3, this Fellowship was focussed only on the first. 
+
+The identify phase is, first and foremost, the search for important unmet health needs. By 
+
+directly observing the full cycle of care from diagnosis and treatment to recovery and billing, we 
+
+explore problems and opportunities and ask pointed questions that challenge the status quo. 
+
+During this first-hand observation period, 
+
+it’s 
+
+ideal to collect hundreds of needs, without 
+
+judging or prioritizing. This is followed by filtering the list with rigorous objectivity. This 
+
+intense and iterative process involves exploring epidemiology, criticality, technical complexity, 
+
+competitor analysis and regulatory obstacles. Ultimately we narrowed down to 10 needs in each 
+
+therapy area, which if solved would have a major impact on health and wellness. 
+
+This document details the 3 levels of filtering used during the AIM Fellowship to prioritise the 
+
+top unmet needs 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+","TH E F I L T ER IN G PRO C E S S : 3 ST A G E S O F F I L T E R ING 
+
+Level 1: The level 1 filter eliminated those needs which are redundant, pharmaceutical related 
+
+or process related.  
+
+Level 2: This level of filtering focused on the severity of clinical condition (in the perception of 
+
+observers and clinicians) as well as the epidemiology of the disease and the frequency of the 
+
+negative outcome. This data was then validated by a comprehensive 
+
+literature review of 
+
+incidence and prevalence data. A scoring system of 1 – 3 – 5 was used through the process.  
+
+Epidemiology 
+
+Frequency of problem as per clinician (number of cases per month)  
+
+ 
+
+ 
+
+ 
+
+< 5 patients per month=1 
+
+6-12 patients per month  =3 
+
+>13 patients per month =5 
+
+Frequency of problem as per observers (number of cases seen per month during the clinical 
+
+immersion) 
+
+ 
+
+ 
+
+ 
+
+< 2 patients per month=1 
+
+2-5 patients per month  =3 
+
+>5 patients per month =5 
+
+Criticality 
+
+ 
+
+Short 
+
+lasting, 
+
+reversible: Not 
+
+resulting 
+
+in 
+
+death, 
+
+disability, 
+
+hospitalization, 
+
+or 
+
+socioeconomic stress = 1 
+
+ 
+
+Resulting in death, hospitalization >3 days, disability/ handicap (> 6 months), large 
+
+financial burden to the patient/family = 5 
+
+ 
+
+Needs in between 1 and 5 = 3. 
+
+Observed Epidemiology and criticality score: 3 (Frequency of clinician) + Frequency of 
+
+observer + 3 (Criticality score) 
+
+Target patient population in a given year: We used data wherever available for India. 
+
+However, in many cases due to the dearth of validated health statistics, certain assumptions had 
+
+to be made using a combination of data from India and global epidemiological data. 
+
+ 
+
+ 
+
+ 
+
+<100,000 patients/year = 1 
+
+100,000 – 500,000 patients/year = 3 
+
+>500,000 patients/year =5 
+
+Secondary research based epidemiology and criticality score: Target patient population * 
+
+Criticality score 
+
+Filter 2 score: Subjective epidemiology and criticality score + secondary research based 
+
+epidemiology and criticality score 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","Level 3: The third level of filtering evaluated the technical complexity of the solutions available, 
+
+the regulatory landscape and the buyer environment.  
+
+Number of predicates: This was made based on the solutions which currently exist as per 
+
+guidelines and those being used in the Indian clinical setting. Both at prevailing practice as well 
+
+as gold standards were considered. 
+
+ 
+
+ 
+
+ 
+
+High number of predicates i.e. >5 = 1 
+
+Medium number of predicates i.e. 1 to 5= 3 
+
+No predicates = 5 
+
+Technical complexity of predicates: This filter considered the technology behind the solution 
+
+as well as the expertise needed to 
+
+implement 
+
+it 
+
+in current clinical practice. A medium 
+
+complexity solution is rated the highest, followed by low complexity and lastly by a highly 
+
+complex solution.  
+
+ 
+
+ 
+
+ 
+
+High =1 
+
+Medium =5 
+
+Low =3 
+
+Regulatory and clinical trial complexity: This filter was based on the regulatory hurdles and 
+
+clinical trials one would have to conduct for a particular solution. It was a judgment call based 
+
+on the current predicates in the system and the classification of devices as per the Global 
+
+Harmonisation Task Force classification (Class A - Low Risk, Class B - Low to Moderate Risk, 
+
+Class C - Moderate to High Risk, Class D - High Risk) 
+
+ 
+
+ 
+
+ 
+
+High (Class D) =1 
+
+Medium (Class C) =3 
+
+Low (Class A & B) =5 
+
+Buyer environment: This filter was based on the eventual buyer of a particular medical 
+
+solution. This in turn depended on which level in the healthcare system the particular condition 
+
+was treated. The peripheral 
+
+immersion helped understand, more thoroughly, the referral 
+
+system in India which defined this filter. 
+
+ 
+
+ 
+
+ 
+
+High (Tertiary Care Centre) = 5 
+
+Medium (Secondary Centre) = 3 
+
+Low (Individual/Primary centre) 
+
+= 1 
+
+Filter 3 score  = Number of predicates score + Regulatory and clinical trial complexity 
+
+score + Buyer environment score 
+
+Final Score= Filter 2 score + (Filter 3)/4 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","1 . SUR G I C A L S IT E I N F E C T ION ( S S I ) 
+
+BA C K GROUN D 
+
+The skin is a natural barrier against infection. Even with many precautions and protocols to 
+
+prevent infection in place, any surgery that causes a break in the skin can lead to an infection. 
+
+Surgeons call these infections surgical site infections (SSIs) because they occur on the part of 
+
+the body where the surgery took place.1 If you have surgery in India, the chances of developing 
+
+an SSI are about 4.2%.2 An SSI typically occurs within 30 days after surgery. The CDC describes 
+
+3 types of surgical site infections: Superficial incisional SSI, Deep incisional SSI, Organ or space 
+
+SSI. Any SSI may cause redness, delayed healing, fever, pain, tenderness, warmth, or swelling 
+
+plus some specific symptoms based on the classification above. Infections after surgery are 
+
+caused 
+
+by 
+
+certain 
+
+microbial 
+
+agents. 
+
+The 
+
+most 
+
+common 
+
+of 
+
+these 
+
+include 
+
+the 
+
+bacteria Staphylococcus, Streptococcus, and Pseudomonas. These bacteria can infect a surgical 
+
+wound through various forms of contact, such as from the touch of a contaminated caregiver or 
+
+surgical instrument, through germs in the air, or through germs that are already on or in your 
+
+body and then spread into the wound. The degree of risk for an SSI is linked to the type of 
+
+surgical wound you have. Surgical wounds can be classified in this way: Clean wounds, Clean-
+
+contaminated wounds, contaminated wounds, dirty wounds. These are other risk factors for 
+
+SSIs such as surgery that lasts more than 2 hours, other medical problems or diseases, elderly 
+
+patients, obesity, smoking, cancer, lowered immunity, diabetes, emergency surgery and certain 
+
+specific surgeries such as abdominal surgeries. It is difficult to ignore the burden posed by 
+
+surgical site infections (SSIs) on patients' safety in terms of pain, suffering, delayed wound 
+
+healing, increased use of antibiotics and antibiotic resistance, revision surgery, increased length 
+
+of hospital stay, mortality, morbidity and excess healthcare costs. SSIs have also been associated 
+
+with the emergence of multi-drug resistant bacteria 
+
+O B S E R V A T I ON 
+
+A 25-year-old woman G3P2L2A1 underwent 
+
+a 
+
+laparoscopic 
+
+vaginal hysterectomy 
+
+for 
+
+symptomatic fibroids in a tertiary health center.  The patient was put in the lithotomy position, 
+
+the abdomen was prepped and draped. 
+
+ A peri-umbilical 
+
+incision was used to 
+
+introduce 
+
+pneumoperitoneum. A larger 10-12 mm trocar was placed above the umbilicus to provide a 
+
+panoramic view of 
+
+the pelvis. An 8-mm 
+
+trocar was 
+
+inserted 
+
+in 
+
+the 
+
+lower quadrants, 
+
+approximately 2-3 cm superior and 2-3 cm medial to the anterior superior iliac spine. In a 
+
+bilateral fashion, the round ligaments were identified, grasped, and divided with bipolar or 
+
+monopolar cautery, developing both the anterior and posterior leaf of the broad ligament. After 
+
+ureteral identification, further retroperitoneal dissection allowed the ureter to fall laterally and 
+
+away from active ligation and coagulation. A window was developed in the medial leaf of the 
+
+broad 
+
+ligament and 
+
+the 
+
+infundibulopelvic 
+
+ligaments were 
+
+sealed with 
+
+suture, bipolar 
+
+electrocautery, or surgical clips. Once the anterior and posterior colpotomies were opened, the 
+
+uterine vessels were skeletonized, sealed, and divided with a sealing device or vessel clips. The 
+
+remainder of the colpotomy was completed using monopolar or bipolar cautery. After the 
+
+division of the uterus and cervix from the upper vagina, the specimens were then delivered 
+
+through the vagina. The vaginal cuff was then closed with interrupted sutures. The patient was 
+
+extubated and shifted to the post-operative room for monitoring and then to the ward. On 
+
+postoperative day 3 she presented with fever, abdominal pain, and purulent vaginal discharge 
+
+and was diagnosed with vaginal cuff infection post hysterectomy. She was re-admitted and 
+
+started on IV antibiotics and had an abscess drainage in the hospital for an additional week 
+
+before being discharged. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+","T H E PRO B L EM  
+
+Most SSIs are believed to be acquired during surgery. This is supported by the success of SSI 
+
+prevention measures directed towards activities in the operating theater and a few reports 
+
+demonstrating matching strains of pathogens from the surgeon's fingers and postoperative 
+
+infection. However, despite much research on SSI, there are currently no data on the actual 
+
+proportion acquired in the operating theater versus post-operative care in the wards. Similarly, 
+
+within the subgroup of SSIs acquired during surgery, the proportion originating from the 
+
+patient versus that transmitted by the surgical staff, operating theatre procedure or the 
+
+environment remains unknown.3 The risk of complications is poorly characterized in many 
+
+parts of the world, but studies in industrialized countries have shown a perioperative rate of 
+
+death 
+
+from 
+
+inpatient surgery of 0.4 to 0.8% and a rate of major complications of 3 to 
+
+17%. These rates are likely to be much higher in developing countries. Thus, surgical care and 
+
+its attendant complications represent a substantial burden of disease worthy of attention from 
+
+the public health community worldwide. Data suggest 
+
+that at 
+
+least half of all surgical 
+
+complications are avoidable. SSIs remain a significant clinical problem as they are associated 
+
+with substantial mortality and morbidity and impose severe demands on healthcare resources. 
+
+The incidence of SSIs may be as high as 20%, depending on the surgical procedure, the 
+
+surveillance criteria used, and the quality of data collection. 4, 5 Resultant increased hospital stay 
+
+due to surgical site infection (SSI) has been estimated at 7-10 days, increasing hospitalization 
+
+costs by 20%. 6 
+
+N E ED S T A T EM ENT 
+
+An effective and definitive way to avoid infections at the post-op site in patients who have 
+
+undergone open or laparoscopic surgical procedures in a tertiary healthcare setting. 
+
+F I L T E R IN G 
+
+Final score = 28 
+
+Rank = 1 
+
+M AR K E T PO T EN T I A L 
+
+Epidemiology: As per the ‘Surgical site infection rates in 6 cities of India: Findings of the 
+
+International Nosocomial Infection Control Consortium (INICC)', the SSI rates in India were: 
+
+4.3% for coronary bypass with chest and donor incision, 8.3% for breast surgery, 6.5% for 
+
+cardiac surgery and 6.0% for exploratory abdominal surgery. 2 
+
+Although the exact number of surgeries conducted in India is not available, a WHO report stated 
+
+that countries spending US$100 or less per person on health care (of which India is a part, 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","spending $63 per capita per year) have an estimated mean rate of major surgery of 295 
+
+procedures per 100 000 population per year. This would equate to 3,835,000 procedures in a 
+
+given year and reported incidence rates of SSIs ranging from 4.3% to 21% in some single -center 
+
+studies. 2, 5  
+
+C OM P E T I T I V E LAN D S C A P E 
+
+C U R R EN T PR A C T I C E 
+
+SSI precautions: The 
+
+importance of peri-operative precautions have been established 
+
+in 
+
+various clinical trials and guidelines. 
+
+CURRENT METHODS OF S S I PREVENT ION 1 
+
+At present, four preventive measures are considered as having a high level of evidence (grade 
+
+IA) according to major evidence-based guidelines: 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surgical hand preparation 
+
+Appropriate antibiotic prophylaxis 
+
+Postponing of an elective operation in the case of active remote infection 
+
+Hair clipping: Pre-surgery hair clipping was considered grade IA evidence in the 1999 CDC 
+
+guidelines this high grading is now a matter of debate. 
+
+Other measures of high efficacy include:3 
+
+ 
+
+Surgical expertise: An excellent surgical technique is believed to reduce SSI by maintaining 
+
+effective hemostasis while preserving adequate blood supply; gentle handling of tissue; 
+
+removal of devitalized tissue; eradication of dead space; and appropriate management of 
+
+the postoperative incision 
+
+ 
+
+Active Surveillance: Decreases in SSI rates have been observed in national surveillance 
+
+networks in countries, such as France, Germany, and The Netherlands. An active surveillance 
+
+programme may decrease SSI rates by merely reporting data without any other formal 
+
+interventions 
+
+ 
+
+Multi-Modal interventions: Surgical checklists, quality care initiatives etc.  
+
+Widespread measures with low evidence: 3 
+
+ Wound closure: Staples versus sutures are a hotly contested topic both are reported to be 
+
+similar in terms of SSI risk. Some studies concluded that primary closure in dirty abdominal 
+
+surgery leads to less SSIs than delayed primary closure, whereas others report the opposite. 
+
+ 
+
+Microbial sealing: Mechanical blockage of pathogen migration to the surgical wound) may 
+
+be a new approach 
+
+to reduce wound contamination, but 
+
+this has yet 
+
+to prove 
+
+its 
+
+ 
+
+ 
+
+ 
+
+effectiveness in reducing SSI rates 
+
+Preoperative Bathing or Showering 
+
+Preoperative Skin Preparation 
+
+Gloves & Adhesive Drapes: Sterile gloves and adhesive drapes are almost always used in 
+
+the operating theater. They contribute to preventing site contamination and blood-borne 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","pathogen 
+
+transmission 
+
+from patients 
+
+to surgeons. However, many gloves reveal 
+
+tiny 
+
+punctures after use that mostly go unnoticed and may double the SSI risk. Double-gloving or 
+
+glove-changing might 
+
+reduce 
+
+the 
+
+risk of punctures. A Cochrane 
+
+review of 26 
+
+trials 
+
+conducted on the practice of double gloving as a barrier precaution was inconclusive in 
+
+terms of SSI reduction. 
+
+ 
+
+Laminar Airflow in the Operating Theater; A retrospective analysis in Germany showed 
+
+no reduction of SSI with 
+
+laminar airflow versus no 
+
+laminar airflow but needs to be 
+
+corroborated with larger scale studies.  
+
+ 
+
+Oral Mechanical & Antibiotic Bowel Preparation: A meta-analysis including 14 trials and 
+
+4859 patients failed to demonstrate a benefit of mechanical bowel preparation be fore 
+
+colorectal surgery in terms of reduction of SSI or anastomotic leakage. The NICE guidelines 
+
+do not recommend mechanical bowel preparation either.  
+
+ 
+
+Postsurgical Wound Care: There is a paucity of literature on surgical wound care and SSI 
+
+prevention. A Cochrane review assessed the effectiveness of various dressings and topical 
+
+agents on surgical wound healing (and infection) and concluded that the quality of the trials 
+
+was insufficient to determine any superiority of one protocol or one topical agent over 
+
+another. Other randomized studies comparing occlusive versus gauze dressings equally 
+
+failed to detect superiority in terms of SSI reduction or wound healing. 
+
+A V EN U E S O F R E S E AR C H IN S S I PR E V EN T I ON 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Screening for MRSA Carriage on Admission 
+
+Screening for Nasal S. aureus Colonization & Decolonization 
+
+Avoidance of Intraoperative Hypothermia 
+
+Avoidance of Intraoperative Hyperglycemia 
+
+Supplemental Oxygen 
+
+Naso- and oropharynx decontamination with chlorhexidine 
+
+M AN AG EM EN T O F S U R G I C A L S I T E IN F E C T I O N S 
+
+Culture: A tissue culture may be used to investigate the pathogen involved and thus tailor the 
+
+antibiotic coverage 
+
+Symptomatic treatment: Management of shock, hypoventilation, and other complications 
+
+should be provided 
+
+Antibiotics: Initial administration of empiric broad-spectrum antimicrobial therapy until the 
+
+culture 
+
+is obtained. Antibiotics with coverage against gram-positive and gram-negative 
+
+organisms, including Pseudomonas, should be empirically started and then tailored according to 
+
+susceptibility pattern of isolated organisms. Duration of therapy depends on several factors, 
+
+including 
+
+isolated pathogen, 
+
+retention of a 
+
+catheter, or 
+
+the presence of 
+
+complications 
+
+(endocarditis, sepsis). For most bacterial organisms, the duration of therapy is 10-14 days after 
+
+blood cultures become negative. 
+
+Surgical intervention: In cases such as abscesses, fistulas etc. antibiotics may not be sufficient 
+
+to abate the infection and surgical intervention is needed as well.  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","EM E R G IN G S O LU T I ON S 
+
+Wound Protectors: Wound protectors are devices designed to protect the abdominal wound 
+
+edges 
+
+from contamination and 
+
+trauma during 
+
+laparotomy. They 
+
+fall 
+
+into 2 main design 
+
+categories: those with an internal and external ring connected by impervious plastic and those 
+
+with a single, internal ring connected to a drape that extends outward, over the wound edges 
+
+and onto the abdomen where they are affixed with adhesive or clips. The reduction of SSI 
+
+afforded by wound protectors is supported by several studies. However, other studies have 
+
+obtained null results.  7 
+
+207-nm Ultraviolet Light: A Promising Tool for Safe Low-Cost Reduction of Surgical Site 
+
+Infections. Conventional germicidal UV lamps, typically emitting a broad spectrum of UVC light, 
+
+are very effective at killing both bacteria and viruses. A particular advantage of UVC -mediated 
+
+bacterial killing is that it is essentially independent of acquired drug resistance . 8 
+
+Antimicrobial film drape: A novel preoperative antimicrobial silicone film drape designed to 
+
+reduce the risk of bacterial contamination of the patient's skin prior to surgery by providing 
+
+continuous antimicrobial activity. 9 
+
+Specialised wound dressings and sutures: Wound dressing with nanofiber infused Vitamin D 
+
+is a new technique recently published, as well as antimicrobial coated suture materials,  are also 
+
+available. 10, 11 
+
+Operation Theatre Measures: Positive Pressure, exchanges of 
+
+filtered air per hour, air-
+
+conditioning systems with HEPA filters, controlled airflow system (heating, ventilation, air-
+
+conditioning system: HVAC) and unidirectional-flow systems (""laminar airflow or LAF""). 12  
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+A solution that offers continuous 
+
+inhibition of pathogen growth at the surgical site peri-
+
+operatively including during the follow-up period after discharge 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+Continuous inhibition of pathogen growth  
+
+Should be used both in-hospital as well as in the post-discharge follow-up period 
+
+Should have no/minimal risk of contamination 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"," 
+
+Should not be high skill from measurement or maintenance perspective 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+Should be non-invasive 
+
+Should be easy enough for an intensive care nurse to measure and maintain 
+
+Should be portable 
+
+R E F E R EN C E S :  
+
+1. 
+
+Surgical Site Infections: John Hopkins Health Library 
+
+https://www.hopkinsmedicine.org/healthlibrary/conditions/surgical_care/surgical_sit
+
+e_infections_134,144 
+
+2. 
+
+Surgical site infection rates in 6 cities of India: findings of the International Nosocomial 
+
+Infection Control Consortium (INICC). International Health Advance Access published 
+
+December 8, 2014 
+
+3. Uçkay, Ilker, et al. ""Preventing surgical site infections."" Expert review of anti-infective 
+
+therapy 8.6 (2010): 657-670. 
+
+4. Owens, C. D., and K. Stoessel. ""Surgical site infections: epidemiology, microbiology, and 
+
+prevention."" Journal of Hospital Infection 70 (2008): 3-10. 
+
+5. 
+
+Setty, Naveen Kikkeri Hanumantha, et al. ""A study on Surgical Site Infections (SSI) and 
+
+associated factors in a government tertiary care teaching hospital in Mysore, 
+
+Karnataka."" International Journal of Medicine and Public Health 4.2 (2014). 
+
+6. Mahmoud NN, Turpin RS, Yang G, Saunders WB. Impact of surgical site infections on 
+
+length of stay and costs in selected colorectal procedures. Surg Infect (Larchmt). 2009 
+
+Dec. 10(6):539-44. 
+
+7. 
+
+Edwards, Janet P., et al. ""Wound protectors reduce surgical site infection: a meta-
+
+analysis of randomized controlled trials."" Annals of surgery 256.1 (2012): 53-59. 
+
+8. Buonanno, Manuela, et al. ""207-nm UV light—a promising tool for safe low-cost 
+
+reduction of surgical site infections. II: In-vivo safety studies."" PloS one 11.6 (2016): 
+
+e0138418. 
+
+9. 
+
+https://www.beckersasc.com/asc-quality-infection-control/antimicrobial-film-drape-
+
+receives-frost-sullivan-award-for-innovation-in-ssi-prevention-4-insights.html Accessed 
+
+10/8/2018  
+
+10. 1α,25-dihydroxyvitamin D3-eluting nanofibrous dressings induce endogenous 
+
+antimicrobial peptide expression https://www.futuremedicine.com/doi/10.2217/nnm-
+
+2018-0011  Accessed 10/8/2018 
+
+11. Williams, Nia, et al. ""Randomized trial of antimicrobial-coated sutures to prevent 
+
+surgical site infection after breast cancer surgery."" Surgical infections 12.6 (2011): 469-
+
+474. 
+
+12. Spagnolo, A. M., et al. ""Operating theatre quality and prevention of surgical site 
+
+infections."" Journal of preventive medicine and hygiene 54.3 (2013): 131. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","2 . O PHT HA LM I C COM P L I C A T ION S I N E NDO S CO P I C S IN U S  SUR G E R Y 
+
+BA C K GROUN D 
+
+Chronic sinusitis is one of the more prevalent chronic illnesses across the globe, affecting 
+
+persons of all age groups. It is an inflammatory process that involves the paranasal sinuses and 
+
+persists for 12 weeks or longer. The literature has supported that chronic sinusitis is almost 
+
+always accompanied by concurrent nasal airway inflammation and is often preceded by rhinitis 
+
+symptoms; thus, the term chronic rhinosinusitis (CRS) has evolved to more accurately describe 
+
+this condition. The overall prevalence of CRS in the has been said to occur in 1 in 7 individuals 
+
+and for unknown reasons, the incidence of this disease appears to be increasing yearly. In the 
+
+USA alone this results in approximately 18-22 million physician visits and a direct treatment 
+
+cost of $3.4-5 billion annually.1  
+
+The first line of management for CRS is medical including antibiotics, anti -allergic drugs, nasal 
+
+sprays etc. If the medical approach doesn't suffice, Functional Endoscopic Sinus Surgery (FESS) 
+
+is the most appropriate surgical procedure for sinus pathology treatment. Over the last decade, 
+
+the procedure developed 
+
+to relatively safe. The overall 
+
+incidence of minor and major 
+
+complication after FESS is range from 0.4% to 30%. The anatomy proximity of the paranasal 
+
+sinuses to the orbits exposes it is to the risk of trauma. The majority of orbital complications are 
+
+minor ones (3.9–20.24%). The major complications are seen in 0.01–2.25%, but some of them 
+
+could be serious, leading to permanent dysfunction and loss of vision. 2 
+
+The ophthalmic complications could be classified as minor (grade I) included injury to the 
+
+lamina papyracea, major (grade II) injury to the lacrimal duct and finally serious (grade III) as 
+
+retroorbital hemorrhage, injury to the optic nerve or any reduction of vision or blindness and 
+
+injury of orbital muscle. As the minor and major ophthalmic complications are normally without 
+
+any permanent disabilities the serious ones are potentially harmful. 2 
+
+O B S E R V A T I ON 
+
+A 42-year-old male was diagnosed with chronic rhinosinusitis (Bilateral frontals, maxillaries, 
+
+and ethmoids) due to allergic hypersensitivity.  Medical management was attempted and failed 
+
+and he was scheduled to undergo FESS. The patient's nasal cavities were decongested following 
+
+which the surgeon performed an uneventful procedure with endoscopic uncinectomy, maxillary 
+
+antrostomy, ethmoidectomy and frontal sinus clearance. A day post-endoscopic sinus surgery 
+
+he complained of a loss of visual acuity in the left eye. Immediately after surgery, no deficits in 
+
+ocular motility were observed, but the left eye had no light perception. Acetazolamide IV and 
+
+dexamethasone IV were given but his vision did not recover. The orbital CT revealed a 
+
+hematoma around the left medial rectus muscle and a possible partial defect in the lef t optic 
+
+nerve. The fundoscopic examination did not reveal any abnormalities. A visual evoked potential 
+
+(VEP) test revealed an absence of left optic nerve activity. Orbital MRI showed resolution of the 
+
+hematoma 
+
+surrounding 
+
+the 
+
+left medial 
+
+rectus muscle. The patient was 
+
+treated with 
+
+prednisolone orally for 10 days and then discharged. Orbital MRI was performed 2 months after 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+","surgery. It revealed decreased contrast enhancement around the medial rectus muscle but a 
+
+persisting fat line loss and a continued contrast enhancement behind the left optic nerve. Visual 
+
+acuity remained zero. 
+
+T H E PRO B L EM  
+
+The incidence of ocular complications during ESS is rather low; they could be serious, leading to 
+
+permanent 
+
+dysfunction. The 
+
+overall 
+
+incidence 
+
+of 
+
+ESS 
+
+complications 
+
+are 
+
+reported 
+
+in 
+
+several meta-analyses pointed its occurrence between 4.2–23% or 0.9–3.1%. There are only a 
+
+few analysis of orbital complications during ESS. The incidence of this type of complications is 
+
+range from 0.5% to 5%. However, due to the incidence of the disease and the high number of 
+
+FESS procedures conducted year on year this number is quite significant.  2  
+
+The orbit and its content are at risk during ESS because the lamina papyracea is very thin or 
+
+may be incomplete. This site is the most potential risk area, especially when we do not have a 
+
+good quality of vision or using powered instrumentation. The minor complications are referred 
+
+to 
+
+lamina 
+
+papyracea 
+
+injury mostly 
+
+during maxillary 
+
+antrostomy 
+
+or ethmoidectomy. 
+
+Complications are most common in patients with anatomical variations. These complications 
+
+are commonly seen with hypoplastic maxillary sinus or Silent Sinus Syndrome (SSS). In this 
+
+anatomic variants the uncinate very tightly connects to the lamina papyracea and should be 
+
+resected with great attention. 2 The advent of the microdebrider was among the most important 
+
+surgical instrument inventions in the field, advancing the treatment of sinonasal disease in a 
+
+more visible field through its suction-based rotating blade however due to the thin lamina that 
+
+patients are most at risk when the microdebrider can easily suction and sever periorbital and 
+
+dura, which can then be misdirected into the orbit or brain 3   
+
+The stages of surgery during which the orbit may be at the greatest risk of breach include 
+
+ethmoidectomy or any ethmoid sinus surgery, and uncinectomy for the medial orbital wall, and 
+
+maxillary antrostomy plus sinusotomy for the inferior orbit. 
+
+The risk factors for ophthalmic complications include: 2 
+
+1. 
+
+2. 
+
+Surgeons skills and experience 
+
+Presence of Polyps 
+
+3. Higher Lund Mackay score (Severity of CRS) 
+
+4. 
+
+5. 
+
+6. 
+
+Extension of the disease 
+
+Previous endoscopic surgery  
+
+Coexisting anticoagulant treatment. 
+
+N E ED S T A T EM ENT 
+
+A safer way to clear diseased tissue (soft tissue and bony tissue) in the sinuses to prevent major 
+
+orbital complications such as nasolacrimal duct injury, retroorbital hematoma, optic nerve 
+
+injury and one case of extraocular muscle injury. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","F I L T E R IN G 
+
+Final score = 27.5 
+
+Rank = 2 
+
+M AR K E T PO T EN T I A L 
+
+Using the 1 in 7 chronic sinusitis prevalence, CRS would be seen in 134,000,000 in India. 4 
+
+Failure rate of medical management is approximately 50% in CRS = 67,000,000. Assuming all 
+
+undergo FESS and the incidence of orbital complications in literature due to FESS ranges from 
+
+0.5–5%: Using 1%, 
+
+that would equate 
+
+to approximately 670,000 
+
+cases of ophthalmic 
+
+complications a year regardless of severity and grade. 
+
+According to a market analysis report by Energias, the Global Sinusitis Treatment Market size is 
+
+expected to reach USD 50.41 Billion in 2024, at a CAGR of 12.4% from 2018 to 2024. Factors 
+
+propelling the growth of the market include a growing number of chronic sinusitis patients 
+
+coupled with technological advancements in sinus surgery. 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR PREVENT ION OF OPHTHALM IC COMPL ICAT IONS 
+
+The risk of inadvertent orbital entry may be minimized by the following means: 5, 6 
+
+ 
+
+ 
+
+Good preoperative assessment 
+
+Be wary of High-risk patients: Patients most at risk for complications include those with 
+
+revision surgery, extensive disease, 
+
+skull base anatomic or 
+
+radiologic variations or 
+
+dehiscences related to disease 
+
+ 
+
+CT scanning: Assess the extent of the sinus disease and detect pre-existing anatomical 
+
+variants. 
+
+ 
+
+Both optic nerve and carotid artery form an indentation in the lateral wall of the sphenoid 
+
+sinus. This can be unilateral or bilateral. 5%-7% of these have a dehiscent bone which 
+
+exposes these two vital structures to the intraoperative injury. Preoperative imaging in the 
+
+axial plane reveals excellent detail of the sphenoid sinus and its relationship with these two 
+
+structures, thus avoiding iatrogenic complications. 
+
+ 
+
+Thickness, contour, and presence of 
+
+infraorbital or supraorbital structures should be 
+
+identified. 
+
+ 
+
+ 
+
+Early intraoperative location of the lamina papyracea provides a key landmark 
+
+Special care must be exercised in using powered instrumentation 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"," 
+
+The anterior ethmoidal artery is a critical structure to identify in order to avoid intra-
+
+operative bleeding. Coronal CT images show a bony nipple at the junction of the medial 
+
+rectus and superior oblique muscles to identify a useful landmark for the location of this 
+
+artery. 
+
+ 
+
+Identification of sphenoethmoidal cells (Onodi), which occur in 8% to 14% of the general 
+
+population before FESS is critical. Mistaking Onodi cells for the sphenoid sinus can lead to 
+
+incomplete dissection and place the optic nerve and the orbit at risk. 
+
+ 
+
+IV anesthesia, relative hypotension, and relative bradycardia minimize intraoperative blood 
+
+loss. 
+
+ 
+
+ 
+
+Topical decongestants, prothrombotic agents, and bipolar cautery should be available. 
+
+Inspection of periorbita and periorbital fat if lamina papyracea is violated. If periorbita is 
+
+not injured and there are no signs of orbital injury, surgery can proceed. If periorbita is cut, 
+
+and orbital fat is exposed, intraocular pressure measurement and forced duction test should 
+
+be performed. 
+
+ 
+
+Blind cautery of the periorbital fat should be avoided to prevent injury to the EOMs and the 
+
+ON. Bipolar electrocautery works well where bleeding does not involve the orbit itself. 
+
+ 
+
+It is wise to keep the eyes uncovered during endoscopic surgery so that surgery can be 
+
+stopped immediately if there is any indication of orbital swelling, afferent pupillary defect 
+
+or eyelid bruising. 
+
+ 
+
+Do not use nasal packing over the exposed orbital apex to avoid pressure on the ON. 
+
+M AN AG EM EN T O F O P H T HA LM I C C OM P L I C A T I ON S  
+
+The complications often observed post FESS include: 6 
+
+Orbital Hematoma: Orbital hematoma is an ophthalmic emergency because an intraorbital 
+
+bleed 
+
+can 
+
+rapidly 
+
+produce 
+
+an 
+
+orbital 
+
+compartment 
+
+syndrome 
+
+(visual 
+
+loss, 
+
+external 
+
+ophthalmoplegia, tense orbit, central retinal artery occlusion) with permanent injury to the 
+
+optic nerve if ischemia persists more than 90 minutes. The source of bleeding may be injured 
+
+lamina papyracea, periorbita, extraocular muscles, or traction on the orbital fat resulting in 
+
+avulsion of an orbital vessel. Ligate the artery in question. 
+
+Diplopia: 15% to 63% of postoperative FESS patients report new onset diplopia or worsening 
+
+of pre-existing symptoms of diplopia. Diplopia 
+
+is due to change 
+
+in the vector of pull of 
+
+Extraocular muscles. Those who develop diplopia after decompression surgery often need 
+
+strabismus surgery. 
+
+Epiphora: The incidence of this complication after FESS ranges from 0.3% to 1.7%. Endoscopic 
+
+Dacryocystorhinostomy (EDCR) is the most commonly performed remedial surgery. Surgery on 
+
+frontal sinus may damage lacrimal sac, whereas uncinectomy or middle meatal antrostomy may 
+
+injure the nasolacrimal duct within the lacrimal canal. 
+
+Complications Related to Optic Nerve Sheath Decompression: This includes damage to the 
+
+optic nerve fibers, ophthalmic artery, CSF leakage, meningitis etc. clear risks and absence of the 
+
+data to suggest benefits of sheath decompression do not recommend this procedure in general. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+","Neuro-ophthalmic Complications: Anisocoria and accommodation palsy have been reported 
+
+after endoscopic surgery. There is a favorable response to oral corticosteroids. Image aided 
+
+neuro-ophthalmic procedures have made the procedure safer and improved the prognosis. 
+
+Optic Nerve Injury and FESS: Traumatic optic neuropathy may be direct or indirect. Direct 
+
+traumatic optic neuropathy results from penetrating injuries where the intra-orbital portion of 
+
+the optic nerve (ON) is generally injured. Indirect traumatic optic neuropathy is due to blunt 
+
+head trauma with or without associated fractures of the orbital canal. The ON is at risk of injury 
+
+within the sphenoid sinus, especially if there is a thin piece of bone or mucosa, separating the 
+
+nerve from the sinus cavity. Maybe treated by decompression or steroid usage. 
+
+Extraocular Muscles (EOM) Complications: Detachment of the EOMs from the globe and their 
+
+retraction into the posterior orbit can occur secondary to trauma or as a surgical complication. 
+
+The muscle(s) may be ruptured or transected as a result of the injury. It is possible that a small 
+
+defect in the orbital wall could allow a powered cutting instrument to aspirate orbital fat and or 
+
+EOM into the sinus without entering the orbit. Loss of a rectus muscle may also occur as a 
+
+complication of strabismus surgery, retinal detachment surgery, orbital surgery, or paranasal 
+
+sinus surgery. 
+
+Orbital Abscess: Sinusitis continues to be the most common cause of orbital inflammation and 
+
+infection, especially in children. May require orbital decompression. 
+
+R E C EN T AD V AN C E S IN E N DO S C O P I C S IN U S SU R G E R Y 
+
+Image-guided sinus surgery: Image-Guided surgery is a more detailed form of the FESS, which 
+
+uses infrared signals and CT scans to get a more accurate picture of the sinus cavities in real 
+
+time. This allows doctors to precisely target areas of concern while minimizing risk to arteries 
+
+and other tissues that don't need to be removed. The advancements made in camera and 
+
+telescopic technologies have allowed Image Guided surgery to become one of the most effective 
+
+sinus surgery solutions on the market. 7 
+
+Balloon Sinuplasty: This procedure offers patients the same sinus relief without any cutting or 
+
+removal of sinus tissues. Instead, this method uses a small catheter and balloon that is inserted 
+
+into the sinus cavity and inflated. As the balloon expands, it pushes the walls of the sinus cavi ty 
+
+open and restructures them with a wider opening, without damaging the integrity of the lining 
+
+of the sinus cavity. 7 
+
+Medicated, dissolvable sinus stent: The PROPEL® sinus stent is another innovation intended 
+
+to optimize recovery following endoscopic sinus surgery. Once the sinus is opened by the 
+
+surgeon, the stent is inserted into the sinus that has been operated on, and it helps hold the 
+
+sinus cavity open. As it does so, it also delivers anti-inflammatory medicine to the sinus tissue. 
+
+The medicine is released for about 30 days. As the stent delivers drug it will dissolve over a 30 
+
+to 45 day period. The PROPEL sinus stent is proven to improve the outcomes of surgery by 
+
+holding the sinuses open and treating the underlying inflammation. 8 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+","Three-dimensional endoscopic sinus surgery: The development of a miniature stereoscopic 
+
+camera and its adaptation to rigid endoscopes allows for performance of 3D endoscopic sinus 
+
+surgery. It is hypothesized that incorporation of 3D visualization may enhance the spatial 
+
+resolution required in advanced endoscopic approaches with a theoretical potential to improve 
+
+outcomes. 9 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An accurate, reliable and safe device that prevents the entry into the orbit and damage to 
+
+periorbital structures while allowing the surgeon to dissect the sinus tissue and allow for 
+
+complete clearance of diseased tissue during FESS. 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+Must be accurate and precise in differentiating between diseased sinus tissue and 
+
+orbital/periorbital tissue 
+
+Must be reliable  
+
+Must allow for complete clearance of diseased tissue 
+
+Must not have a steep learning curve for otolaryngologists  
+
+ 
+
+ 
+
+ 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be affordable to all patients undergoing FESS 
+
+Must be applicable in other similar procedures where an iatrogenic injury is possible 
+
+Must be easy to use 
+
+Must be portable enough to be shifted to different operation theatres 
+
+R E F E R EN C E S :  
+
+1. Rosenfeld, 
+
+Richard 
+
+M., 
+
+et 
+
+al. 
+
+""Clinical 
+
+practice 
+
+guideline 
+
+(update): 
+
+adult 
+
+sinusitis."" Otolaryngology–Head and Neck Surgery 152.2_suppl (2015): S1-S39. 
+
+2. 
+
+Seredyka-Burduk, Malgorzata, et al. 
+
+""Ophthalmic 
+
+complications of endoscopic 
+
+sinus 
+
+surgery."" Brazilian journal of otorhinolaryngology 83.3 (2017): 318-323. 
+
+3. 
+
+Chou, Tung-Wei, et al. ""Multiple analyses of factors related to complications in endoscopic 
+
+sinus surgery."" Journal of the Chinese Medical Association 79.2 (2016): 88-92. 
+
+4. 
+
+Comparison of Outcomes of Management of Chronic Rhinosinusitis by Conservative 
+
+Approach Vs Endoscopic Sinus Surgery with Review of Literature. Dr Devendra M. Jain 
+
+Journal of Medical Science and Research Volume 05 Issue 03 March 2017. 
+
+5. Rene, C., et al. ""Major orbital complications of endoscopic sinus surgery."" British journal of 
+
+ophthalmology 85.5 (2001): 598-603. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+","6. Al-Mujaini, Abdullah, Upender Wali, and Mazin Alkhabori. ""Functional endoscopic sinus 
+
+surgery: indications and complications in the ophthalmic field."" Oman medical journal24.2 
+
+(2009): 70. 
+
+7. 
+
+https://www.americansinus.com/advancements-in-sinus-surgery-technology/ 
+
+Accessed 
+
+27/8/2018 
+
+8. 
+
+https://www.mysinusitis.com/propel/  Accessed 27/8/2018 
+
+9. Brown, Seth M., et al. ""Three-dimensional endoscopic sinus surgery: feasibility and technical 
+
+aspects."" Otolaryngology—Head and Neck Surgery 138.3 (2008): 400-402.  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","3 . POR T S IT E H ERN IA 
+
+BA C K GROUN D 
+
+Port site hernia (PSH) 
+
+is a rare 
+
+type of 
+
+incisional hernia occurring at port sites after 
+
+laparoscopic surgery. The incidence of PSH has an overall incidence of 1.7%. There are few 
+
+prospective studies designed with the aim of identifying postoperative PSH. In these studies, the 
+
+overall incidence was 3.2%. 1 
+
+In large studies published prior to 1995 were identified, the incidence of PSH reported in each 
+
+study 0.20%, 0.15%, and 0.13%, respectively which is considerably lower than more recent 
+
+studies.  The umbilicus is the most common port associated with incisional hernia, other sites 
+
+include the epigastrium, the right hypochondrium, left hypochondrium. In the majority of cases, 
+
+PSH is not associated with any strangulation or bowel obstruction. 1  
+
+The incidence of port site hernia increases with the size of the trocar but there are other risk 
+
+factors like the incision enlargement, infection, diabetes mellitus, obesity, the type of trocar 
+
+used, male sex, connective tissue disorders and most importantly the defective closure of the 
+
+fascial defect at the port site.1 
+
+O B S E R V A T I ON 
+
+A 40-year-old male presented to the emergency surgery ward with complaints of pain abdomen, 
+
+distention abdomen, obstipation and two episodes of bilious vomiting for one day. The pain was 
+
+diffusely present over the whole abdomen. On examination, tenderness was present in the 
+
+whole abdomen with specific guarding present in the periumbilical area. There was a gurgling 
+
+sensation just beneath the skin indicating the possibility of an obstructed gut loop which was 
+
+found to be irreducible. He had undergone laparoscopic cholecystectomy two days before 
+
+presentation and was discharged 24 hours prior. Ultrasonogram abdomen indicated only the 
+
+dilated small bowel loops and abdominal radiographs revealed air-fluid levels in the erect film 
+
+and grossly dilated bowel loops in the supine film. He was taken up for surgery and the 
+
+abdomen was opened through the midline laparotomy incision extending a few centimeters 
+
+above and below the umbilicus. The cherry colored gut loop was found lying just below the skin, 
+
+herniating out of the peritoneal and the fascial defect at the umbilical port site. The loop was 
+
+obstructed at the fascial defect. The defected fascia and the peritoneum were carefully opened 
+
+and the loop was delivered out. Pregangrenous changes were present at the part of the loop 
+
+stuck at the defect. The proximal bowel was grossly dilated while the distal bowel was 
+
+somewhat collapsed. The obstructed area was approximately one foot from the ileocaecal 
+
+junction. Approximately 500 to 600 ml of dark red edema fluid was also drained from the 
+
+peritoneal cavity. The pregangrenous part of the ileum was kept under the warm saline soaked 
+
+sponge and the patient was given 100% oxygen for full 5 minutes. The color and the peristalsis 
+
+of the gut loop were rechecked and were found to have grossly improved. The small intestine 
+
+was decompressed antegrade and retrograde, the wash was given and the abdomen was closed 
+
+in layers with the proper anatomical repair of the fascia and the peritoneum. The patient 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+","remained well 
+
+in the postoperative period and the bowel sounds returned on the third 
+
+postoperative day and the patient passed stools and flatus on the fourth postoperative day. The 
+
+patient was allowed liquids on the third postoperative day and was discharged on full oral diet 
+
+and treatment on the seventh postoperative day with a healthy stitch line.  
+
+T H E PRO B L EM  
+
+Very few prospective studies have aimed at identifying the risk factors for PSH. No randomized 
+
+studies have been performed to date. The factors predisposing to PSH can be divided into 
+
+patient factors and operative factors  
+
+Patient Factors 1 
+
+ 
+
+Preexisting umbilical/paraumbilical hernia: This has been identified in several reports 
+
+as a risk factor for PSH in several studies  
+
+Preexisting umbilical or paraumbilical defects 
+
+Male gender: Males seem to have a higher incidence of hernias 
+
+Obesity: Obesity has been suggested as a predisposing factor for PSH by some studies 
+
+Medical 
+
+comorbidities: 
+
+Diabetes mellitus, COPD 
+
+(chronic 
+
+obstructive 
+
+pulmonary 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disease), renal failure, AIDS 
+
+Operative Factors 1 
+
+ 
+
+ 
+
+Trocar diameter: This has been widely reported as a factor in the development of PSH 
+
+Port Insertion Technique: Primary port insertion is either by a closed or open technique. 
+
+Secondary ports are less often the site of hernia development, but hernias do occur at 
+
+secondary port sites.  
+
+ 
+
+Type of trocar used: The type of trocar used is thought to be a determining factor. They can 
+
+be divided 
+
+into cutting trocars and dilating trocars. The common cutting trocars are 
+
+reusable metal pyramidal trocars and disposable metal bladed trocars with or without a 
+
+sprung protective sleeve. They require less force to use but have a higher incidence of 
+
+complications. Dilating or “radially expanding” trocars bluntly separate abdominal wall 
+
+tissues and are thought to be associated with less bleeding and pain but require greater 
+
+application of force. New hybrid designs have also been developed.  
+
+ 
+
+Port extension: Case reports identify extension of the port incision especially to facilitate 
+
+extraction of an organ such as the gallbladder as a risk factor for PSH 
+
+ Wound infection: Infections at the port site has been implicated in the pathogenesis of 
+
+umbilical incisional hernia in some case reports 
+
+ 
+
+Insertion of a drain: The use of a drain placed through a port site has been suggested as a 
+
+risk factor for PSH in 2 studies, although this has not been fully evaluated. 
+
+ 
+
+Effects of Compressed Air. Carbon dioxide might push the omentum or intestinal loops 
+
+through the point of insertion in the fascia. The protruding structures might then be trapped 
+
+by abdominal muscle contractions. 2 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","N E ED S T A T EM EN T 
+
+An effective way to prevent the onset of port site hernia post abdominal laparoscopic surgery to 
+
+prevent abdominal obstruction and other complications 
+
+F I L T E R IN G 
+
+Final score = 18 
+
+Rank = 3 
+
+M AR K E T PO T EN T I A L 
+
+Epidemiology: Assuming 18 million laparoscopic surgeries a year and using 1.7% incidence 
+
+rate that would equate to approximately around 3,00,000 cases of port site hernia a year on 
+
+average. Although the incidence is not high, the morbidity is significant both in terms of the 
+
+additional laparotomy required for repair as well as the medico-legal implications for the 
+
+healthcare provider. 7 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR PREVENT ION OF PORT S ITE HERN IA 
+
+Peri-operative improvement of health status: Martindale published an extensive review of 
+
+perioperative interventions including smoking cessation, blood glucose control, and obesity. 
+
+Smoking cessation for 4 weeks was found to be associated with a decrease in complication rate 
+
+from 41% to 21% and Preoperative blood glucose control with hemoglobin A1c less than 7% 
+
+and blood glucose between 140-160 mg/dL. 5 
+
+Identify any previously undetected hernia: Conduct an examination of the fascia through the 
+
+port site during surgery.  
+
+Careful suturing of the fascia of the umbilical port: Careful closure with sutures and where 
+
+there 
+
+is 
+
+a preexisting hernia, 
+
+formal 
+
+repair 
+
+should be undertaken with 
+
+interrupted 
+
+nonabsorbable sutures. 
+
+Use umbilical port as the extraction site: This minimizes the number of sites at increased risk 
+
+of herniation.  
+
+Small Secondary ports: This port should be kept to as small in diameter as possible  
+
+Use of Dilating or hybrid ports: These port should be used in preference to cutting ports 
+
+Avoid reinsertion of ports and unnecessary torsion 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+","Bioabsorbable Hernia Plug: New technology to prevent an incisional hernia in trocar sites 
+
+implanted in the umbilical trocar site. 3 
+
+Special closure devices: Consider using disposable suture retrieval needles and reusable blunt 
+
+ligature guides. Some surgeons recommended the use of a fascial closure device, a spinal cord 
+
+needle, a suture carrier, a 2-mm trocar or a Deschamps needle to close the fascia and the 
+
+peritoneum together. 2 
+
+Abdominal Deflations: Many authors have advised surgeons to open the trocar valve to deflate 
+
+air before port removal so as not to draw omentum and intestines into the fascial defect. 2 
+
+M AN AG EM EN T O F PO R T S I T E H E RN I A S  
+
+Diagnosis:  
+
+ 
+
+ 
+
+Ultrasound and X-ray radiographs 
+
+CT: PSH of early-onset type can be located by computed tomography and surgically reduce 
+
+and repair the hernia with minimal enlargement of the puncture wound, thus avoiding a full 
+
+laparotomy. In many other reports computed tomography was available to diagnose early-
+
+onset–type hernias and were effective in diagnosing them. 2  
+
+ 
+
+Gastrointestinal contrast study: Found to be effective in 3 reports.2 
+
+Treatment 
+
+ 
+
+Non-operative management: Nasogastric suction and other methods are said to often 
+
+waste time and money, and they sometimes lead to critical conditions such as strangulation. 
+
+ 
+
+Laparotomy/Open surgery: Depending on the bowel involvement the criticality and the 
+
+procedure will vary: The bowel involvement can occur in the form of bowel incarceration, 
+
+bowel obstruction or bowel evisceration. All these are considered surgical emergencies that 
+
+can present a few days to weeks after the primary procedure. 
+
+ 
+
+Laparoscopic repair: Recently, laparoscopic repair of trocar site hernias has been reported 
+
+to be feasible 2 
+
+ID E A L S O LU T I ON S T A T EM EN T 
+
+A solution which prevents the development of port site hernia in an abdominal laparoscopic 
+
+procedure that would prevent the herniation of bowel and/or omentum into the incision site 
+
+leading to complications  
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+Must be safe to use 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+"," 
+
+ 
+
+ 
+
+Must not compromise surgical outcomes 
+
+Must not itself lead to defects and hernias 
+
+Must work at all port sites regardless of the diameter/extension  
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+Must be affordable  
+
+Must be easy to administer 
+
+R E F E R EN C E S :  
+
+1. Bunting, David Mark. 
+
+""Port-site hernia 
+
+following 
+
+laparoscopic cholecystectomy."" JSLS: 
+
+Journal of the Society of Laparoendoscopic Surgeons 14.4 (2010): 490. 
+
+2. Tonouchi 
+
+H, 
+
+Ohmori 
+
+Y, 
+
+Kobayashi M, 
+
+Kusunoki M. 
+
+Trocar 
+
+Site 
+
+Hernia. Arch 
+
+Surg. 2004;139(11):1248–1256.  
+
+3. Moreno-Sanz, Carlos, et al. ""Prevention of trocar site hernias: description of the safe port 
+
+plug technique and preliminary results."" Surgical innovation 15.2 (2008): 100-104. 
+
+4. Martindale 
+
+RG, Deveney 
+
+CW. Preoperative 
+
+risk 
+
+reduction: 
+
+strategies 
+
+to 
+
+optimize 
+
+outcomes. Surg Clin North Am. 2013;93:1041-1055.  
+
+5. Vorst, Alan L., et al. ""Evolution and advances in laparoscopic ventral and incisional hernia 
+
+repair."" World journal of gastrointestinal surgery 7.11 (2015): 293. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","4 . ANA STOMO T I C L E AK 
+
+BA C K GROUN D 
+
+Intestinal 
+
+anastomosis 
+
+is 
+
+a 
+
+surgical procedure performed 
+
+to 
+
+establish 
+
+communication 
+
+between two formerly distant portions of the intestine. This procedure restores 
+
+intestinal 
+
+continuity after removal of a pathologic condition affecting the bowel. 1 
+
+Indications for intestinal anastomosis can be broadly divided into two categories: restoration of 
+
+bowel continuity following resection of diseased bowel and bypass of the unresectable diseased 
+
+bowel. Certain pediatric conditions may also require intestinal anastomosis. 1 
+
+Resection of diseased bowel is performed in the following settings: Bowel gangrene due to 
+
+vascular compromise, Malignancy, Benign conditions (eg, intestinal polyps, intussusception), 
+
+Infections (eg, tuberculosis), Traumatic perforations, Large perforations, Radiation enteritis, 
+
+Inflammatory bowel disease, Chronic constipation, 
+
+idiopathic slow transit constipation, or 
+
+Hirschsprung disease. 1 
+
+Bypass of unresectable diseased bowel is performed in following settings: Locally advanced 
+
+tumor causing 
+
+luminal obstruction, Metastatic disease-causing 
+
+intestinal obstruction, Poor 
+
+general condition or condition that prevents major resection 1 
+
+Anastomotic leak (AL) is one of the most dreaded complications following colorectal surgery, 
+
+with reported rates ranging from 3 to 26%. The concern over this complication is for good 
+
+reason as it is associated with a mortality ranging from 6 to 39%. Many studies have looked at 
+
+the potential causative factors of AL, and although male sex, poor nutritional status, obes ity, and 
+
+an increased number of blood transfusions may be risk factors, the level of the anastomosis is 
+
+the most consistent risk factor for an AL. There appears to be an increased leak rate at the 
+
+anastomotic site if done at or below 7 cm from the anal verge. 2  
+
+Surgeons are all too familiar with the potentially devastating consequences of an anastomotic 
+
+leak. Patients classically develop agonizing abdominal pain, tachycardia, high fevers, and a rigid 
+
+abdomen, often accompanied by hemodynamic instability. In these cases, urgent return to the 
+
+operating room for peritoneal washout and fecal diversion is generally required; prolonged 
+
+stays in the intensive care unit and death are not uncommon. Further, anastomotic leakage has 
+
+been associated with increased local recurrence and diminished survival after colorectal cancer 
+
+surgery. 2 
+
+However, a large number of patients ultimately found to have an anastomotic leak develop a 
+
+more insidious presentation, often with low-grade fever, prolonged ileus, or failure to thrive. In 
+
+these patients, making the diagnosis may be much more difficult as the clinical course is often 
+
+similar to other postoperative infectious complications. Radiologic imaging is usually required; 
+
+even then, the diagnosis may be elusive or at least uncertain. 3 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+","O B S E R V A T I ON 
+
+A 46-year-old male was scheduled to undergo a gastrojejunostomy due to severe peptic ulcer 
+
+disease. The abdomen was entered using Veress needle insufflations. 4 to 5 trocars were placed 
+
+in the upper abdomen under direct vision, with 1 to 2 of these trocars being 12mm in size and 
+
+the rest being 5mm. After placement of trocars, the greater curvature of the stomach was 
+
+identified. The gastrocolic omentum was opened using an ultrasonic or Harmonic scalpel. The 
+
+lesser sac was entered, and the distal stomach was identified. The position on the distal stomach 
+
+for the creation of the GJ was based on the surgeon's preference. A loop of small bowel 
+
+approximately 30cm 
+
+to 50cm distal 
+
+to 
+
+the 
+
+ligament 
+
+of Treitz was 
+
+chosen 
+
+for 
+
+the 
+
+gastrojejunostomy. A laparoscopic stay suture was used to align the small bowel segment in an 
+
+antecolic manner to the anterior or posterior wall of the stomach. Enterotomies were then 
+
+made with cautery in both the jejunum and stomach. 2 to 3 staplers were used to create the 
+
+anastomosis. The common enterotomy was closed laparoscopically with 2 layers of sutures. 
+
+The patient had an anastomotic leak requiring open repair of GJ on postoperative day 5. This 
+
+patient had an arduous postoperative course complicated by septic shock, respiratory failure 
+
+necessitating a tracheostomy, and formation of an enterocutaneous fistula that was repaired 3 
+
+weeks later. She ultimately improved and was discharged to subacute rehabilitation 10 weeks 
+
+after her initial surgery. 
+
+T H E PRO B L EM  
+
+Anastomotic leakage is the most feared early complication of intestinal anastomosis.  
+
+A great deal is known about the healing of the external skin after injury, but much less is known 
+
+about intestinal healing. This is due to the easy accessibility of the skin as it heals as opposed to 
+
+the intestinal mucosa. The gastrointestinal tract wall is composed of the surrounding serosa; the 
+
+smooth muscle-containing muscularis propria; the collagen-containing submucosa providing 
+
+tensile strength; and the epithelial mucosa and mucous layer that provide the interface with and 
+
+the barrier to the luminal contents. Most importantly the intestinal mucosa heals in close 
+
+contact with the intestinal microbiota, the densest biomass in the body.  The healing of an 
+
+intestinal anastomosis occurs in three phases: 1 
+
+ 
+
+ 
+
+ 
+
+Inflammatory phase 
+
+Fibroplasia phase 
+
+Remodeling phase 
+
+During the inflammatory phase, the integrity depends on the mechanical strength provided by 
+
+sutures. The inflammatory phase is followed by the fibroplasia phase around postoperative 
+
+days 5-7. Collagen deposition occurs in this phase, which gives strength to the anastomosis. Any 
+
+systemic or local factor that causes a delay in the transition from the inflammatory phase to the 
+
+fibroplasia phase can result in poor healing and anastomotic leakage.  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+","Systemic conditions that increase the risk of anastomotic leakage include anemia, diabetes 
+
+mellitus, malnutrition, hypoalbuminemia, vitamin deficiencies, and steroids. Local factors which 
+
+affect healing include radiation, disease-affected bowel, and inadequate blood flow.  
+
+Anastomotic leakage presenting on postoperative day 1 or 2 is invariably due to technical 
+
+reasons. Anastomotic leakage secondary to interference in the normal healing mechanism 
+
+usually presents around the end of postoperative week 1. Anastomotic leakage can present 
+
+either as frank peritonitis when the 
+
+leak 
+
+is uncontrolled or as 
+
+localized 
+
+intra-abdominal 
+
+collection/abscess if the leak is controlled. A leak with diffuse peritonitis is associated with high 
+
+morbidity and mortality and necessitates re-exploratory surgery. 
+
+N E ED S T A T EM ENT 
+
+A safer way to create an intestinal anastomosis in laparoscopic or open abdominal procedures 
+
+to prevent anastomotic leak 
+
+leading to complications such as septic shock, re-exploration 
+
+surgery, and mortality 
+
+F I L T E R IN G 
+
+Final score = 18 
+
+Rank = 5 
+
+M AR K E T PO T EN T I A L 
+
+As was mentioned in the background section, the 
+
+indications for 
+
+intestinal resection and 
+
+anastomosis are extensive. Unfortunately, data on the frequency of these procedures across the 
+
+country is hard to come by but given the incidence of colorectal cancers, peptic ulcer disease in 
+
+India these are not infrequent. 
+
+In the USA alone the number of colorectal procedures carried out per year is said to be 320,000 
+
+as per the report titled Trends in Operating Room Procedures in U.S. Hospitals, 2001–2011. If 
+
+we assume that the proportion of procedures to population is constant that would entail that 
+
+there are 12,80,000 colorectal procedures alone performed in India. Given the incidence of 
+
+anastomotic leak that would entail a range of 3840 – 3,32,800 in colorectal procedures alone.  
+
+Given the poor surgical outcomes, repeat procedures, sepsis, and mortality risk this is certainly 
+
+an important unmet need to be addressed. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+24 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+","C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR PREVENT ION OF AN ASTOMOT IC LEAK 
+
+The risk of inadvertent nerve trauma due to an accidental transaction or heat-related injury 
+
+may be minimized by the following means:  
+
+Risk factors & Prediction: Extensive literature is available on the topic of risk factors for 
+
+anastomotic leakage. These include male gender, smoking, obesity, alcohol abuse, preoperative 
+
+steroid 
+
+and non-steroidal 
+
+anti-inflammatory drugs use, 
+
+longer duration 
+
+of 
+
+operation, 
+
+preoperative transfusion, contamination of the operative field and timing during duty hour. In a 
+
+study of 452 consecutive patients undergoing bowel resection with anastomosis, Erb et al found 
+
+that abnormal vital signs were common after surgery and did not accurately predict the 
+
+presence of 
+
+anastomotic 
+
+leaks. In postoperative week 1, 
+
+fever, 
+
+tachycardia, 
+
+tachypnea, 
+
+hypotension, and leukocytosis occurred daily in approximately 70% of patients who did not 
+
+have anastomotic leaks and in more than 90% of those who did. The positive predictive values 
+
+for fever, hypotension, and tachypnea were 11%, 4%, and 4%, respectively. Recently, risk factor 
+
+studies have also been undertaken for laparoscopic colorectal surgery, identifying body mass 
+
+index, tumor distance from the anal verge, tumor depth, and pelvic outlet as independent 
+
+predictors for 
+
+increased operative time and morbidity after 
+
+laparoscopic total mesorectal 
+
+excision 4, 5 
+
+Surgical technique: Although some prerequisites should be present as adequate blood flow, 
+
+without any tension in the absence of peritonitis, no clear value can be given for these aspects. 
+
+Although 
+
+there 
+
+is 
+
+little supporting evidence an 
+
+inverting single 
+
+layer continuous suture 
+
+technique with slowly absorbable monofilament material seems preferable. Strong evidence 
+
+lacks for other important aspects as the distance from the suture to the edge of the anastomosis, 
+
+the distance between the sutures, layers included in the suture, suture tension and the optimal 
+
+configuration. With regards to stapling vs hand-sewn anastomosis in colorectal anastomosis 
+
+these are found to be equally effective although stapling techniques might be of preference since 
+
+the technique is uniform and easy to learn, making it ideal for comparing results between 
+
+hospitals and surgeons and for teaching young surgeons. There is a need for the development of 
+
+new techniques since all previous research has not lead to radically decreased leakage rates. 6 
+
+Extra-luminal sealing using fibrin glue or acrylates: These agents are reported mostly in 
+
+animal studies but the few reports on their use in human colorectal anastomosis have not 
+
+shown beneficial effects on colorectal anastomosis. 6  
+
+Endo-luminal sealing by means of a biodegradable barrier: This technique has shown to be 
+
+successfully applied in humans and a multicentre randomized clinical trial is currently being 
+
+undertaken. 6 
+
+Leak Test: 
+
+Intraoperative evaluation, 
+
+is commonly performed 
+
+following 
+
+the creation of 
+
+esophageal, gastric, and rectal anastomoses, where the anastomosis is proximal or distal enough 
+
+in the bowel to be accessible by endoscopy. 7 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+25 
+
+ 
+ 
+ 
+ 
+","Diverting Ileostomy: In colorectal anastomoses, some surgeons perform a diverting ileostomy. 
+
+This procedure and its subsequent reversal carry the independent risks of morbidity and add 
+
+costs, the impact that diversion has on prevention of anastomotic leak remains unclear. The 
+
+theory behind fecal diversion is that it eliminates the anastomotic stress of bowel wall dilation 
+
+during healing and that any leakage that occurs has less severe consequences by avoiding large 
+
+volume of fecal spillage. 7 
+
+Trans-anal drainage tubes, Trans-anal sponge: The vacuum drainage developed for wound 
+
+therapy, represent an alternative treatment for anterior rectal anastomotic leaks. The principle 
+
+of this method is the application of negative pressure on the wound surface with the help of a 
+
+sponge connected to a pump. The physiological mechanism of this improvement in wound 
+
+healing is the effective removal of fluid, tissue edema and bacteria, with subsequently improved 
+
+local blood 
+
+circulation, which 
+
+in 
+
+turn 
+
+stimulates wound healing 
+
+(increased growth of 
+
+granulation tissue). 8, 9 
+
+Fat cell Harvesting: Cytori Therapeutics has developed a method of harvesting regenerative 
+
+cells from subcutaneous fat. These cells, which include a high proportion of stem cells, can be 
+
+used for a variety of applications, including wound healing and treating inflammation. 10 
+
+M AN AG EM EN T O F AN A S T O MO T I C L E AK  
+
+Early detection 6 
+
+Clinical assessment: Anastomotic 
+
+leakage becomes apparent between 
+
+the 5th and 
+
+the 
+
+8th postoperative day, but exceptions do exist. Clinical 
+
+signs 
+
+include 
+
+those of 
+
+systemic 
+
+inflammatory response syndrome:  fever, ileus, and pain are frequent. However as mentioned 
+
+earlier but have low positive predictive value.  
+
+Risk scores: Clinical scoring systems such as the Dutch Leakage Score was shown to be useful 
+
+in those patients with a higher score were prone to anastomotic leak and required intensive 
+
+clinical observation or radiological evaluation. Scoring systems can reduce delays in diagnosis of 
+
+anastomotic leak and decreases false negative diagnostic imaging representing a major factor of 
+
+delay in diagnosis. Although it is not known if the application of the score leads to an increase of 
+
+negative imaging, the score could be especially beneficial in daily clinical practice where young 
+
+doctors and nursing staff could identify high-risk patients very easily and in a standardized 
+
+manner. 6 
+
+CRP based prediction: This interval between surgery and clinical onset suggests a preclinical 
+
+phase 
+
+in which non-clinical methods could be used 
+
+in prediction. Consequently, routine 
+
+postoperative measurement of serum level CRP is studied for infectious complications after 
+
+colorectal surgery in general and anastomotic leak in particular. CRP and other biochemical 
+
+parameters detect systemic reactions, while other techniques are recently applied to detect 
+
+local, juxta-anastomotic changes in metabolism and ischemia.  6 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+","Microdialysis of the peritoneal cavity: This is a technique that uses an indwelling two-lumen 
+
+catheter that detects changes in oxygenation locally at the site of the anastomosis. Few studies 
+
+have shown 
+
+the ability 
+
+to distinguish patients with colorectal anastomosis after rectum 
+
+resection from patients with an uncomplicated course, although these have insufficient samples 
+
+to provide predictive values. 6 
+
+Future solutions/studies should focus on preclinical detection of leaks since patients that are 
+
+reoperated in an early phase could be protected from septic sequellae of anastomotic leak. 6 
+
+Treatment 
+
+When facing and treating patients with an anastomotic leak, surgeons have to take into account 
+
+many different aspects, i.e., age, health status and current clinical condition of the patient, extent 
+
+of dehiscence, the time between operation and reoperation, indication of primary resection, 
+
+presence of diverting stoma and 
+
+localization of the anastomosis. These variables 
+
+lead to 
+
+individualization of treatment strategies and incomparable outcome. However, few studies, 
+
+showing that surgeons believe that the anastomosis can be repaired rather than dismantled, 
+
+have paved the way for a trial in which next to mortality and morbidity, preservation of the 
+
+anastomosis could be one of the endpoints Difficulties 
+
+in designing such a trial are the 
+
+aforementioned large variety of clinical course, the unpredictability of anastomotic leak  and the 
+
+relatively low incidence of anastomotic leak per center.  
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An effective, reliable and safe device that prevents the anastomotic 
+
+leak in patients who 
+
+undergo post intestinal resection regardless of the indication 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be effective in preventing anastomotic leak 
+
+Must be safe 
+
+to use without 
+
+itself causing damage, peritonitis or sepsis 
+
+intra -
+
+abdominally 
+
+Must not cause obstruction of the bowel  
+
+Must not in any way impede the surgeon's view or compromise the surgical field 
+
+Must be applicable regardless of the indication of intestinal resection and anastomosis  
+
+N I C E T O HA V E 
+
+ 
+
+Must be affordable 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+"," 
+
+ 
+
+ 
+
+Must act as a preventive solution as well as alert in case of failure/leak 
+
+Must be easy to use for a surgeon 
+
+Must be applicable regardless of whether 
+
+it 
+
+is an open, 
+
+laparoscopic or robotic 
+
+procedure 
+
+R E F E R EN C E S :  
+
+1. 
+
+Intestinal Anastomosis https://emedicine.medscape.com/article/1892319-overview  
+
+2. Murrell, Zuri A., and Michael J. Stamos. ""Reoperation for anastomotic failure."" Clinics in 
+
+colon and rectal surgery 19.4 (2006): 213. 
+
+3. Hyman, Neil, et al. ""Anastomotic leaks after intestinal anastomosis: it's later than you 
+
+think."" Annals of surgery 245.2 (2007): 254. 
+
+4. 
+
+Erb L, Hyman NH, Osler T. Abnormal vital signs are common after bowel resection and 
+
+do not predict anastomotic leak. J Am Coll Surg. 2014 Jun. 218 (6):1195-9 
+
+5. Akiyoshi T, Kuroyanagi H, Oya M, Konishi T, Fukuda M, Fujimoto Y, Ueno M, Miyata S, 
+
+Yamaguchi T. Factors affecting the difficulty of laparoscopic total mesorectal excision 
+
+with 
+
+double 
+
+stapling 
+
+technique 
+
+anastomosis 
+
+for 
+
+low 
+
+rectal 
+
+cancer. Surgery. 2009;146:483–489. 
+
+6. Daams, Freek, Misha Luyer, and Johan F. Lange. ""Colorectal anastomotic leakage: aspects 
+
+of prevention, detection, and treatment."" World Journal of Gastroenterology: WJG 19.15 
+
+(2013): 2293. 
+
+7. Guyton, Kristina L., Neil H. Hyman, and John C. Alverdy. ""Prevention of perioperative 
+
+anastomotic 
+
+healing 
+
+complications: 
+
+anastomotic 
+
+stricture 
+
+and 
+
+anastomotic 
+
+leak."" Advances in surgery 50.1 (2016): 129. 
+
+8. 
+
+Stergios, K., et al. ""The potential effect of biological sealants on colorectal anastomosis 
+
+healing in experimental research involving severe diabetes."" The Annals of The Royal 
+
+College of Surgeons of England 99.3 (2017): 189-192. 
+
+9. 
+
+Endoluminal Vaccum Therapy 
+
+https://www.bbraun.com/content/dam/b-braun/global/website/products-and-
+
+therapies/wound-closure/L74302_0916_Clinical_Evidence_Folder.pdf.bb-
+
+.98175420/L74302_0916_Clinical_Evidence_Folder.pdf  Accessed 30/8/2018 
+
+10. Harvesting fat cells to repair anastomotic leaks http://colorectal.htc.nihr.ac.uk/ongoing-
+
+projects/harvesting-fat-cells-repair-anastomotic-leaks/ Accessed 30/8/2018 
+
+11. Trends in Operating Room Procedures in U.S. Hospitals, 2001–2011 https://www.hcup-
+
+us.ahrq.gov/reports/statbriefs/sb171-Operating-Room-Procedure-Trends.pdf  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","5 . INT RAH E PA T I C PR E S S UR E M EA SUR EM E NT I N C HRO N I C L I V E R D I S EA S E 
+
+BA C K GROUN D 
+
+Cirrhosis, the end stage of any chronic liver disease, can lead to portal hypertension. Portal 
+
+pressure increases initially as a consequence of an increased resistance to flow mostly due to an 
+
+architectural distortion of the liver secondary to fibrous tissue and regenerative nodules. In 
+
+addition 
+
+to 
+
+this 
+
+structural 
+
+resistance 
+
+to blood 
+
+flow, 
+
+there 
+
+is 
+
+an 
+
+active 
+
+intrahepatic 
+
+vasoconstriction that accounts for 20–30% of the increased intrahepatic resistance, and that is 
+
+mostly due to a decrease in the endogenous production of nitric oxide. Portal hypertension 
+
+leads to the formation of portosystemic collaterals. However, portal hypertension persists 
+
+despite the development of these collaterals for 2 reasons: 1) an increase in portal venous 
+
+inflow that results from splanchnic arteriolar vasodilatation occurring concomitant with the 
+
+formation of collaterals; and 2) insufficient portal decompression through collaterals as these 
+
+have a higher resistance than that of the normal liver. Therefore, an increased portal pressure 
+
+gradient results from both an increase in resistance to portal flow (intrahepatic and collateral) 
+
+and an increase in portal blood inflow. 1 
+
+Direct measurement of portal pressure 
+
+is highly 
+
+invasive and no 
+
+longer performed. The 
+
+preferred, albeit indirect, method for assessing portal pressure is the wedged hepatic venous 
+
+pressure (WHVP) measurement, which is obtained by placing a catheter in the hepatic vein and 
+
+wedging it into a small branch or, better still, by inflating a balloon and occluding a larger 
+
+branch of the hepatic vein. The WHVP has been shown to correlate very closely with portal 
+
+pressure both in alcoholic and nonalcoholic cirrhosis. 1 
+
+ Nowadays, 
+
+the most well-documented marker 
+
+for 
+
+portal 
+
+venous 
+
+pressure 
+
+is HVPG 
+
+measurement. There is data on the ability of HVPG to predict overall liver-related outcomes 
+
+including risk for variceal hemorrhage. It has been proposed that serial HVPG measurement 
+
+could assess fibrosis or cirrhosis despite etiology. Taken together, HVPG measurement can be 
+
+used 
+
+in 
+
+the diagnosis of 
+
+liver 
+
+fibrosis, risk stratification, 
+
+identification of patients with 
+
+hepatocellular carcinoma, monitoring of the efficacy of medical treatment, and assessment of 
+
+progression of portal hypertension. 2 
+
+O B S E R V A T I ON 
+
+A 45-year-old female who was a known case of hepatitis C presented with melena (blood in 
+
+stools) and 3 episodes of haematemesis (blood in vomitus) for one day. She had mild distention 
+
+& diffuse tenderness of the abdomen. The patient was diagnosed with Decompensated liver 
+
+disease with upper gastrointestinal bleeding due to ruptured esophageal varices. A 
+
+large 
+
+quantity of blood was drained through her nasogastric tube on lavage. The blood pressure was 
+
+100/50 and the pulse rate was 130 beats per minute despite IV fluid replacement and blood 
+
+transfusion was advised. The patient was transfused with 3 pints of blood and was shifted for 
+
+emergency variceal banding. Variceal banding was attempted and 3 bands were applied but 
+
+were eventually discarded due to excessive bleeding due to lack of visibility and sclerotherapy 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+","was done instead. Following sclerotherapy, an esophageal ulcer developed post-op supposedly 
+
+due to mucosal involvement during banding. 
+
+T H E PRO B L EM  
+
+Antecubital, femoral, or right jugular veins are possible routes for insertion of a catheter in 
+
+HVPG measurement. In case of right jugular vein insertion, a 6 French balloon catheter is placed 
+
+in the right hepatic vein through a right jugular vein puncture for measurement of the FHVP. 
+
+The WHVP is measured by inflation of the balloon catheter at the right hepatic vein. The WHVP 
+
+is always corrected for increases in intraabdominal pressure (e.g., ascites) by subtracting the 
+
+free hepatic vein pressure (FHVP) or the intraabdominal inferior vena cava pressure, which act 
+
+as internal zeroes. The resultant pressure is the hepatic venous pressure gradient (HVPG), 
+
+which is best accomplished with the use of a balloon catheter, usually taking triplicate readings 
+
+and, when measured with a proper technique, is very reproducible and reliable. Since it is a 
+
+measure of sinusoidal pressure, the HVPG will be elevated in intrahepatic causes of portal 
+
+hypertension, such as cirrhosis, but will be normal in prehepatic causes of portal hypertension, 
+
+such as portal vein thrombosis. In the normal liver, inter-connected sinusoidal network partially 
+
+dissipates the pressure backup from the wedged catheter, and the WHVP is slightly lower than 
+
+directly-measured portal pressure. In LC, the inter-sinusoidal communications are blocked by 
+
+fibrous tissue, dissipation of pressure in the wedged vessels is insignificant and the WHVP 
+
+accurately estimates portal pressure. The normal HVPG is 3–5 mmHg. The HVPG and changes in 
+
+HVPG that occur over time have predictive value for the development of esophagogastric 
+
+varices, the risk of variceal hemorrhage, the development of non-variceal complications of 
+
+portal hypertension, and death. Single measurements are useful 
+
+in the prognosis of both 
+
+compensated and decompensated cirrhosis, while repeat measurements are useful to monitor 
+
+response to pharmacological therapy and progression of liver disease.  
+
+Only minor complications such as mainly transient cardiac arrhythmias, local pain, or vagal 
+
+reaction have been 
+
+reported and 
+
+these occur 
+
+infrequently 
+
+(< 1% of patients). HVPG 
+
+measurements can be performed in 10 minutes with trans-jugular liver biopsy through the 
+
+same route. Despite its advantages such as safety, feasibility, and reproducibility, the technique 
+
+is invasive. Besides its invasive nature, limitations to the generalized use of HVPG measurement 
+
+are low acceptance rate among patients with chronic liver disease and requires highly skilled 
+
+technical expertise, the lack of expertise and poor adherence to guidelines will lead to the 
+
+unreliable and irreproducible measurements. The invasiveness and technical difficulty greatly 
+
+restrict its repeatable application. 1 
+
+N E ED S T A T EM ENT 
+
+A simple, accurate, reliable non-invasive way to measure and monitor hepatic venous pressure 
+
+in patients with chronic 
+
+liver disease with cirrhosis and hepatocellular carcinoma 
+
+for 
+
+prognostication of patients in a tertiary care center. 
+
+F I L T E R IN G 
+
+Final score = 18 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+30 
+
+ 
+ 
+ 
+ 
+","Rank = 5 
+
+M AR K E T PO T EN T I A L 
+
+Epidemiology: The Global prevalence of Cirrhosis ranges between 4.5 -9.5%.1 Using an average 
+
+of the two figures and considering an Indian population of 1,300,000,000 we could assume that 
+
+the probable prevalence of cirrhosis due to any causes is 91,000,000. 3 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR D IAGNOS IS AND MON ITOR ING L IVER D ISEASE 1 
+
+Various techniques have/are currently being used to monitor various pressure measurements 
+
+within the liver as well as measure the amount of fibrosis which is a key reason for structural 
+
+resistance to blood flow. 
+
+ Wedged hepatic venous pressure (WHVP): WHVP estimates portal venous pressure by 
+
+occlusive hepatic vein catheterization. either with a wedge catheter or a balloon catheter. 
+
+ 
+
+Hepatic venous pressure gradient (HVPG): HVPG measurement is the best available 
+
+method to evaluate the presence and severity of portal hypertension. Clinically significant 
+
+portal hypertension is defined as an increase in HVPG to >10 mmHg.Currently, a safe, 
+
+reproducible and less invasive technique to measure the HVPG has been developed. HVPG 
+
+represents the gradient between the portal vein and the hepatic vein 
+
+ 
+
+Transient Elastography: The device works by measuring shear wave velocity. In this 
+
+technique, a 50-MHz wave is passed into the liver from a small transducer on the end of an 
+
+ultrasound probe. The probe also has a transducer on the end that can measure the velocity 
+
+of the shear wave (in meters per second) as this wave passes through the liver. The shear 
+
+wave velocity can then be converted into liver stiffness, which is expressed in kilopascals. 
+
+Essentially, the technology measures the velocity of the sound wave passing through the 
+
+liver and then converts that measurement into a liver stiffness measurement; the entire 
+
+process is often referred to as liver ultrasonographic elastography. 4 
+
+ 
+
+Liver Biopsy: The gold standard to stage fibrosis in the liver. It is used in diagnosing and 
+
+grading liver diseases, and to guide therapeutic decisions. It can be performed either by 
+
+percutaneous or transvenous (transjugular) routes. 3 
+
+ 
+
+Computed tomography angiography: A novel noninvasive assessment of hepatic venous 
+
+pressure gradient and portal pressure using 
+
+ CTA performed with multi-detector CT 
+
+scanners. 5 
+
+ 
+
+Magnetic resonance elastography, multiparametric magnetic resonance 
+
+imaging: 
+
+These 
+
+techniques hold promise and are being 
+
+investigated as surrogates of portal 
+
+hypertension, particularly in patients who are not appropriate candidates for ultrasound 
+
+elastography. 6 
+
+ 
+
+Ultrasonography: USG is the first-line imaging technique recommended for the diagnosis 
+
+and follow-up of patients with portal hypertension since it is noninvasive, cheap and can be 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+","performed at the bedside. The US is highly specific for the diagnosis of cirrhosis and portal 
+
+hypertension, but its sensitivity is relatively low in compensated patients.7 
+
+ 
+
+Spleen stiffness: Since splenomegaly 
+
+in cirrhosis 
+
+is a direct consequence of portal 
+
+hypertension, spleen stiffness has been recently proposed as a new noninvasive parameter 
+
+with better accuracy 
+
+than 
+
+liver 
+
+stiffness 
+
+for predicting 
+
+clinically 
+
+significant portal 
+
+hypertension and esophageal varices. 7 
+
+M AN AG EM EN T O F C I R RHO S I S  
+
+For individuals with compensated cirrhosis and mild portal hypertension, the AASLD provides 
+
+the following guidance 
+
+ 
+
+The 
+
+treatment goal 
+
+is 
+
+to prevent 
+
+the development of clinically significant portal 
+
+hypertension (CSPH)/decompensation and, perhaps, even to achieve regression of 
+
+cirrhosis. 
+
+ 
+
+ 
+
+Elimination of the etiologic agent is the current mainstay of therapy. 
+
+Drugs that act on portal 
+
+flow, such as nonselective beta-blockers, will be mostly 
+
+ineffective in this substage, given that the hyperdynamic circulatory state is not fully 
+
+developed. 
+
+For individuals with compensated cirrhosis and CSPH but without gastroesophageal varices, the 
+
+AASLD recommends the following: 
+
+ 
+
+The goal of treatment should be to prevent clinical decompensation (ie, it is no longer 
+
+the objective to prevent varices). 
+
+ 
+
+No evidence exists at present to recommend the use of nonselective beta-blockers to 
+
+prevent the formation of varices. 
+
+In patients with compensated cirrhosis and gastroesophageal varices, please refer to the 
+
+esophageal varices Need specification document 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+A fast, non-invasive, accurate, reliable and affordable solution that allows for the measurement 
+
+and repeated monitoring of the hepatic venous pressure in any patient by a clinician with 
+
+chronic liver disease.  
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be non-invasive 
+
+Must be at least as accurate as HVPG 
+
+Must be easy to implement allowing for repeated tests/follow up 
+
+Must be at least as fast as HVPG (10 minutes) 
+
+N I C E T O HA V E 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"," 
+
+ 
+
+ 
+
+Must be portable (i.e. for an OPD setting) 
+
+Must also gauge fibrosis (as accurately as elastography) 
+
+Must be as affordable as an ultrasound scan  
+
+R E F E R EN C E S :  
+
+1. American 
+
+College 
+
+of Gastroenterology Guidelines 
+
+Prevention 
+
+and Management 
+
+of 
+
+Gastroesophageal Varices and Variceal Hemorrhage 
+
+in Cirrhosis. Accessed 21/8/2018 
+
+https://gi.org/guideline/prevention-and-management-of-gastroesophageal-varices-and-
+
+variceal-hemorrhage-in-cirrhosis/  
+
+2. 
+
+Suk, Ki Tae. ""Hepatic venous pressure gradient: clinical use in chronic liver disease."" Clinical 
+
+and molecular hepatology 20.1 (2014): 6. 
+
+3. Global Burden Of Liver Disease: A True Burden on Health Sciences and Economies. World 
+
+Gastroenterology 
+
+Organization. 
+
+Accessed 
+
+21/8/2018 
+
+http://www.worldgastroenterology.org/publications/e-wgn/e-wgn-expert-point-of-view-
+
+articles-collection/global-burden-of-liver-disease-a-true-burden-on-health-sciences-and-
+
+economies  
+
+4. Afdhal, Nezam H. ""Fibroscan (transient elastography) for the measurement of liver 
+
+fibrosis."" Gastroenterology & hepatology8.9 (2012): 605. 
+
+5. Qi, Xiaolong, et al. ""A novel noninvasive assessment of hepatic venous pressure gradient and 
+
+portal pressure computed from computed tomography angiography."" Archives of medical 
+
+science: AMS 10.5 (2014): 1052. 
+
+6. Berzigotti, Annalisa. ""Advances and challenges in cirrhosis and portal hypertension."" BMC 
+
+medicine 15.1 (2017): 200. 
+
+7. Annalisa Berzigotti, Susana Seijo, Enric Reverter & Jaime Bosch (2013) Assessing portal 
+
+hypertension in liver diseases, Expert Review of Gastroenterology & Hepatology, 7:2, 141-
+
+155 
+
+8. Garcia-Tsao G, Abraldes JG, Berzigotti A, Bosch J. Portal hypertensive bleeding in cirrhosis: 
+
+risk stratification, diagnosis, and management: 2016 practice guidance by the American 
+
+Association for the study of liver diseases. Hepatology. 2017 Jan. 65 (1):310-35.  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","6 . IA T RO G E N I C UR ET ERA L IN JUR Y DU E TO L A PA RO S CO P I C SUR G ER Y 
+
+BA C K GROUN D 
+
+Iatrogenic (hospital-related) ureteral injury is a serious complication that can occur during 
+
+abdominal or pelvic operations. Despite the low incidence rate (0.3% to 1.5%), ureteral injuries 
+
+can lead to significant morbidity. Some studies identified risk factors such as resection of large 
+
+pelvic masses, malignant neoplasms, inflammatory disease, previous operation, or radiation 
+
+therapy. 1 In a study by Ostrzenski et. al. a total of 70 instances of ureteral injury during 
+
+laparoscopic 
+
+surgery were 
+
+identified among 2491 
+
+reported 
+
+cases. The 2491 
+
+cases of 
+
+laparoscopy included case reports, small series of studies, as well as longer, consecutive studies. 
+
+In 25.7% of cases, the initial laparoscopic procedures during which ureteral injury occurred 
+
+were not described or specified. In cases in which the type of laparoscopic surgery was specified, 
+
+20.0% of the total cases of ureteral injury occurred during laparoscopically assisted vaginal 
+
+hysterectomy (LAVH). A ureteral injury was identified intraoperatively in only 8.6% of cases, 
+
+postoperatively in 70% of cases, and, in 21.4% of cases, the time of diagnosis was not specified. 
+
+In instances in which the types of injury were described, transection occurred most commonly, 
+
+accounting 20.0% of the injuries. Injuries most often occurred at or above the pelvic brim with  
+
+Electrocautery involved in 17 of the 70 (24.3%) cases of ureteral injury. A laparotomy was used 
+
+to repair the ureteral injury in 43 of 70 (61.4%) cases thus exemplifying the morbidity involved 
+
+in the ureteral injury. 2 Ureteral injury is one of the most serious complications of gynecologic 
+
+surgery. Less common than injuries to the bladder or rectum, ureteral injuries are far more 
+
+serious and troublesome and are often associated with significant morbidity, the formation 
+
+of ureterovaginal 
+
+fistulas, and 
+
+the potential 
+
+loss of kidney 
+
+function, especially when not 
+
+recognized until postoperatively. For these reasons, injuries to the urinary tract, particularly the 
+
+ureter, are the most common cause for legal action against gynecologic surgeons.3 
+
+O B S E R V A T I ON 
+
+An 80-year-old female patient had a history of a mass per rectum for the past 6 months. It was 
+
+symptomatic 
+
+for 
+
+the past 3 weeks with 
+
+fecal 
+
+incontinence She underwent 
+
+laparoscopic 
+
+rectopexy with a mesh. The abdominal cavity is entered by using the Hasson approach. Once the 
+
+camera port is inserted and the abdomen is insufflated, a right lower port and a right upper 
+
+quadrant port was placed. A 30° scope was introduced into the umbilical port. To improve 
+
+exposure, an additional port can be placed on the left flank. If the patient has a uterus that is 
+
+affecting exposure, it can be retracted with a stitch to the anterior abdominal wall. Dissection is 
+
+started posteriorly. The plane between the mesorectum and retroperitoneum is identified then 
+
+the posterior pelvic plane under the superior rectal artery is entered, and the left ureter and 
+
+hypogastric nerve plexus are identified; dissection is extended downward through the presacral 
+
+anatomical space, all the way to the pelvic floor. The dissection must be carried below the 
+
+Waldeyer fascia. Once the right stalk and posterior areas were mobilized, dissection proceeded 
+
+anteriorly 
+
+into 
+
+the rectovaginal plane. The rectum was retracted 
+
+to 
+
+facilitates exposure . 
+
+Subsequently, the rectum was mobilized anteriorly to the upper limit of the vagina. The rectum 
+
+was then pulled out of the pelvis, and the location for fixation was assessed. A window was 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+","made on the left side of the rectum to facilitate the rectopexy. A small rectangular sheet of 
+
+polypropylene mesh was inserted via the right lower quadrant port and placed all the way 
+
+down to the pelvic floor. The stalks were fixed to the sacrum and the mesh was incorporated. 
+
+The patient presented with signs and symptoms of abdominal pain and fever with flank pain 
+
+was present and a urethral 
+
+injury was suspected. 
+
+Immediate cystoscopy and retrograde 
+
+pyelogram was performed for diagnosis of a suspected ureteral injury and was confirmed . 
+
+T H E PRO B L EM  
+
+A significant ureteral injury is defined as any recognized or unrecognized iatrogenic trauma to 
+
+the ureter that prevents it from functioning properly or effectively. The injury may lead to acute 
+
+ureteral obstruction (eg, a ureter that is inadvertently ligated) or discontinuity (ie, inadvertent 
+
+ureteral resection). If an injury to the ureter has occurred and is unrecognized, it may lead to 
+
+chronic ureteral obstruction (ie, crush injury, ischemia) or the formation of fistulas. Serious 
+
+urinary complications after major operative laparoscopy were discovered in 1.6% of patients. 
+
+This incidence compares favorably to serious urinary complications after standard gynecologic 
+
+surgery. Intraoperative recognition of these complications will likely avoid additional surgery. 
+
+Major operative laparoscopic procedures included hysterectomy, adnexectomy, treatment of 
+
+tubal pregnancy, ovarian cystectomy, and ablation-fulguration of severe endometriosis (stage 
+
+IV). The 6 most common mechanisms of operative ureteral injury are as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Crushing from misapplication of a clamp 
+
+Ligation with a suture 
+
+Transsection (partial or complete) 
+
+Angulation of the ureter with secondary obstruction 
+
+Ischemia from ureteral stripping or electrocoagulation 
+
+Resection of a segment of ureter 
+
+Ureteral injuries may have numerous consequences, including the following: 
+
+ 
+
+ 
+
+Spontaneous resolution and healing of the injured ureter 
+
+Hydronephrosis: The urine from the ipsilateral kidney is prevented from draining into the 
+
+bladder, leading to hydronephrosis and progressive deterioration of renal function. It may 
+
+even have led to infection (pyelonephrosis) 
+
+ 
+
+Ureteral necrosis with urinary extravasation: A section of the ureteral wall necroses (death 
+
+of cells) due to pressure. This segment of the ureter eventually weakens, leading to urinary 
+
+leakage into the surrounding tissues. 
+
+ 
+
+Ureteral stricture formation: Strictures may lead to blockage of the ureter thus blocking the 
+
+passage of urine 
+
+ 
+
+Uremia: An end-stage emergency condition in which excess nitrogenous waste is present in 
+
+the circulation due to renal dysfunction 
+
+The close anatomical relationship of the ureter with abdominal and pelvic organs increases the 
+
+risk of injury. The course taken by the ureter in the pelvis is said to be ‘Fraught with Hazard’.  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+","N E ED S T A T EM ENT 
+
+An accurate way to 
+
+identify and continuously monitor the 
+
+location of the ureter 
+
+in any 
+
+laparoscopic abdominal or pelvic procedure to avoid injury leading to further complications and 
+
+morbidity. 
+
+F I L T E R IN G 
+
+Final score = 9 
+
+Rank = 7 
+
+M AR K E T PO T EN T I A L 
+
+Epidemiology: In laparoscopic surgeries, the ureteral injury rate is between 0.3% to 2%. 
+
+Assuming 18 million laparoscopic surgeries a year and using 0.3% that would equate to around 
+
+5,400 cases of ureteral injury a year on average. The frequency of ureteral injury following 
+
+gynecologic surgery too is approximately 1%, with a higher percentage of injuries occurring 
+
+during abdominal hysterectomies and partial vaginectomies. Patients who have received pelvic 
+
+radiation or who have advanced pelvic cancers requiring extensive surgical procedures are 
+
+more likely to experience a ureteral injury. Ureteral injuries are seen during colorectal surgery 
+
+too with incidence, ranging in the literature from 0.28–7.6%.  Although the incidence is not high, 
+
+the morbidity associated with ureteral injury is significant both in terms of the additional 
+
+laparotomy required for repair as well as the medico-legal implications for the healthcare 
+
+provider. 7 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS OF U RETERAL IN JURY PREVENT ION 1 
+
+At present, four preventive measures are considered as having a high level of evidence (grade 
+
+IA) according to major evidence-based guidelines:  
+
+ 
+
+Anatomical localization: Requires a thorough understanding of intraoperative pelvic and 
+
+retroperitoneal anatomy. 5 
+
+ 
+
+Identification of peristalsis: To distinguish the ureter from other vascular structures, the 
+
+ureter will typically elicit peristalsis on gentle stroking. Others have observed that the 
+
+ureter has a characteristic snap when it is gently palpated. 5 
+
+ 
+
+Avoidance of electrothermal injury: 5 Avoid using monopolar current close to the ureter. 5 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"," 
+
+Preoperative intravenous pyelograms (IVP): Although its usefulness is debatable, IVPs 
+
+have been used preoperatively to locate the ureters for surgery in patients with disease 
+
+processes that may distort the ureters, such as pelvic masses or inflammatory disease. 6 
+
+ 
+
+Ureteral stenting: Routine preoperative ureteral stenting has been advocated in cases 
+
+where a difficult pelvic dissection is expected. However, recent reviews have shown that 
+
+this measure does not affect the rate of ureteral injuries, even though it might help facilitate 
+
+intraoperative detection of a respective lesion. Multiple catheters and stents exist in the 
+
+market 5 
+
+ 
+
+Lighted stents: These have been used to assist in identifying the location of the ureters 
+
+during laparoscopic surgery to help prevent iatrogenic injury. These have also found to be 
+
+compelling during. 7 
+
+M AN AG EM EN T O F S U R G I C A L S I T E IN F E C T I O N S 
+
+Depending on the type, duration, and location of the ureteral injury, surgical treatment may 
+
+range from simple removal of a ligature to ureteroneocystostomy. The most common surgical 
+
+treatments for ureteral injury are as follows: 
+
+ 
+
+Simple removal of a ligature: If a clamp or ligature constricting the ureter is discovered, 
+
+the clamp or ligature should be removed immediately, and the ureter should be examined. If 
+
+ureteral peristalsis is preserved and damage is thought to be minimal, the ureter injury may 
+
+be managed with observation. 
+
+ 
+
+Ureteral stenting: If tissue 
+
+ischemia or a partial transection of the ureteral wall 
+
+is 
+
+suspected, a ureteral stent should be placed. The purpose of the stent, which is typically 
+
+placed cystoscopically, is to act as a structural backbone onto which the healing ureter may 
+
+mold. It also guarantees drainage of urine from the renal pelvis directly into the urinary 
+
+bladder. It also can work as a gentle dilator since it moves slightly in an up-and-down 
+
+motion, associated with breathing, as the kidney unit moves. The use of the stent is thought 
+
+to minimize the rate of obstruction of a ureteral stricture in the injured area. Ureteral stents 
+
+have been shown repeatedly to act as an excellent scaffolding mechanism when a partial 
+
+ureteral distraction has occurred, with excellent long-term patency rates. 
+
+ 
+
+Ureteral resection and ureteroureterostomy: If extensive ischemia or necrosis is the 
+
+result of an injury, the ureter injury is best treated by excising the injured segment of the 
+
+ureter and reestablishing continuity with the urinary system. If the ureteral injury occurred 
+
+above the pelvic brim, the simplest reconstruction is a ureteroureterostomy, a procedure 
+
+that is indicated for injuries to short segments of the ureter (ie, < 2 cm), in which an 
+
+anastomosis is performed between the 2 cut edges of the ureter. 8 
+
+ 
+
+Transureteroureterostomy: If ureteroureterostomy cannot be performed technically and 
+
+the 
+
+defect 
+
+is 
+
+too 
+
+proximal 
+
+in 
+
+the 
+
+ureter 
+
+for 
+
+ureteroneocystostomy, transureteroureterostomy may be performed. The 
+
+literature also 
+
+demonstrates the long-term efficacy of transureteroureterostomy. 8 
+
+ 
+
+Ureteroneocystostomy: If the ureteral 
+
+injury occurred below the pelvic brim, where 
+
+visualization of the ureter is difficult and where the vesical pedicles overlie the ureter, 
+
+ureteroureterostomy 
+
+is often 
+
+too difficult 
+
+to perform. 
+
+In 
+
+these 
+
+cases, 2 
+
+types of 
+
+ureteroneocystostomy procedures are indicated, either a psoas hitch or a Boari flap, in 
+
+which the bladder is mobilized to reach the easily identifiable ureter proximal to the injury. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+","EM E R G IN G S O LU T I ON S 
+
+The future of distal ureteral injuries is exciting, and the use of new technology may change the 
+
+management of distal ureteral injuries entirely.  
+
+Subintestinal submucosa (SIS): SIS can be used as a tissue scaffold, a new modality to treat 
+
+ureteral injuries has emerged. While no current studies are being performed using SIS for the 
+
+treatment of distal ureteral injuries, the placement of SIS may serve as a healing bridge between 
+
+2 
+
+injured ureteral ends. Although SIS will not drastically affect the management of short 
+
+ureteral injuries or strictures, it may be useful in treating longer ureteral defects. 
+
+Robotic Surgery: Robotic techniques also have the potential for use in repair of ureteral injury. 
+
+In a review of 43 cases of robot-assisted repair of injuries to the ureter or bladder that occurred 
+
+during obstetrical and gynecological surgical procedures, Gellhaus et al concluded that robotic 
+
+repair 
+
+is associated with good outcomes, appears safe and 
+
+feasible, and can be used 
+
+immediately after injury recognition or as a salvage procedure after prior attempted repair. 9 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+A solution that allows for localization and continuous monitoring of the ureter(s) during the 
+
+entire surgical procedure and also allows for the intra-operative diagnosis of any ureteric injury 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+Allows for localization of the ureter(s) 
+
+Allows the continuous monitoring of the ureter(s) intra-operatively  
+
+Should not cause any ureteric damage, injury or infection 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Should be integrated with the existing operation theatre technology 
+
+Should be easy to administer and track  
+
+Should be used to localize and monitor other hollow viscus structures besides the ureter 
+
+Should allow for the intra-operative diagnosis of any ureteric injury 
+
+R E F E R EN C E S :  
+
+1. 
+
+Palaniappa, Nandini C., et al. ""Incidence of iatrogenic ureteral injury after laparoscopic 
+
+colectomy."" Archives of surgery 147.3 (2012): 267-271. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","2. Ostrzenski, Adam, Bartholomew Radolinski, and Katarzyna M. Ostrzenska. ""A review of 
+
+laparoscopic ureteral injury in pelvic surgery."" Obstetrical & gynecological survey 58.12 
+
+(2003): 794-799. 
+
+3. Teeluckdharry B, Gilmour D, Flowerdew G. Urinary Tract Injury at Benign Gynecologic 
+
+Surgery and the Role of Cystoscopy: A Systematic Review and Meta-analysis. Obstet Gynecol. 
+
+2015 Dec. 126 (6):1161-9 
+
+4. Ureteral injury during gynecological surgery  
+
+https://emedicine.medscape.com/article/454617-overview#a9  Accessed 10/8/2018 
+
+5. Muntener, Michael & Romero, Frederico & R. Kavoussi, Louis. (2006). Complications in 
+
+Laparoscopic Surgery. Emergencies in Urology. 349-363. 10.1007/978-3-540-48605-3_28. 
+
+6. 
+
+Chan, John K., Joelle Morrow, and Alberto Manetta. ""Prevention of ureteral injuries in 
+
+gynecologic surgery."" American journal of obstetrics and gynecology 188.5 (2003): 1273-
+
+1277. 
+
+7. Boyan Jr, William P., et al. ""Lighted ureteral stents in laparoscopic colorectal surgery; a five-
+
+year experience."" Annals of translational medicine 5.3 (2017). 
+
+8. Miller EA. Ureteroureterostomy and Transureteroureterostomy. Smith JA Jr, Howards SS, 
+
+Preminger GM, Eds. Hinman's Atlas of Urologic Surgery. 3rd ed. Philadelphia PA: Saunders; 
+
+2012. 747-50. 
+
+9. Gellhaus PT, Bhandari A, Monn MF, Gardner TA, Kanagarajah P, Reilly CE, et al. Robotic 
+
+management of genitourinary injuries from obstetric and gynecological operations: a multi-
+
+institutional report of outcomes. BJU Int. 2014 Apr 21. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","7 . VA S CU L AR IN JUR I E S DUR I NG L A PARO S C O P I C S UR G ER Y 
+
+BA C K GROUN D 
+
+Minimally invasive surgery (MIS) has provided surgeons with the opportunity to perform 
+
+complex procedures with less morbidity and good outcomes. However, it is not without its 
+
+associated potential complications. The types of complications range from more minor ones 
+
+such as difficulty accessing the abdominal cavity (incidence rates 0.2–3.1%)  to those with 
+
+significant morbidity such as vascular and organ injuries (incidence rates from 0.5% to as high 
+
+as 20% depending on the type of MIS). While these complications rates may appear low, the 
+
+number of patients affected is great, given the number of MIS procedures performed each year. 1 
+
+Vascular injuries during laparoscopic surgeries are rare, seen in 0.2 in 1000 cases, however, 
+
+they 
+
+are 
+
+associated 
+
+with 
+
+6–13% morbidity 
+
+and mortality. 
+
+The 
+
+injuries maybe 
+
+major/catastrophic injuries or minor vascular injuries. 2 Inadvertent bleeding causes non-
+
+reimbursable hospital costs amounting to billions of dollars in the US every year. 3 
+
+O B S E R V A T I ON 
+
+49-year-old male patient with a history for asymptomatic cholelithiasis for the past one year. 6 
+
+days ago he presented with a history of jaundice, fever and abdominal pain. He was diagnosed 
+
+with acute cholecystitis and was treated symptomatically and with antibiotics for 6 days. He 
+
+was posted for laparoscopic cholecystectomy once the symptoms subsided. The patient was 
+
+under GA. A 1.5-cm longitudinal incision is made at the inferior aspect of the umbilicus, then 
+
+deepened through the subcutaneous fat to the anterior rectus sheath. The peritoneum 
+
+is 
+
+elevated between two straight clamps and incised so as to afford safe entry into the abdominal 
+
+cavity. An 11-mm blunt Hasson trocar is placed into the abdominal cavity, and insufflation of 
+
+carbon dioxide is initiated to a maximum pressure of 15 mm Hg. A 1.2-cm incision is made three 
+
+fingerbreadths below the xiphoid process and deepened into the subcutaneous fat. An 11-mm 
+
+trocar 
+
+is advanced 
+
+into the abdominal cavity under direct vision 
+
+in the direction of the 
+
+gallbladder 
+
+through 
+
+the abdominal wall. A 5-mm grasper 
+
+is placed 
+
+through 
+
+the 11-mm 
+
+subxiphoid port and applied to the fundus of the gallbladder. The gallbladder is then elevated 
+
+over the dome of the liver to facilitate the positions for the lateral 5-mm ports. Lateral skin 
+
+incisions are made, and two 5-mm trocars are advanced into the peritoneal cavity under direct 
+
+vision. A 5-mm grasper with the locking mechanism is placed through each of these lateral ports. 
+
+Due to the inflammatory reaction, all anatomical landmarks and surgical fields were lost. 
+
+There was extensive fibrosis and scar tissue adhering the gallbladder to the liver . The 
+
+surgeon dissected for 2 hours until he located the cystic duct and cystic artery. While dissecting 
+
+due to lack of visualization and confirmation he lacerated the cystic artery and led to an 
+
+arterial bleed. The procedure was converted to an open surgery and on laparotomy, the 
+
+bleeding site was eventually identified and clamped to control the bleeding. One pint of blood 
+
+was transfused due to the drop in blood pressure. The cystic duct was then identified and 
+
+clamped and the gallbladder dissected and separated from the liver before being removed from 
+
+the port. The patient was admitted to the ICU postoperatively for observation for 2 days . 
+
+T H E PRO B L EM  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","Vascular injuries during laparoscopic surgeries are rare, seen in 0.2 in 1000 cases, however, 
+
+they 
+
+are 
+
+associated 
+
+with 
+
+6–13% morbidity 
+
+and mortality. 
+
+The 
+
+injuries maybe 
+
+major/catastrophic 
+
+injuries or minor vascular 
+
+injuries. Commonest sites 
+
+for catastrophic 
+
+hemorrhage are the right iliac vessels, inferior vena cava and less commonly the abdominal 
+
+aorta. Access is associated with injuries to the gastrointestinal tract and major blood vessels and 
+
+at least 50% of these major complications occur prior to the commencement of the intended 
+
+surgery. The injuries commonly occur at the step of abdominal entry using a Veress needle or 
+
+the insertion of trocars. These risks are inherent to all laparoscopic surgery. The management of 
+
+major vascular injuries requires an open surgery/laparotomy and vascular surgeons. 2 This 
+
+complication rate has remained the same during the past 25 years. 4 13-50% of vascular injuries 
+
+are undiagnosed at the time of surgery. 4 The reason for these injuries is the close proximity of 
+
+the anterior abdominal wall to the retroperitoneal vascular structures. In thin patients, this 
+
+distance may be as little as two centimeters. The distal aorta and right common iliac artery are 
+
+particularly prone to injury.  
+
+Minor vascular injuries are so named since these are injuries to vessels of lesser importance 
+
+than the aorta, inferior vena cava, and iliac vessels. However, these are by no means minor in 
+
+nature. The most common minor vascular injury is to the inferior epigastric vessels, occurring 
+
+in up to 2.5% of laparoscopic hernia repairs. There were 76 cases of minor vascular injuries 
+
+involving principally the epigastric vessels in a review of 10,837 patients undergoing a hernia 
+
+repair. 4 
+
+Factors responsible: 4 
+
+1. 
+
+Surgical experience 
+
+2. Unsharpened trocar 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+Failure to stabilize abdominal wall 
+
+Perpendicular insertion of needle or trocar 
+
+Lateral deviation of needle or trocar 
+
+Inadequate pneumoperitoneum 
+
+Forceful thrust 
+
+Failure to locate anatomical landmarks 
+
+Inadequate incision size  
+
+The injuries are often due to fundamental challenges associated with using laparoscopic surgery, 
+
+where the field of surgery has bleeding, fat, scar tissue and adhesions. These problems are 
+
+exacerbated by complicating factors such as inflammation, cancer, chronic disease, obesity, and 
+
+re-operations. 4 
+
+Although some devices exist, the main limitations of existing vascular detection systems include 
+
+the inability to quantitate vessel metrics, added complexity during surgery, and cost. 5 
+
+N E ED S T A T EM ENT 
+
+An accurate, affordable way to detect vascular structures (arterial and venous) peri-operatively 
+
+(insertion of trocars and/or intra-operatively) in laparoscopic surgery to avoid laceration of 
+
+said vascular structures during any laparoscopic abdominal or pelvic procedure to avoid injury 
+
+leading to complications related to blood loss, conversion to laparotomy and possible mortality. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","F I L T E R IN G 
+
+Final score = 8.5 
+
+Rank = 8 
+
+M AR K E T PO T EN T I A L 
+
+Epidemiology: In laparoscopic surgeries, the major vascular injury rate ranges from 0.1 to 0.64 
+
+per 1000 cases 1800-12000  Assuming 18 million laparoscopic surgeries a year this would 
+
+equate to around 1800 – 12,000 cases of major catastrophic vascular injury a year on average. 
+
+This excludes the so-called minor vascular injuries which are much more commonplace and can 
+
+lead to complications such conversion to laparotomy, blood loss, poor surgical outcomes and 
+
+increased costs. 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS OF V ASCULAR IN JURY PREVENT ION 1 
+
+Prevention is particularly important in laparoscopic surgery with its two-dimensional vision 
+
+and 
+
+limited tactile 
+
+feedback, 
+
+it 
+
+is essential to adhere to general surgical principles of a 
+
+meticulous dissection 5  
+
+ 
+
+Anatomical localization: Requires a thorough understanding of intraoperative pelvic 
+
+and retroperitoneal anatomy. 6 
+
+ 
+
+Intraoperative vessel visualization 
+
+(ultrasound, 
+
+fluorescence 
+
+angiography) 
+
+are 
+
+insufficient based on one or a combination of 
+
+the 
+
+following: 
+
+inherent 
+
+technical 
+
+limitations (i.e. resolution, speed, etc.) of the technology, inability to easily integrate into 
+
+the surgical workflow, cost constraints, and/or added personnel requirements 
+
+for 
+
+equipment operation and/or analysis of test results. 3 
+
+o 
+
+Laparoscopic ultrasound: Lack sensitivity and are 
+
+limited to detection to 
+
+detection of large vessels 
+
+o 
+
+Laser Doppler probes: Lack sensitivity and are limited to detection to detection 
+
+of large vessels 
+
+o 
+
+Near-infrared (NIR): Used in breast reconstruction and colon surgery to offer 
+
+information about the microvasculature, but offers low sensitivity and requires 
+
+expensive contrast agents 
+
+ 
+
+Smart Laparoscopic grasper: Blood vessels ranging from 2 to 6 mm and buried under 
+
+up to 1 cm of tissue can be detected 3 
+
+M AN AG EM EN T O F V A S C U L AR IN JU R I E S 
+
+Management of vascular injuries during MIS is often difficult due to the limited visibility and 
+
+morbidity produced by these procedures. 1 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","Whereas in access-related vascular injuries it is recommended to convert to open surgery in 
+
+order to control the bleeding, vascular injuries that occur during dissection after all the ports 
+
+have been placed may be dealt with laparoscopically. The range of appropriate measures goes 
+
+from simple application of pressure to immediate conversion to open surgery. Obviously, the 
+
+optimal management of an intraoperative vascular complication depends on the severity of the 
+
+case and the experience of the surgeon. In the individual case, the surgeon must make this 
+
+decision based upon 
+
+the 
+
+respective situation and must choose 
+
+the solution 
+
+that 
+
+least 
+
+compromises patient safety and the goals of the actual procedure. 4 
+
+As in open surgery, the first step is the application of pressure to the source of the bleeding. 
+
+Whereas in open surgery manual compression can be applied very quickly, in a laparoscopic 
+
+case an effective tamponade requires a small laparotomy pad or at least a sponge gauze to be 
+
+pressed onto the bleeding site via a laparoscopic instrument (e.g., a grasper). As an alternative, 
+
+Yurkanin suggested the use of a Foley catheter that is inserted through one of the ports. The 
+
+inflated catheter balloon can be pressed onto the bleeding site with a catheter guide (Yurkanin 
+
+et al. 2005). Moreover, 
+
+the 
+
+intraabdominal pressure can be 
+
+increased up 
+
+to 25 mmHg 
+
+temporarily to diminish venous bleeding. Blood pooling around the site of the lesion can then be 
+
+aspirated and a slow retraction of the tamponade should reveal the source of the bleeding. In a 
+
+minor vascular injury, application of pressure for a couple of minutes alone may solve the 
+
+problem.5 
+
+Hemostyptic agents: Agents such as oxidized regenerated cellulose, and fibrin glue may be 
+
+applied alone or in combination. 5 
+
+Electrocautery or harmonic scalpel: The harmonic scalpel uses a high-frequency ultrasonic 
+
+transducer with a microprocessor-controlled generator to detect changes 
+
+in the feedback 
+
+acoustic pattern. Vessel coagulation is then performed in a similar method to electrosurgery by 
+
+tamponading the vessel and then sealing with a denatured protein coagulum while using 
+
+ultrasonic vibration to denature hydrogen bonds. 6 
+
+Application of clips: If there is adequate exposure of the injured vessel, these techniques may 
+
+be enough to control the bleeding. 5 
+
+Suturing: A decision must be made as to whether the respective blood vessel has to be repaired 
+
+or not. If a repair is not necessary, an open or a laparoscopic suture ligation is most likely to 
+
+stop the bleeding. Suture appliers such as Lapra-ty may be used to save time.  
+
+Hem-o-locks: The Hem-o-lok product line is an innovative ligation system that combines the 
+
+security of a 2.0 suture with the speed of a metal clip for open and laparoscopic surgery 
+
+Ligasure and Gyrus PK: These devices use bipolar electrical energy and pressure to melt 
+
+collagen and elastin in vessel walls to form a seal. The former utilizes continuous energy while 
+
+the latter uses pulsed energy. 6 
+
+Enseal: This device uses bipolar electrical energy but employs a nanotechnology feedback 
+
+mechanism to reduce thermal spread by changing the energy required for sealing in response to 
+
+tissue characteristics 6 
+
+Gel Foam: This is a Sterile Compressed Sponge intended for application to bleeding surfaces as 
+
+a hemostatic. 7 
+
+Floseal: The Floseal Matrix is indicated in surgical procedures as an adjunct to hemostasis 
+
+when control of bleeding by ligature or conventional procedures is ineffective or impractical. 8 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+43 
+
+ 
+ 
+ 
+ 
+","Stapling devices: In case the injured vessel is nicely exposed, the application of a stapling 
+
+device might also be considered. 5 
+
+Conversion to open surgery: Endoscopic management is more likely to be feasible if a repair 
+
+does not have to be attempted to Obtain optimal exposure: Identification of the bleeding site 
+
+isolate site. In most cases of major vascular injury, however, it is advisable to convert to an open 
+
+procedure and consider the consultation of a vascular surgeon. 5 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An affordable solution that allows for the accurate localization of blood vessels during the 
+
+insertion of trocars as well as allows for the continuous monitoring of vessels intraoperatively 
+
+especially when the field of surgery has active bleeding, fat, scar tissue and adhesions.  
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Allows for localization of the vessels (regardless of diameter) 
+
+Provides continuous monitoring of vessels intraoperatively when the field of surgery 
+
+has bleeding, fat, scar tissue and adhesions 
+
+Should not cause any ureteric damage, injury or infection 
+
+Must be affordable  
+
+Should not complicate the procedure  
+
+Should not be time-consuming and delay the surgery 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+Should be integrated with the existing operation theatre technology 
+
+Should be easy to administer and track 
+
+Should not require additional technical staff/training  
+
+R E F E R EN C E S :  
+
+1. 
+
+Passerotti, Carlo C., et al. ""The effectiveness of a systematic algorithm for the management of 
+
+vascular injuries during the laparoscopic surgery."" Current urology 9.3 (2015): 138-142. 
+
+2. Asfour, Victoria, Edward Smythe, and Rizwan Attia. ""Vascular injury at laparoscopy: a guide 
+
+to management."" Journal of Obstetrics and Gynaecology (2018): 1-9. 
+
+3. 
+
+Chaturvedi, Amal, et al. ""Blood vessel detection, localization and estimation using a smart 
+
+laparoscopic grasper: a Monte Carlo study."" Biomedical optics express 9.5 (2018): 2027-2040. 
+
+4. Krishnakumar, S., and P. Tambe. ""Entry complications in laparoscopic surgery."" Journal of 
+
+gynecological endoscopy and surgery 1.1 (2009): 4. 
+
+5. Muntener, M., 
+
+F. R. Romero, 
+
+and 
+
+L. R. Kavoussi. 
+
+""Complications 
+
+in 
+
+laparoscopic 
+
+surgery."" Emergencies in Urology. Springer, Berlin, Heidelberg, 2007. 349-363. 
+
+6. 
+
+Lamberton, Gregory R., et al. ""Prospective comparison of four laparoscopic vessel ligation 
+
+devices."" Journal of Endourology22.10 (2008): 2307-2312. 
+
+http://www.pfizer.com/files/products/uspi_gelfoam_plus.pdf   Accessed 20/8/2018   
+
+http://www.floseal.com/us/  Accessed 20/8/2018 
+
+7. 
+
+8. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","8 . N ER V E T RAUM A D UR ING H EAD & N E CK SUR G ER Y 
+
+BA C K GROUN D 
+
+Neck dissection can 
+
+lead to trauma to the greater auricular, marginal mandibular, spinal 
+
+accessory nerve, phrenic and vagus nerve while thyroid surgery can lead to trauma to the 
+
+external branch of superior laryngeal nerve and recurrent laryngeal nerve. The incidence of 
+
+transient temporary injury to the recurrent laryngeal nerve is 5% and permanent damage is 
+
+seen in 2-3% of thyroid surgeries, the most important causes being the accidental transection of 
+
+the nerve. A 
+
+safer,(compared 
+
+to dissection) more accessible 
+
+(compared 
+
+to 
+
+continuous 
+
+Electrophysiological monitoring) way to identify and skeletonize the recurrent laryngeal nerve 
+
+during head and neck surgery to avoid intra-operative damage. 1 The incidence of permanent 
+
+facial nerve paralysis or paresis after surgery for benign parotid tumors is between 3% and 5%, 
+
+1% in primary ear surgery and about 4-10% in revision cases. 2 
+
+Unilateral RLN injury results in paralysis of the respective vocal cord. Bilateral RLN injury can 
+
+either lead to a reduction of the glottic airspace and may require a tracheostomy or widening of 
+
+the airspace leading to aspiration into the lungs. Injury to the greater auricular nerve leads to 
+
+loss of sensation in the skin in an around the pinna of the ear. Marginal mandibular nerve injury 
+
+can lead to salivary incontinence and changes in the muscles in and around the lips thus causing 
+
+inability to lower the lip and aesthetic complications. Spinal accessory nerve supplies the 
+
+trapezius and sternocleidomastoid muscle thus leading to shoulder dysfunction. 1 Facial nerve 
+
+injury can lead to a deformity causing obvious and disfiguring complications. The medicolegal 
+
+implications and the delayed and guarded recovery of such patients leave a bad scar, not only 
+
+on the patient but also on the surgeon. 3 
+
+O B S E R V A T I ON 
+
+A 45-year-old woman presented with goiter 
+
+for 
+
+the 
+
+last 3 years which presented with 
+
+compressive symptoms. Euthyroid. Access, ports, and operative space creation: Surgical access 
+
+can be broadly classified as cervical and extra cervical routes. Within the extra cervical route, 
+
+TA, CW, and AB approaches are more frequently practiced. It is still early days to comment on 
+
+the superiority of one technique over the other. Usually, a 10 mm camera port and two 5 mm 
+
+working ports are used with an additional port optionally. Irrespective of the access route, 
+
+operative space (OS) has to be created in contrast to natural OS in the abdomen or pleural cavity. 
+
+We create OS through a combination of blunt and sharp subcutaneous or subpectoral fascial 
+
+dissection with long hemostats, balloon inflation, and diathermy dissection under vision (Fig. 2). 
+
+This dissection is continued in the subplatysmal plane of the neck beyond. the clavicle. This 
+
+latter dissection is done up to the level of the thyroid cartilage and over the ipsilateral thyroid 
+
+lobe. Reaching thyroid gland in visceral space of neck: In ET, similar to open thyroidectomy, the 
+
+thyroid goiter (TG) can be approached through midline between strap muscles or 
+
+lateral 
+
+approach between strap muscle and sternocleidomastoid (SCM) muscle. This lateral approach is 
+
+especially useful in ET as it is an avascular plane, avoids anterior jugular veins, and aids in direct 
+
+control of middle thyroid vein. With diathermy, the deep fascia over this plane is incised and 
+
+SCM is retracted. Lateral one-third of strap muscles can be cut for extra space. Middle thyroid 
+
+vein is controlled with clips. Mobilization of the thyroid gland: Deep-to-deep cervical fascia, the 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+45 
+
+ 
+ 
+ 
+ 
+","avascular plane between thyroid lobe and carotid sheath, is further opened up till prevertebral 
+
+fascia. Pretracheal fascia over the thyroid lobe is teased close. to TG and it is rotated medially. 
+
+This dissection continues until the lateral part of the superior thyroid pedicle is visualized. 
+
+Control of superior thyroid pedicle: Strap muscle overlying the TG is retracted and if needed its 
+
+lateral one-third 
+
+is cut. Once superior pedicle blood vessels are visualized, they must be 
+
+skeletonized, 
+
+teasing away 
+
+the pretracheal 
+
+fascia and strap muscle 
+
+fibers with bipolar 
+
+diathermy. The skeletonized pedicle blood vessels are 
+
+individually double clipped on the 
+
+proximal side and single clipped toward TG. They are divided to devascularize TG superiorly 
+
+Control of inferior thyroid pedicle: With the combination of blunt and sharp dissection assisted 
+
+by diathermy, the trachea below the ipsilateral isthmolobar junction is visualized. The multiple 
+
+inferior thyroid veins (ITVs) should be skeletonized from the medial to the lateral side. ITVs are 
+
+individually clipped and divided. Before dividing the 
+
+lateral most ITV, it 
+
+is mandatory to 
+
+differentiate it from recurrent laryngeal nerve (RLN) as it courses parallel to them. If in doubt, 
+
+lateral ITV should be divided after demonstration of RLN only. However, with the endoscopic 
+
+magnification, 
+
+it 
+
+is not as difficult 
+
+to differentiate 
+
+ITV 
+
+from RLN as 
+
+in open surgery. 
+
+Identification of recurrent laryngeal nerve (RLN): As ET is usually performed for smaller goiters, 
+
+RLN lies in normal location in the majority of cases. It courses in the trachea-esophageal groove 
+
+between the branches of ITA. With endoscopic magnification, RLN is seen very clearly as a white 
+
+string-like structure with a vasa nervosum accompanying it, posterior to TG. Low-amperage 
+
+diathermy current is employed at least 2 mm away from RLN to divide vascular structures. RLN 
+
+is followed up, until 
+
+its entry at the 
+
+lower border of the 
+
+inferior pharyngeal constrictor. 
+
+Parathyroid glands (PT): Thorough anatomical and embryological knowledge along with 
+
+adequate experience in thyroid surgery is mandatory to identify PT. They should be looked for 
+
+in 
+
+usual 
+
+anatomical 
+
+locations. 
+
+Superior PT, which 
+
+is 
+
+the most 
+
+constant, 
+
+is 
+
+located 
+
+posterosuperior to RLN in more than 80 % of individuals. Capsular dissection close to the 
+
+capsule of TG with meticulous hemostasis using bipolar diathermy is done to preserve PT. 
+
+Inferior PT is located anteroinferior to RLN over the inferior pole of the thyroid, which is 
+
+dissected and preserved similar to superior PT. Ligament of Berry: Division of posterior 
+
+suspensory ligament of thyroid also known as ligament of Berry is the penultimate step of ET. 
+
+After identification of RLN over its entire course, the ligament of Berry has divided close to TG 
+
+and away from RLN using bipolar diathermy, as it is a vascular structure. Separation of TG from 
+
+thyroid bed: The only attachment of TG in the neck after prior steps is flimsy, hypovascular 
+
+areolar tissue between TG and tracheal perichondrium. It is dissected with sharp dissection 
+
+using scissors after the elevation of TG off the trachea. Postoperatively the patient presented 
+
+acute respiratory distress and was diagnosed with unilateral recurrent laryngeal nerve injury. 
+
+She was admitted to the ICU and started on systemic corticosteroids 
+
+T H E PRO B L EM  
+
+Thyroid surgery is the most common cause of recurrent nerve (RLN) injury and gives a rate 
+
+approaching 5% in a large series with close follow-up. These complications are probably more 
+
+common in revision neck surgery. The course of the RLN frequently varies despite normal 
+
+anatomy or as a consequence of congenital vascular anomalies or distortion of regional anatomy 
+
+by extension of goiter by neoplasm or inflammation. When approaching the inferior pole of the 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+","gland, the RLN may be traversed by the ITA (inferior thyroid artery) or may pass between the 
+
+arterial ramifications. Deliberate identification of the RLN minimizes the risk of injury. When 
+
+the nerve is identified and dissected, the reported RLN injury rate during thyroidectomy is 0 -
+
+2.1%. This rate is reportedly higher if surgery is repeated (2- 12%) or if the nerve is not clearly 
+
+identified 
+
+(4-6.6%). 
+
+4 Unilateral RLN 
+
+injury 
+
+can 
+
+cause varying degrees of hoarseness, 
+
+microaspiration, coughing and other symptoms, and bilateral RLN injuries may induce aphonia, 
+
+dyspnea, and even asphyxia to threaten the life of the patients. 
+
+Facial nerve injury is a feared complication of parotidectomy. Facial nerve paralysis can cause 
+
+cosmetic and functional morbidity, ocular complications, diminished quality of life , and medical 
+
+malpractice litigation.1,2 Temporary facial nerve dysfunction occurs in 20% to 40% of patients 
+
+undergoing parotidectomy, whereas permanent facial nerve dysfunction is uncommon and 
+
+occurs 
+
+in 0% to 4% of patients. Even the most experienced surgeon may have difficulty 
+
+identifying and preserving cranial nerves. 
+
+5 
+
+ Oral and maxillofacial surgical procedures 
+
+accounted for 40% of injuries, resections of head and neck lesions 25%, otologic procedures 
+
+17%, cosmetic procedures 11%, and other procedures 7%. 6  There are numerous factors that 
+
+may influence facial nerve injury during parotidectomy, including tumor size, type, location, 
+
+extent of surgery, 
+
+inflammation, and reoperation. Facial nerve 
+
+injury mechanisms during 
+
+parotidectomy include nerve division, stretch, compression, ligature entrapment, thermal and 
+
+electrical injuries, and ischemia. The surgeon has control over most of these mechanisms of 
+
+facial nerve 
+
+injury, and proper, a safe surgical 
+
+technique 
+
+is paramount 
+
+for 
+
+facial nerve 
+
+preservation. 5 
+
+One should also consider the possibility of any thermal injury, either due to the cautery or the 
+
+burr as a source of injury, if he feels that the nerve is intact anatomically. A remote possibility of 
+
+Bell's palsy should also be considered but only as a diagnosis of exclusion. 
+
+With the advent of high-quality microscopes and nerve monitors, the chances of iatrogenic 
+
+facial nerve palsy have come down dramatically but complications still occur leading to poor 
+
+surgical outcomes and medico-legal cases.  
+
+N E ED S T A T EM ENT 
+
+A safer and more accessible way to identify, skeletonize and avoid injury during dissection to 
+
+the nerves (especially facial & recurrent laryngeal nerves) during head and neck surgery to 
+
+avoid intra-operative damage and further complications. 
+
+F I L T E R I N G 
+
+Final score = 8.5 
+
+Rank = 9 
+
+M AR K E T PO T EN T I A L 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+","Although the data is not available for India, in the USA in a National Trends in Thyroid Surgery 
+
+study it was found that 507,356 thyroid surgeries were performed between 2001 and 2008. 7 
+
+With an incidence rate of 0.2 – 1% it would mean close to 3,000 RLN injuries if one considers an 
+
+average incidence rate of 0.6%.  4 
+
+In a chapter on Medicolegal aspects of iatrogenic facial nerve injury, they cited a large -volume 
+
+center which 
+
+reported 
+
+that 
+
+102 patients with 
+
+iatrogenic 
+
+injury 
+
+seen 
+
+over 
+
+a 10-year. 
+
+period.  
+
+Besides for the obvious medical complications seen in iatrogenic nerve injuries, the medicolegal 
+
+complications are also important and the same study above mentioned that malpractice and 
+
+negligence cases are not uncommon especially with facial nerve injury. 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR PREVENT ION NERVE TRAUMA INTRAOPERAT IV ELY 
+
+The risk of inadvertent nerve trauma due to accidental transection or heat-related injury may 
+
+be minimized by the following means:  
+
+Surgical Technique: For 
+
+facial nerve antegrade 
+
+technique or 
+
+retrograde 
+
+technique or 
+
+combination of techniques may be used to avoid injury to the nerves. 9 
+
+Nerve monitoring: This is an adjunctive method that a surgeon can choose to use during 
+
+surgery to assist with the functional preservation of a motor nerve or nerves. Facial nerve 
+
+monitoring is widely used in otologic, neurotologic, and skull base surgery. Improvement in the 
+
+functional preservation of the facial nerve with facial nerve monitoring in acoustic neuroma 
+
+surgery and its cost-effectiveness in otologic surgery has been demonstrated. It is also used in 
+
+parotid surgeries. The goals of facial nerve monitoring during parotidectomy are the same as 
+
+those during otologic and neurotologic surgery and include early facial nerve identification, 
+
+warning to the surgeon of unexpected facial nerve stimulation, mapping of the course of the 
+
+nerve, reduction of mechanical trauma to the nerve, and evaluation and prognosis of nerve 
+
+function at the conclusion of the procedure. 5 
+
+Monitoring methods:  
+
+1. Visual Monitoring: One approach 
+
+is to visually monitor for facial movements during 
+
+surgery. With this method, an assistant alerts the surgeon to facial movements that are 
+
+evoked electrically with a nerve stimulator or evoked mechanically during surgical 
+
+dissection. 5 
+
+2. Electrophysiological monitoring: This is another more sophisticated method of facial 
+
+nerve monitoring. With this approach, facial muscle electromyographic (EMG) activity is 
+
+monitored by an electrophysiologist or by the surgical team during surgery. Several 
+
+electrophysiologic nerve monitoring systems are commercially available, including the NIM-
+
+Response 2.0 Nerve Integrity Monitor (NIM-2; Medtronic Xomed, Jacksonville, FL), the 
+
+Neurosign 400 (Magstim Co., Ltd, Whitland, South West Wales, UK), and the Viking II–EMG 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+","System (Nicolet Biomedical, Madison, WI). These multichannel systems continuously track 
+
+facial muscle activity during surgery and have a built-in pulse generator for electrically 
+
+evoked EMG responses. Electrophysiologic monitoring is generally the preferred method of 
+
+facial nerve monitoring because it is more sensitive and specific than visual monitoring of 
+
+facial movements. Intraoperatively, the surgeon or the neurophysiologist performing the 
+
+monitoring must differentiate true EMG events from artifacts such as those that occur from 
+
+contact between surgical instruments in the operative field. EMG waveform characteristics, 
+
+EMG amplitude, and the surgical context of the event aid in this differentiation. A false-
+
+positive event should be excluded because this may give the surgeon a false sense of 
+
+insecurity. It must be emphasized that the absence of an electrically evoked response does 
+
+not exclude the possibility that the stimulated tissue is the facial nerve. Electrosurgical units 
+
+and other electrical equipment can create an electrical artifact that interferes with facial 
+
+muscle response recording. 5 
+
+Intraoperative neuromonitoring of RLN has brought the following benefits: significantly 
+
+reducing 
+
+iatrogenic RLN 
+
+injury, 
+
+increasing the scope of surgical safety, 
+
+improving the 
+
+identification rate of RLN, accelerating the intraoperative RLN identification and reducing 
+
+accidental injury 
+
+Electrode stimulations for RLN and Superior laryngeal nerve: Recording electrodes are 
+
+positioned to monitor both the right and left vocal folds. An identical fine silver wire 
+
+electrode is used, applied to the vocal folds. The RLN is stimulated by the application of a 
+
+unipolar brass probe to deliver an electric current that ranged from 0.5 to 1.5 mA at a 
+
+frequency of 30 Hz. The identity of an intact RLN would be confirmed through a series of 
+
+audible acoustic signals that were generated by the machine and an action potential traced 
+
+on a monitor screen. The functional integrity of the nerve once again should be confirmed at 
+
+the end of the thyroidectomy by the testing of the most proximal exposed portion of the 
+
+nerve.  
+
+3. Pulsed Infrared Optical Radiation: Facial nerve monitoring equipment of the future will 
+
+likely be more refined. A recent report describes optical nerve stimulation using pulsed 
+
+infrared optical radiation. This new method may contribute 
+
+to 
+
+the 
+
+improved spatial 
+
+selectivity of stimulation. 5 
+
+4. Modalities used in other surgical fields: In a study among Patients undergoing surgical 
+
+fixation following acetabular or pelvic fracture, they had Neuromonitoring during surgery 
+
+performed using three different modalities, transcranial electric motor evoked potential 
+
+(tceMEP), somatosensory evoked potential (SSEP), and electromyographic (EMG) 
+
+monitoring.  tceMEP monitoring was found to be 100% sensitive and 86% specific at 
+
+detecting an impending nerve injury. The sensitivity and specificity of SSEP were 75% and 
+
+94%, while EMG sensitivity was unacceptably low at 20% although specificity was 93%. 10 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","M AN AG EM EN T O F N E R V E IN JU R Y   
+
+Facial Nerve: Once there is iatrogenic facial paralysis, it is recommended to re-explore as early 
+
+as possible, provided adequate facilities (experienced otologist and well-equipped operation 
+
+theater) are available. Facial nerve exploration surgery is often necessary to restore facial nerve 
+
+functions. The indications and the timing of exploration surgery are sometimes controversial. In 
+
+general, facial nerve exploration by means of decompression with or without restoration of the 
+
+continuity of the nerve is performed when there is immediate complete facial nerve injury after 
+
+mastoidectomy or parotid surgery. However, when the palsy is incomplete, a wait -and -see 
+
+policy is generally indicated. The final results depend on the extent of the injury. If there is a 
+
+total transaction with gap requiring cable nerve grafting, then the results are less than optimum, 
+
+with significant synkinesis. A greater auricular nerve graft may be done, because of its close 
+
+proximity to the operative site and because of ease of harvesting. If anatomical continuity is 
+
+maintained, the results are good with minimum synkinesis. 3, 11 
+
+Recurrent Laryngeal Nerve: The treatment methods include the medicines (neurotrophic 
+
+medicines, glucocorticoids and vasodilators); ultrashort wave 
+
+therapy, acupuncture and 
+
+moxibustion and others; voice training, vocal cord injection and others; reinnervation methods 
+
+of the unilateral RLN injury (including RLN decompression, end to end anastomosis of RLN, 
+
+main branch of ansa cervicalis to RLN anastomosis, 
+
+implantation of ansa cervicalis-nerve 
+
+muscular pedicle. 12 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An accurate, reliable and safe device that allows for the continuous identification and functional 
+
+integrity of the nerve to allow 
+
+for the same dissection 
+
+including the use of heat based 
+
+instrumentation during any head and neck surgery. 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be accurate and precise identifying and localizing the nerve 
+
+Must be very sensitive and specific (no/minimal false positives and false negatives) 
+
+Must allow for the monitoring of the functional integrity of the nerve 
+
+Must not in any way impede the surgeon's view or compromise the surgical field 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be applicable in other similar procedures where an iatrogenic injury is possible  
+
+Must be easy to use 
+
+Must be able to identify neural and vascular tissue 
+
+Must be portable enough to be shifted to different operation theatres 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+50 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+","R E F E R EN C E S :  
+
+1. 
+
+Complications in Head and Neck Surgery, Pratemesh Pai. Otorhinolaryngology Clinics, Jan – 
+
+April 2010 ; 2(1) 61-67 
+
+2. 
+
+Facial nerve monitoring in parotid surgery: The standard of care? Robert L. Witt, MD, FACS 
+
+3. Otolaryngology–Head and Neck Surgery  Vol 119, Issue 5, pp. 468 – 470 
+
+4. Kumar, Rakesh, et al. ""Iatrogenic facial nerve palsy"" Prevention is better than cure"": Analysis 
+
+of four cases."" Indian Journal of Otology 17.4 (2011): 170. 
+
+5. 
+
+Zidan, Mohammed Fatehy, and Ahmed Abdou Moustafa. ""Laryngeal Nerves Monitoring 
+
+Versus Non-monitoring in Thyroid Surgery."" Egyptian Journal of Hospital Medicine (June 
+
+2010) 39: 249-259. 
+
+6. 
+
+Eisele, David W., Steven 
+
+J. Wang, and Lisa A. Orloff. ""Electrophysiologic 
+
+facial nerve 
+
+monitoring during parotidectomy."" Head & neck 32.3 (2010): 399-405. 
+
+7. Hohman, Marc H., Prabhat K. Bhama, and Tessa A. Hadlock. ""Epidemiology of iatrogenic 
+
+facial nerve injury: a decade of experience."" The Laryngoscope 124.1 (2014): 260-265. 
+
+8. 
+
+Loyo, Myriam, Ralph P. Tufano, and Christine G. Gourin. ""National trends in thyroid surgery 
+
+and the effect of volume on short‐term outcomes."" The Laryngoscope 123.8 (2013): 2056-
+
+2063. 
+
+9. Guntinas-Lichius and Schaitkin, Facial Nerve Disorders and Diseases: Diagnosis and 
+
+Management (ISBN 978-3-13-175181-2) 
+
+10. O’Regan, Barry, Girish Bharadwaj, and Andrew Elders. ""Techniques for dissection of the 
+
+facial nerve in benign parotid surgery: a cross specialty survey of oral and maxillofacial and 
+
+ear nose and 
+
+throat 
+
+surgeons 
+
+in 
+
+the UK."" British 
+
+Journal of Oral and Maxillofacial 
+
+Surgery 46.7 (2008): 564-566. 
+
+11. Porat, Manny, et al. ""Neurophysiologic monitoring can predict iatrogenic injury during 
+
+acetabular and pelvic fracture fixation."" HSS Journal® 9.3 (2013): 218-222. 
+
+12. Asma, Asma, et al. ""Iatrogenic facial nerve palsy: lessons to learn."" Singapore Med J 50.12 
+
+(2009): 1154-1157. 
+
+13. Jiang, Yan, et al. ""Prevention and treatment of recurrent laryngeal nerve injury in thyroid 
+
+surgery."" International journal of clinical and experimental medicine 7.1 (2014): 101. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","9 . E SO PHAG EA L VAR I C EA L B L E ED ING 
+
+BA C K GROUN D 
+
+Chronic liver disease is prevalent worldwide irrespective of age, sex, region or race. Cirrhosis is 
+
+an end result of a variety of liver diseases characterized by fibrosis and architectural distortion 
+
+of the liver and can have varied clinical manifestations and complications. According to WHO, 
+
+about 46% of global diseases and 59% of the mortality is because of chronic diseases and 
+
+almost 35 million people in the world die of chronic diseases. Liver disease rates are steadily 
+
+increasing over the years. 1 
+
+Global prevalence of cirrhosis from autopsy studies ranges from 4.5% to 9.5% of the general 
+
+population that would equate to more than 50 million people in the world. Globally, alcohol, 
+
+NASH, and viral hepatitis currently are the most common causative factors. Prevalence of 
+
+cirrhosis is likely to be underestimated as almost a third of the patients remain asymptomatic.. 
+
+Deaths from cirrhosis have been estimated to increase and would make it as the 12th leading 
+
+cause of death in 2020. 1 
+
+Gastroesophageal varices are the most relevant portosystemic collaterals because of their 
+
+rupture results in variceal hemorrhage, the most common lethal complication of cirrhosis. 
+
+Gastroesophageal varices are present in approximately 50% of patients with cirrhosis. Their 
+
+presence correlates with the severity of liver disease. 2 
+
+Patients without varices develop them at a rate of 8% per year. Variceal hemorrhage occurs at a 
+
+yearly rate of 5–15% and the most important predictor of hemorrhage is the size of varices, 
+
+with the highest risk of first hemorrhage (15% per year) occurring in patients with large varices. 
+
+Although bleeding from esophageal varices ceases spontaneously in up to 40% of patients, and 
+
+despite improvements in therapy over the last decade, it is associated with a mortali ty of at 
+
+least 20% at 6 weeks. 
+
+O B S E R V A T I ON 
+
+A 45-year-old female who was a known case of hepatitis C presented with melena (blood in 
+
+stools) and 3 episodes of haematemesis (blood in vomitus) for one day. She had mild distention 
+
+& diffuse tenderness of the abdomen. The patient was diagnosed with Decompensated liver 
+
+disease with upper gastrointestinal bleeding due to ruptured esophageal varices. A 
+
+large 
+
+quantity of blood was drained through her nasogastric tube on lavage. The blood pressure was 
+
+100/50 and the pulse rate was 130 beats per minute despite IV fluid replacement and blood 
+
+transfusion was advised. The patient was transfused with 3 pints of blood and was shifted for 
+
+emergency variceal banding. Variceal banding was attempted and 3 bands were applied but 
+
+were eventually discarded due to excessive bleeding due to lack of visibility and sclerotherapy 
+
+was done instead. Following sclerotherapy, an esophageal ulcer developed post-op supposedly 
+
+due to mucosal involvement during banding. 
+
+T H E PRO B L EM  
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","Current 
+
+therapies 
+
+for 
+
+the management 
+
+of 
+
+varices/variceal hemorrhage 
+
+are multifold. 
+
+Pharmacological therapy consists of splanchnic vasoconstrictors (vasopressin and analogues, 
+
+somatostatin and analogues, nonselective β-blockers) and vasodilators (nitrates) which help in 
+
+reducing the size of varices. 2 
+
+However, 
+
+acute 
+
+esophageal 
+
+variceal bleeding 
+
+is 
+
+an 
+
+intractable 
+
+complication of portal 
+
+hypertension. Endoscopic therapies, such as sclerotherapy or endoscopic variceal ligation (EVL), 
+
+are local therapies that have no effect on either portal flow or resistance. Shunting therapy, 
+
+either radiological (transjugular intrahepatic portosystemic shunt) or surgical, by bypassing the 
+
+site of increased resistance, markedly reduces portal pressure by bypassing the site of increased 
+
+resistance. 2 
+
+Endoscopic injection sclerotherapy (EIS) has been gradually applied to the management of 
+
+esophageal variceal bleeding since the mid-1970s. EIS performed as the first effective measure 
+
+proved to be superior to vasoconstrictors or balloon tamponade 
+
+in the control of acute 
+
+esophageal variceal bleeding. However, EIS is associated with some complications such as 
+
+adverse pulmonary and renal effects, esophageal ulceration, stricture, perforation, and death. 
+
+Complications occur in up to 40% of patients, and treatment-related death in 1% to 2%. 3 
+
+Endoscopic variceal ligation (EVL) was introduced in 1986 and is now considered the treatment 
+
+of choice for esophageal variceal bleeding. EVL requires placement of an opaque cylinder in 
+
+front of the endoscope, rubber bands are placed around varices through the flexible endoscope 
+
+which 
+
+is used to visualize the vessels. This therapy 
+
+is affected by the endoscopic vision. 
+
+Visualization is very important for treatment in a patient with esophageal variceal bleeding, and 
+
+maybe more impaired when treating by EVL.  In theory, this purely mechanical method of 
+
+obliterating varices should produce no systemic sequelae, and since the quantity of tissue 
+
+ligated is limited by the design of the device, it should also result in few complications involving 
+
+the esophageal wall. The 
+
+incidence of complications, such as pneumonia and esophageal 
+
+stricture is low. Now EVL has been gradually adopted to substitute for EIS in the treatment of 
+
+esophageal variceal bleeding. 3 
+
+However re-bleeding rate in both procedures in high, The overall rebleeding rate in the EVL 
+
+group of these studies was 21.7%, while the rebleeding rate in the EIS group was 33.1%. 3 
+
+N E ED S T A T EM ENT 
+
+A safer and more effective way to manage actively bleeding esophageal varices (compared to 
+
+endoscopic banding and endoscopic injection sclerotherapy) to prevent complications such as 
+
+strictures, ulcers, perforations, and re-bleeding. 
+
+F I L T E R IN G 
+
+Final score = 8 
+
+Rank = 9 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","M AR K E T PO T EN T I A L 
+
+Epidemiology: 
+
+ The Global prevalence of Cirrhosis ranges between 4.5 -9.5%.1 Using an 
+
+average of the two figures and considering an Indian population of 1,300,000,000 we could 
+
+assume 
+
+that 
+
+the probable prevalence of 
+
+cirrhosis due 
+
+to any 
+
+causes 
+
+is 91,000,000. 
+
+Gastroesophageal varices are present in approximately 50% of patients with cirrhosis according 
+
+to guidelines by the American College of Gastroenterology which we could use to infer that  
+
+45,500,000 Indians have varices and are at risk of developing active variceal bleeding.2 The ACG 
+
+also mentions that variceal hemorrhage occurs at a yearly rate of 5–15%.2 Using an average of 
+
+10% that would mean that there are approximately 4,550,000 cases in any given year in India. 
+
+Most of 
+
+these patients would require pharmacological and/or endoscopic management. 
+
+However re-bleeding rate in these procedures in high, The overall rebleeding rate in the EVL is 
+
+21.7%, while the rebleeding rate in the EIS group is 33.1% according to a meta-analysis.3  
+
+In an 11 center city in India, Mukerjee et. al. found that  1.28% of all patients attending the 
+
+eleven participating hospitals of India had 
+
+liver disease. Of these, 33.9% presented with 
+
+decompensated cirrhosis which speaks of the high prevalence of chronic liver disease in India.4 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS OF M ANAG ING ESOPHAGEAL V AR ICES 1 
+
+Preventive Measures 2 
+
+ 
+
+Screening esophagogastroduodenoscopy (EGD): EGD is recommended for the diagnosis 
+
+of esophageal and gastric varices is recommended when the diagnosis of cirrhosis is made. 
+
+Size of the of varices and the presence or absence of red signs (red wale marks or red spots) 
+
+on varices should be noted. 
+
+ 
+
+Pharmaceutical: Beta-blockers may be used   
+
+Management of Active Variceal bleeding 2 
+
+ 
+
+Supportive therapy: Acute GI hemorrhage in a patient with cirrhosis is an emergency that 
+
+requires prompt attention with intravascular volume support and blood transfusions, being 
+
+careful to maintain a hemoglobin of ~8 g/dL 
+
+ 
+
+Pharmacological 
+
+therapy: Somatostatin or 
+
+its analogues octreotide and vapreotide; 
+
+terlipressin should be initiated as soon as variceal hemorrhage is suspected and continued 
+
+for 3–5 days after diagnosis is confirmed. 
+
+ 
+
+Esophagogastroduodenoscopy (EGD): EGD is performed within 12 hours and used to 
+
+make a diagnosis as well as to treat variceal hemorrhage, either with endoscopic variceal 
+
+ligation or injection sclerotherapy. 
+
+ 
+
+Transjugular intrahepatic portosystemic shunt (TIPS): TIPS is indicated in patients in 
+
+whom hemorrhage from esophageal varices cannot be controlled or in whom bleeding 
+
+recurs despite combined pharmacological and endoscopic therapy 
+
+ 
+
+Balloon tamponade: This should be used as a temporizing measure (maximum 24 hours) 
+
+in patients with uncontrollable bleeding for whom a more definitive therapy (e.g., TIPS or 
+
+endoscopic therapy) is planned 
+
+Combination of pharmacological therapy and endoscopic therapy is the most rational approach 
+
+in the treatment of acute variceal hemorrhage. The use of pharmacological agents with few side 
+
+effects allows prolonging therapy to 5 days, the period during which the risk of rebleeding is the 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+","highest. A meta-analysis of 8 
+
+trials showed 
+
+that compared 
+
+to endoscopic 
+
+therapy alone 
+
+(sclerotherapy or EVL), endoscopic plus pharmacological (octreotide, somatostatin, vapreotide) 
+
+therapy improved the initial control of bleeding and 5-day hemostasis without differences in 
+
+mortality or severe adverse events. Despite urgent endoscopic and/or pharmacological therapy, 
+
+variceal bleeding cannot be controlled or recurs early in about 10–20% of patients. 2 
+
+AD V AN C E S IN T H E M AN A G EM EN T O F E S O PH AG E A L V AR I C E A L M A N AG EM EN T 
+
+Transnasal endoscopy: A multi-center prospective blinded 
+
+study evaluated 
+
+transnasal 
+
+endoscopy with a flexible 
+
+imaging color enhancement to assess 50 patients. The analysis 
+
+showed that the technique was at least as good as conventional EGD at detecting varices and 
+
+patients preferred it to standard EGD and was found to be better tolerated. 5 
+
+Capsule endoscopy: A recent systematic review and structured meta-analysis evaluated the 
+
+efficacy of capsule endoscopy for screening oesophageal varices. Not considered sensitive 
+
+enough to screen for varcies compared to the standard EGD. 5 
+
+Transient elastography (TE): TE is a non-invasive technique that can derive a value for tissue 
+
+stiffness based on the speed of propagation of low-frequency ultrasound. It has been shown to 
+
+have a high sensitivity for predicting severe portal hypertension but is associated with a large 
+
+variation in specificity. 5 
+
+Self-expandable, oesophageal covered metal stents (SX-ELLA Danis): These stents offer an 
+
+alternative 
+
+to balloon 
+
+tamponade. These are placed endoscopically, without radiological 
+
+guidance; they are removable and can be left in place for up to 2 weeks. 5 
+
+Endoscopic ultrasound-guided angiotherapy: Provides real-time visualization that allows 
+
+improved access and selective obliteration of bleeding varices, is under investigation. 6 
+
+Esophageal venous pressure measurement system: Using optics combined with automatic 
+
+control and computer real-time image detection technology, a novel noninvasive method of 
+
+noncontact pressure manometry was developed based on the airflow and 
+
+laser detection 
+
+technology in this study. 7 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An effective, safe, quick and affordable solution that can prevent the development of acute 
+
+variceal hemorrhage or arrest the bleeding without complications including, but not limited to, 
+
+strictures, ulcers, perforations, and re-bleeding. 
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"," 
+
+Allows for localization of the varices in 3 dimensions to gauge distention and thickness of 
+
+walls 
+
+ 
+
+Must be able to act immediately to arrest bleeding or at least within a few hours if combined 
+
+with pharmacological agents 
+
+ 
+
+ 
+
+Should not cause any mucosal damage, injury or infection in the esophagus 
+
+Should ideally not lead to re-bleeding episodes 
+
+N I C E T O HA V E 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Should be integrated with the existing gastroenterology set up 
+
+Should be affordable  
+
+Should lead to the eradication of esophageal varices 
+
+Should be applicable for all upper gastrointestinal bleeds including esophageal and gastric 
+
+varices 
+
+R E F E R EN C E S :  
+
+1. Global Burden Of Liver Disease: A True Burden on Health Sciences and Economies. World 
+
+Gastroenterology 
+
+Organization. 
+
+Accessed 
+
+21/8/2018 
+
+http://www.worldgastroenterology.org/publications/e-wgn/e-wgn-expert-point-of-view-
+
+articles-collection/global-burden-of-liver-disease-a-true-burden-on-health-sciences-and-
+
+economies  
+
+2. American 
+
+College 
+
+of Gastroenterology Guidelines 
+
+Prevention 
+
+and Management 
+
+of 
+
+Gastroesophageal Varices and Variceal Hemorrhage 
+
+in Cirrhosis. Accessed 21/8/2018 
+
+https://gi.org/guideline/prevention-and-management-of-gastroesophageal-varices-and-
+
+variceal-hemorrhage-in-cirrhosis/  
+
+3. Dai, Cong, et al. 
+
+""Endoscopic variceal 
+
+ligation 
+
+compared with endoscopic 
+
+injection 
+
+sclerotherapy for treatment of esophageal variceal hemorrhage: a meta-analysis."" World 
+
+Journal of Gastroenterology: WJG 21.8 (2015): 2534. 
+
+4. Mukherjee, Partha S., et al. ""Etiology and mode of presentation of chronic liver diseases in 
+
+India: A multi centric study."" PloS one 12.10 (2017): e0187033. 
+
+5. Haq, Ihteshamul, and Dhiraj Tripathi. ""Recent advances in the management of variceal 
+
+bleeding."" Gastroenterology report5.2 (2017): 113-126. 
+
+6. 
+
+Ibrahim, Mostafa, Ibrahim Mostafa, and Jacques Devière. ""New developments in managing 
+
+variceal bleeding."" Gastroenterology 154.7 (2018): 1964-1969. 
+
+7. Hu, Chenghuan, et al. ""A study on new method of noninvasive esophageal venous pressure 
+
+measurement based on the airflow and laser detection technology."" Bio-medical materials 
+
+and engineering 26.s1 (2015): S413-S422. 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+","10 . I N C ID E NT A L ENT ER O TOM Y 
+
+BA C K GROUN D 
+
+Bowel injury is the third cause of death from a laparoscopic procedure after major vascular 
+
+injury and anesthesia.  Unlike major vascular injuries where the risk and presentation are 
+
+immediate, many bowel injuries go unrecognized at the time of the procedure. 1 
+
+Overall, bowel injury is a rare complication of laparoscopic surgery. In a recent retrospective 
+
+analysis of 13 laparoscopic series in general surgery, gynecology, and urology, 266 bowel 
+
+complications occurred in a total of 205,969 cases. This corresponds to a combined incidence of 
+
+0.13%. However, gynecologic procedures accounted for more than 50% and urologic cases for 
+
+only 0.44% of the total volume of this review. In the urologic literature, slightly higher incidence 
+
+rates between 0.2% and 1.3% are reported. This fact is most likely attributable to the higher 
+
+number of complex surgical cases (e.g., 
+
+laparoscopic radical prostatectomy, 
+
+laparoscopic 
+
+RPLND) included in the urologic series. The most commonly injured part of the intestine is the 
+
+small bowel followed by the colon and the rarely injured stomach. Injuries of the duodenum are 
+
+the most serious bowel complications of laparoscopic surgery as they are associated with the 
+
+highest morbidity and mortality rates. 2 
+
+Inadvertent enterotomy potentially 
+
+is a 
+
+lethal complication of 
+
+laparoscopic surgery. Even 
+
+though no deaths were reported at our institution, death from inadvertent enterotomy is not 
+
+uncommon. Van der Voort et al found that the mortality rate associated with intestinal injury 
+
+during laparoscopy was 3.6%. 3 
+
+O B S E R V A T I ON 
+
+A 50 year male with a renal mass in the left kidney. Initial pneumoperitoneum achieved at the 
+
+umbilicus. The initial 10-mm trocar is placed under vision at or near the umbilicus. Subsequent 
+
+trocars placed under vision with the 10-mm laparoscope in the umbilical trocar. A 5- to 12-mm 
+
+trocar placed lateral to the umbilical port at the edge of the left rectus abdominus muscle. 
+
+Finally, a 
+
+third 5-mm 
+
+trocar 
+
+is placed midway between 
+
+the xiphoid and 
+
+the umbilicus. 
+
+Mobilization of colon and peritoneum. Plane bluntly dissected by dividing 
+
+the colorenal 
+
+ligaments. Duodenum rolled medially to identify the inferior vena cava. Ureter and gonadal vein 
+
+identified and both the lower pole of the kidney and the renal hilum identified. The lower pole 
+
+dissection was performed. After ureter and gonadal vein were secured and the inferior pole of 
+
+the kidney is dissected the renal hilar was dissected. The plane between the adrenal gland and 
+
+the superior pole of the kidney were bluntly dissected. The ureter was divided. During 
+
+dissection, the small bowel was damaged with the cautery and the procedure was converted to 
+
+an open procedure for closure of the bowel injury. The patient remained in the ward without 
+
+incident before being discharged on post-op day 8 
+
+T H E PRO B L EM  
+
+Early recognition is very 
+
+important for all types of 
+
+laparoscopic complications, for bowel 
+
+injuries, however, it is probably most crucial. In this case, a time delay can turn a minor 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+57 
+
+ 
+ 
+ 
+ 
+","intraoperative problem into a life-threatening condition. Roughly two out of three intestinal 
+
+lesions that occur during laparoscopy are only diagnosed postoperatively and up to one out of 
+
+four patients with delayed presentation of a bowel lesion dies as a result of the complication. 2 
+
+The bowel can basically be harmed by any kind of sharp or blunt instrument. Given the limited 
+
+field of view inherent to laparoscopic surgery, such an injury can easily go unnoticed.  
+
+Entry into the abdomen itself can cause injuries. A large survey of nearly 37,000 gynecologic 
+
+laparoscopies in the US revealed a 0.16% incidence of bowel injury. 39.8% of vascular and 
+
+intestinal injuries were caused by the Veress needle, 37.9% by insertion of the primary trocar 
+
+and 22% by the insertion of the secondary trocar. 1 
+
+Manipulation with instruments outside this field (e.g., during instrument changes) is prone to 
+
+an inadvertent violation of bowel and other intraabdominal structures. If a lesion cannot be 
+
+seen directly, free intestinal contents are proof of a bowel laceration. Additionally, the escape of 
+
+a fecal smell through an opened port valve must lead to a search for a bowel injury. If such a 
+
+lesion is strongly suspected, the whole bowel has to be inspected meticulously, since moving 
+
+small bowel 
+
+loops and the greater omentum tends to hide an intestinal 
+
+lesion. Even the 
+
+spontaneous temporary closure of such defects has been reported. Furthermore, the possibility 
+
+of two or more concomitant injuries has to be taken into consideration. Electrocautery-induced 
+
+thermal damage is the single most frequent origin of bowel injury during laparoscopic surgery. 
+
+In a review article, this form accounted for 50% of all bowel lesions. Typically, this injury is 
+
+missed intraoperatively because of the delayed breakdown of the intestinal wall. So again it is 
+
+the surgeon's knowledge of possible mechanisms of electrosurgical injury combined with a high 
+
+index of suspicion throughout the entire procedure that can lead to the detection of as yet 
+
+invisible bowel lesions. The four mechanisms of electrocautery-induced thermal damage during 
+
+laparoscopic surgery are 
+
+inappropriate direct activation of the electrocautery, coupling to 
+
+another instrument, insulation failure, and capacitive coupling. The typical situation where 
+
+capacitive 
+
+coupling 
+
+can occur 
+
+is when an 
+
+insulated active electrode 
+
+(e.g., monopolar 
+
+laparoscopic scissors) is introduced through a metal cannula. Through an electrostatic field that 
+
+is created between the active electrode and the cannula, the current in the electrode can induce 
+
+a current in the cannula. 2 
+
+N E ED S T A T EM ENT 
+
+A safer way to allow safe and complete dissection within the abdominal cavity without 
+
+damaging the bowel such that complications such as peritonitis, sepsis, conversion to open 
+
+surgery and mortality are avoided. 
+
+F I L T E R IN G 
+
+Final score = 8 
+
+Rank = 10 
+
+M AR K E T PO T EN T I A L 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+58 
+
+ 
+ 
+ 
+ 
+","In one of the largest surveys on gynecologic laparoscopies, incidence of bowel injury was found 
+
+to be 0.16% in 37,000 cases. 39.8% of vascular and intestinal injuries were caused by the Veress 
+
+needle, 37.9% by insertion of the primary trocar and 22% by the insertion of the secondary 
+
+trocar. 1 
+
+Out of 18 million minimal access surgeries a year, if we assume that 60% are laparoscopic 
+
+surgeries of the abdomen and pelvis and using the 0.16% injury rate in literature, it would 
+
+entail  that17,280 of accidental enterotomy occur in a year. 
+
+C OM P E T I T I V E LAN D S C A P E 
+
+CURRENT METHODS USED FOR PREVENT ION OF IN C IDENTAL ENTEROSTOMY 
+
+Prevention of bowel injuries during urologic laparoscopic surgery seems to be difficult since 
+
+experienced laparoscopic surgeons are reported to cause an equal rate of intraoperative bowel 
+
+lesions as inexperienced surgeons.  
+
+Pre-operative preparations: Routine use of a nasogastric tube to empty the stomach reduces 
+
+the risk of injury to the stomach. Also, preoperative bowel preparation may reduce inadvertent 
+
+intestinal 
+
+trauma by 
+
+increasing 
+
+intraperitoneal 
+
+free 
+
+space and by 
+
+facilitating operative 
+
+maneuvers.  
+
+Abdominal entry: Especially for the inexperienced laparoscopic surgeon and assistant, it is 
+
+advisable to introduce any new instrument under direct visual control in order to prevent 
+
+inadvertent bowel injury outside the field of view. Likewise, a laparoscopic instrument that is 
+
+not in use must always be removed from the patient.  
+
+Electrothermal trauma: All laparoscopic instruments must be checked for insulation damage 
+
+prior to their use. Bipolar electrocautery should be used whenever possible and all diathermy 
+
+must be avoided close to the bowel. Monopolar electrocautery should not be used to take down 
+
+bowel adhesions. The lowest possible power setting should be used at all times. The electric 
+
+energy should only be activated when the entire active part of the instrument is visualized and 
+
+the tip of the instrument is in contact with the target. To prevent duodenal injury in right-sided 
+
+renal or adrenal procedures, the medial reflection of the duodenum by the Kocher maneuver 
+
+must be performed using blunt and sharp dissection only. The use of thermal energy must be 
+
+strictly avoided during this step of the procedure.  
+
+Innovative instruments: Devices such as Ligasure, which uses a high-current low-voltage 
+
+output, or the Harmonic Scalpel, which uses ultrasonic energy for both cutting and coagulation, 
+
+minimize the spread of thermal energy and thereby may reduce the risk of inadvertent bowel 
+
+injury. 
+
+High-risk patients: Extensive adhesiolysis must be considered an advanced 
+
+laparoscopic 
+
+procedure and it should, therefore, remain in the hands of the experienced endoscopic surgeon. 
+
+Alternatively, 
+
+in 
+
+patients with 
+
+prior 
+
+abdominal 
+
+surgery 
+
+and/or 
+
+radiation 
+
+therapy, 
+
+a 
+
+retroperitoneoscopic 
+
+approach may 
+
+be 
+
+considered. 
+
+It 
+
+has 
+
+recently 
+
+been 
+
+shown 
+
+that 
+
+retroperitoneoscopic renal and adrenal surgery can be performed in these patients without 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+59 
+
+ 
+ 
+ 
+ 
+","increasing 
+
+the perioperative morbidity 
+
+or 
+
+the 
+
+convalescence. However, 
+
+intraoperative 
+
+orientation can be very difficult in case a surgeon is unfamiliar with retroperitoneoscopy and 
+
+bowel complications have also been reported with this approach. In a prospective randomized 
+
+comparison of transperitoneal vs 
+
+laparoscopic radical nephrectomy in the general patient 
+
+population, no significant difference in bowel complications was found. 
+
+M AN AG EM EN T O F IN C ID E N T A L EN T E RO S T OM Y   
+
+Once 
+
+an 
+
+intestinal 
+
+injury 
+
+is 
+
+recognized 
+
+intraoperatively, 
+
+it 
+
+can 
+
+be 
+
+safely managed 
+
+laparoscopically in most cases. However, if there is any question as to the integrity of the repair 
+
+or if the patient had prior radiation therapy, open repair and consultation of a general surgeon 
+
+should be considered. The laceration should be oversewn in one or two layers if small bowel is 
+
+involved. Lesions of the colon and the rectum should always be closed in two layers. In simple 
+
+lesions, it is usually not necessary to resect the injured bowel segment. It is advisable to 
+
+oversew also small serosal abrasions since these minor lesions can cause major postoperative 
+
+complications if they are left unattended during the initial laparoscopic procedure. Immediate 
+
+repair of a bowel injury does not require intestinal diversion even if the rectum is involved, and 
+
+it usually does not have a significant impact on the postoperative course and the length of 
+
+hospital stay. 
+
+The management of electrothermal injuries of the bowel differs to some extent from the 
+
+management of simple lacerations. If a thermal injury is caused by bipolar electrocautery, it may 
+
+be excised and the bowel wall defect may be simply closed as long as the lesion is small in 
+
+diameter. 
+
+If more than half of the circumference of the bowel segment 
+
+is 
+
+involved, the 
+
+respective segment needs to be resected and an end-to-end anastomosis should be performed. 
+
+In injuries that are caused by monopolar electrocautery, on the other hand, the extension of the 
+
+tissue damage is typically underestimated. Therefore, any monopolar electrothermal lesion 
+
+necessitates resection and end-to-end anastomosis of the involved bowel segment. Additionally, 
+
+a safety margin of several centimeters on either side of the injury should be resected before the 
+
+completion of the end-to-end anastomosis. 
+
+Again, all these steps may be performed laparoscopically by the highly experienced endoscopic 
+
+surgeon. Considering the high morbidity of postoperative intestinal complications, a surgeon 
+
+who does not feel absolutely confident with advanced laparoscopic bowel surgery is strongly 
+
+advised to convert to an open procedure or consult a general surgeon. 2 
+
+ID E A L S O LU T I ON S T A T E M EN T 
+
+An accurate, reliable and safe device that allows for the real-time localization and monitoring of 
+
+the location of the bowel loops and alerts the surgeon in case of a breach especially when the 
+
+field of surgery has bleeding, fat, scar tissue and adhesions.  
+
+N E ED C R I T E R I A 
+
+MU S T HA V E 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+60 
+
+ 
+ 
+ 
+ 
+ 
+"," 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Must be accurate and precise identifying and bowel loops 
+
+Must be very sensitive and specific (no/minimal false positives and false negatives) 
+
+Must not cause damage to the bowel itself 
+
+Must not in any way impede the surgeon's view or compromise the surgical field 
+
+Must alert the surgeon in case of a breach so it can be addressed intra-operatively 
+
+N I C E T O HA V E 
+
+ 
+
+Must be applicable to other organs where an iatrogenic injury is possible such as the 
+
+bladder, ureter, common bile duct etc. 
+
+Must be easy to use 
+
+Must be able to identify neural and vascular tissue as well 
+
+Must be portable enough to be shifted to different operation theatres 
+
+Must be affordable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R E F E R EN C E S :  
+
+1. Krishnakumar, S., and P. Tambe. ""Entry complications in laparoscopic surgery."" Journal of 
+
+gynecological endoscopy and surgery 1.1 (2009): 4. 
+
+2. Muntener, Michael & Romero, Frederico & R. Kavoussi, Louis. (2006). Complications in 
+
+Laparoscopic Surgery. Emergencies in Urology. 349-363. 10.1007/978-3-540-48605-3_28. 
+
+3. 
+
+van der Voort M. Bowel injury as a complication of laparoscopy. Br J Surg. 2004; 91 (10): 
+
+1253–1258 
+
+11/23/18 Need Specification Documents – Minimal Access Surgery 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
